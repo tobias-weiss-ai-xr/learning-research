@@ -1,0 +1,116 @@
+
+================================================================================
+INSTRUCTOR NOTES - LEARN-TO-LEARN WORKSHOP
+================================================================================
+
+TIMING GUIDE
+------------
+Day 1:
+  Module 1: Science of Memory (90 min)
+    - Lecture: 45 min
+    - Exercise: 15 min
+    - Discussion: 30 min
+  
+  Module 2: Active vs. Passive (90 min)
+    - Lecture: 40 min
+    - Exercise: 25 min
+    - Discussion: 25 min
+  
+  Module 3: Cognitive Load (90 min)
+    - Lecture: 35 min
+    - Exercise: 20 min
+    - Discussion: 35 min
+
+Day 2:
+  Module 4: SRS Systems (90 min)
+    - Lecture: 35 min
+    - Exercise: 30 min
+    - Q&A: 25 min
+  
+  Module 5: Adaptive Learning (90 min)
+    - Lecture: 35 min
+    - Exercise: 30 min
+    - Discussion: 25 min
+  
+  Module 6: Motivation (90 min)
+    - Lecture: 35 min
+    - Exercise: 25 min
+    - Discussion: 30 min
+  
+  Module 7: Putting Together (90 min)
+    - Exercise: 45 min
+    - Presentations: 30 min
+    - Closing: 15 min
+
+KEY TALKING POINTS
+------------------
+Module 1:
+• Emphasize 4±1 working memory limit
+• Show forgetting curve graph
+• Demonstrate chunking with exercise
+
+Module 2:
+• Share personal example of testing effect
+• Show before/after quiz scores
+• Emphasize struggle = learning
+
+Module 3:
+• Help participants identify their distractions
+• Show examples of good vs. bad design
+• Practice dual-coding together
+
+Module 4:
+• Install Anki together (if possible)
+• Create cards in real-time
+• Set up daily review schedule
+
+Module 5:
+• Discuss prior knowledge assessment
+• Show adaptive difficulty examples
+• Map learning pathways together
+
+Module 6:
+• Discuss SDT components
+• Help design personal habits
+• Connect to larger purpose
+
+Module 7:
+• Review all components
+• Ensure commitment contracts signed
+• Set up accountability check-ins
+
+COMMON QUESTIONS
+----------------
+Q: "I don't have time for SRS"
+A: Start with 5 minutes/day. Better than nothing.
+
+Q: "Is this just for memorization?"
+A: No, applies to all learning. Understanding requires memory.
+
+Q: "What if I miss a day?"
+A: Don't panic. Just continue. Consistency > perfection.
+
+Q: "How long until I see results?"
+A: 2-4 weeks for habit, 3 months for measurable improvement.
+
+Q: "Which SRS tool is best?"
+A: Anki for power, RemNote for notes, paper for simplicity.
+
+TROUBLESHOOTING
+---------------
+• Participants overwhelmed → Focus on 1-2 principles first
+• Low engagement → More exercises, less lecture
+• Technical issues → Have paper backup
+• Time running out → Prioritize Modules 1, 2, 4, 7
+
+SUCCESS METRICS
+---------------
+• Participants create SRS deck with 10+ cards
+• Everyone designs learning habit
+• Commitment contracts signed
+• Accountability partners assigned
+• 30-day follow-up scheduled
+
+================================================================================
+© 2026 KI-Kompetenz-Training | Tobias Weiss | ki-kompetenz-training.org
+================================================================================

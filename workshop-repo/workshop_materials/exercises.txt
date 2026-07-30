@@ -1,0 +1,171 @@
+
+================================================================================
+WORKSHOP EXERCISES
+================================================================================
+
+EXERCISE 1: Memory Chunking (15 min)
+-------------------------------------
+Task: Memorize these 16 items
+
+Strategy A: All at once (2 min)
+Strategy B: Chunk into 4 groups (2 min)
+
+Items:
+apple  book   car    dog
+egg    fish   grape  house
+ice    juice  kite   lamp
+moon   nest   orange piano
+
+Test yourself after 5 minutes:
+1. ________________  6. ________________  11. ________________
+2. ________________  7. ________________  12. ________________
+3. ________________  8. ________________  13. ________________
+4. ________________  9. ________________  14. ________________
+5. ________________  10. _______________  15. ________________
+                        16. ________________
+
+Score: ___/16
+
+
+EXERCISE 2: Active Recall Practice (20 min)
+--------------------------------------------
+Read this short passage (2 min):
+
+"Spaced repetition is a learning technique that incorporates increasing 
+intervals of time between reviews of previously learned material to exploit 
+the psychological spacing effect. The technique relies on the sequencing of 
+review sessions based on the strength of each memory trace."
+
+Now, without looking at the passage, answer:
+
+1. What is spaced repetition?
+_______________________________________________________________
+
+2. What does it incorporate?
+_______________________________________________________________
+
+3. What psychological effect does it exploit?
+_______________________________________________________________
+
+4. What does the technique rely on?
+_______________________________________________________________
+
+Compare with original. How many did you get right? ___/4
+
+
+EXERCISE 3: SRS Card Creation (30 min)
+---------------------------------------
+Create 10 high-quality flashcards for your current learning
+
+Card 1:
+Front: _________________________________________________
+Back:  _________________________________________________
+Tags:  _________________________________________________
+
+Card 2:
+Front: _________________________________________________
+Back:  _________________________________________________
+Tags:  _________________________________________________
+
+[Continue for 10 cards...]
+
+
+EXERCISE 4: Learning Environment Audit (15 min)
+------------------------------------------------
+Rate your current learning environment:
+
+Distraction Level (1-5):
+• Phone notifications: ___
+• Browser tabs open: ___  
+• Background noise: ___
+• Multitasking tendency: ___
+
+Top 3 distractions to remove:
+1. _________________________________________________
+2. _________________________________________________
+3. _________________________________________________
+
+Action plan for this week:
+_______________________________________________________________
+
+
+EXERCISE 5: Habit Design (20 min)
+----------------------------------
+Design your daily learning habit using the formula:
+
+WHEN [existing habit], I will [new learning behavior]
+THEN I will [reward]
+
+Example:
+WHEN I finish morning coffee, I will review SRS cards (10 min)
+THEN I check off on my calendar and enjoy my coffee
+
+Your habit:
+WHEN _________________________________________________
+I will _______________________________________________
+THEN _________________________________________________
+
+Start date: _______________
+
+
+EXERCISE 6: Learning Pathway Mapping (25 min)
+----------------------------------------------
+Goal: What do you want to learn?
+_______________________________________________________________
+
+Current state: Where are you now?
+_______________________________________________________________
+
+Prerequisites: What do you need first?
+_______________________________________________________________
+
+Milestones: How will you know you're progressing?
+_______________________________________________________________
+
+Timeline: When do you want to achieve this?
+_______________________________________________________________
+
+Resources: What materials/tools will you use?
+_______________________________________________________________
+
+
+EXERCISE 7: 90-Day Implementation Plan (20 min)
+------------------------------------------------
+Month 1 - Foundation:
+Week 1: _________________________________________________
+Week 2: _________________________________________________
+Week 3: _________________________________________________
+Week 4: _________________________________________________
+
+Month 2 - Enhancement:
+Focus: _________________________________________________
+Metrics: _______________________________________________
+
+Month 3 - Optimization:
+Optimization: __________________________________________
+Scaling: _______________________________________________
+
+
+EXERCISE 8: Accountability Contract (10 min)
+---------------------------------------------
+My Learning Goal:
+_______________________________________________________________
+
+My System:
+_______________________________________________________________
+
+My Timeline:
+_______________________________________________________________
+
+My Accountability Partner:
+Name: ___________________  Email: ___________________
+
+I commit to this learning journey.
+
+Signature: ___________________  Date: _______________
+
+Share with your accountability partner today!
+
+================================================================================
+© 2026 KI-Kompetenz-Training | Tobias Weiss | ki-kompetenz-training.org
+================================================================================

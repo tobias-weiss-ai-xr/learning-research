@@ -1,0 +1,25 @@
+# Private workshop repository
+# This repository should be kept private
+
+# Generated files (can be regenerated)
+*.pyc
+__pycache__/
+*.pyo
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.local

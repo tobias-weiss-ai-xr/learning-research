@@ -1,0 +1,130 @@
+
+SLIDE 1: LEARN-TO-LEARN WORKSHOP
+==================================================
+Evidence-Based Learning Mastery
+
+
+  • Based on 13,204 research papers
+  • 20 academic disciplines
+  • 62 years of research
+  • 
+  • Tobias Weiss | KI-Kompetenz-Training
+
+
+SLIDE 2: WORKSHOP GOALS
+==================================================
+
+  • ✓ Understand how memory and learning work
+  • ✓ Apply spaced repetition to your learning
+  • ✓ Design effective study sessions
+  • ✓ Implement adaptive learning strategies
+  • ✓ Build personal learning systems
+
+
+SLIDE 3: THE 7 EVIDENCE-BASED PRINCIPLES
+==================================================
+
+  • 1. Spaced Repetition (1,732 papers)
+  • 2. Active Recall (1,732 papers)
+  • 3. Cognitive Load (162 papers)
+  • 4. Adaptive Personalization (4,495 papers)
+  • 5. Immediate Feedback (926 papers)
+  • 6. Motivation Design (848 papers)
+  • 7. Social Learning (562 papers)
+
+
+SLIDE 4: PRINCIPLE 1: SPACED REPETITION
+==================================================
+
+  • KEY FINDING: 70% forgotten within 24 hours
+  • 
+  • Optimal intervals:
+  •   • Day 1: Initial learning
+  •   • Day 3: First review
+  •   • Day 7: Second review
+  •   • Day 14: Third review
+  •   • Day 30: Fourth review
+  •   • Day 90: Final review
+
+
+SLIDE 5: PRINCIPLE 2: ACTIVE RECALL
+==================================================
+
+  • KEY FINDING: Testing strengthens memory 2-3x
+  • 
+  • DO:
+  •   ✓ Test yourself before you feel ready
+  •   ✓ Hide answers and force retrieval
+  •   ✓ Embrace the struggle
+  • 
+  • DON'T:
+  •   ✗ Just re-read content
+  •   ✗ Highlight without processing
+
+
+SLIDE 6: PRINCIPLE 3: COGNITIVE LOAD
+==================================================
+
+  • KEY FINDING: Working memory holds ~4±1 items
+  • 
+  • Strategies:
+  •   • Chunk into groups of 4-7
+  •   • Eliminate distractions
+  •   • Use dual-coding (visual + text)
+  •   • Progressive disclosure
+
+
+SLIDE 7: YOUR TURN: Chunking Exercise
+==================================================
+
+  • Memorize this list (2 min):
+  • 
+  • apple  book   car    dog
+  • egg    fish   grape  house
+  • ice    juice  kite   lamp
+  • moon   nest   orange piano
+  • 
+  • Strategy 1: All 16 at once
+  • Strategy 2: Chunk into groups of 4
+  • 
+  • Which was easier? Why?
+
+
+SLIDE 8: SPACED REPETITION IN PRACTICE
+==================================================
+
+  • Tools:
+  •   • Anki (free, powerful)
+  •   • RemNote (notes + SRS)
+  •   • Paper cards (simple)
+  • 
+  • Daily routine:
+  •   • 10-30 minutes
+  •   • Same time each day
+  •   • Don't let reviews pile up
+
+
+SLIDE 9: BUILD YOUR HABIT
+==================================================
+
+  • Habit Formula:
+  • 
+  • WHEN [trigger], I will [action]
+  • THEN I will [reward]
+  • 
+  • Example:
+  • WHEN I finish morning coffee,
+  • I will review SRS cards (10 min)
+  • THEN I check off on calendar
+
+
+SLIDE 10: NEXT STEPS
+==================================================
+
+  • 1. Set up your SRS today
+  • 2. Create 10 cards for current learning
+  • 3. Schedule daily reviews
+  • 4. Find accountability partner
+  • 5. Start the 90-day plan
+  • 
+  • Remember: Consistency > Intensity
