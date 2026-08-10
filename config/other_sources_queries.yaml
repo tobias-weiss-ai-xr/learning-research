@@ -1,0 +1,202 @@
+# Multi-source queries for learning science research
+# Focus: psychology/neuroscience/education journals — content that rarely appears on arXiv
+
+# ── Memory science (Springer/Elsevier-heavy) ──
+- source: crossref
+  query: working memory cognitive survey
+  category: memory-science
+  subcategory_hint: review
+- source: europepmc
+  query: episodic memory neuroscience
+  category: memory-science
+  subcategory_hint: theory
+- source: crossref
+  query: long-term memory consolidation
+  category: memory-science
+  subcategory_hint: theory
+- source: dblp
+  query: memory model cognitive architecture
+  category: memory-science
+  subcategory_hint: method
+
+# ── Language learning ──
+- source: europepmc
+  query: language acquisition survey
+  category: language
+  subcategory_hint: review
+- source: crossref
+  query: bilingual language learning
+  category: language
+  subcategory_hint: application
+- source: europepmc
+  query: second language acquisition neural
+  category: language
+  subcategory_hint: mechanism
+
+# ── Cognitive science ──
+- source: crossref
+  query: cognitive science survey
+  category: cognitive-science
+  subcategory_hint: review
+- source: europepmc
+  query: decision making cognitive
+  category: cognitive-science
+  subcategory_hint: theory
+- source: dblp
+  query: cognitive architecture survey
+  category: cognitive-science
+  subcategory_hint: review
+
+# ── Education ──
+- source: crossref
+  query: educational technology AI survey
+  category: education
+  subcategory_hint: review
+- source: europepmc
+  query: adaptive learning system
+  category: education
+  subcategory_hint: development
+- source: crossref
+  query: intelligent tutoring system survey
+  category: education
+  subcategory_hint: review
+
+# ── Neuroscience ──
+- source: europepmc
+  query: neuroscience learning plasticity
+  category: neuroscience
+  subcategory_hint: theory
+- source: crossref
+  query: computational neuroscience survey
+  category: neuroscience
+  subcategory_hint: review
+- source: europepmc
+  query: synaptic plasticity review
+  category: neuroscience
+  subcategory_hint: theory
+
+# ── Social learning ──
+- source: crossref
+  query: social learning theory survey
+  category: social-learning
+  subcategory_hint: review
+- source: europepmc
+  query: observational learning social
+  category: social-learning
+  subcategory_hint: theory
+
+# ── Educational psychology ──
+- source: crossref
+  query: educational psychology learning
+  category: educational-psychology
+  subcategory_hint: review
+- source: europepmc
+  query: motivation learning achievement
+  category: educational-psychology
+  subcategory_hint: theory
+
+# ── Behavioral ──
+- source: crossref
+  query: behavioral learning theory survey
+  category: behavioral
+  subcategory_hint: review
+- source: europepmc
+  query: operant conditioning reinforcement
+  category: behavioral
+  subcategory_hint: theory
+
+# ── Animal learning ──
+- source: europepmc
+  query: animal learning cognition
+  category: animal-learning
+  subcategory_hint: theory
+- source: crossref
+  query: comparative cognition animal
+  category: animal-learning
+  subcategory_hint: review
+
+# ── Motor learning ──
+- source: europepmc
+  query: motor learning neuroplasticity
+  category: motor
+  subcategory_hint: mechanism
+- source: crossref
+  query: motor skill acquisition
+  category: motor
+  subcategory_hint: theory
+
+# ── Evolutionary ──
+- source: crossref
+  query: evolutionary learning algorithm
+  category: evolutionary
+  subcategory_hint: method
+- source: dblp
+  query: genetic algorithm optimization
+  category: evolutionary
+  subcategory_hint: method
+
+# ── Neuromorphic ──
+- source: crossref
+  query: neuromorphic computing survey
+  category: neuromorphic
+  subcategory_hint: review
+- source: dblp
+  query: spiking neural network survey
+  category: neuromorphic
+  subcategory_hint: review
+
+# ── Philosophy of mind ──
+- source: crossref
+  query: consciousness learning cognition
+  category: philosophy-of-mind
+  subcategory_hint: theory
+
+# ── Collective ──
+- source: crossref
+  query: collective intelligence swarm
+  category: collective
+  subcategory_hint: theory
+- source: dblp
+  query: swarm intelligence optimization
+  category: collective
+  subcategory_hint: method
+
+# ── Perceptual ──
+- source: europepmc
+  query: perceptual learning visual
+  category: perceptual
+  subcategory_hint: theory
+- source: crossref
+  query: perceptual expertise
+  category: perceptual
+  subcategory_hint: application
+
+# ── Creative ──
+- source: crossref
+  query: creative thinking cognition
+  category: creative
+  subcategory_hint: theory
+- source: europepmc
+  query: creativity neural mechanism
+  category: creative
+  subcategory_hint: mechanism
+
+# ── Emotion ──
+- source: europepmc
+  query: emotional learning amygdala
+  category: emotion
+  subcategory_hint: mechanism
+- source: crossref
+  query: affective learning survey
+  category: emotion
+  subcategory_hint: review
+
+# ── ML (general, huge — just a few review queries) ──
+- source: crossref
+  query: machine learning survey comprehensive
+  category: machine-learning
+  subcategory_hint: review
+- source: dblp
+  query: deep learning review
+  category: machine-learning
+  subcategory_hint: review

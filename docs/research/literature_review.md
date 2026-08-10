@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-08-07  
-**Corpus:** 13,204 papers across 20 categories
+**Generated:** 2026-08-10  
+**Corpus:** 13,618 papers across 20 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,17 +11,17 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Machine Learning | 1513 |
-| 2 | Memory Science | 1159 |
-| 3 | Language | 1048 |
-| 4 | Collective | 991 |
-| 5 | Cognitive Science | 890 |
-| 6 | Education | 877 |
+| 1 | Machine Learning | 1521 |
+| 2 | Memory Science | 1197 |
+| 3 | Language | 1078 |
+| 4 | Collective | 1020 |
+| 5 | Cognitive Science | 919 |
+| 6 | Education | 907 |
 | 7 | Health | 875 |
-| 8 | Neuroscience | 683 |
+| 8 | Neuroscience | 712 |
 
-**Time span:** 1897–None (median year 2010)
-**Dominant aspects:** Theory (6904), Method (3161), Mechanism (1019)
+**Time span:** 1897–None (median year 2005)
+**Dominant aspects:** Theory (7042), Method (3221), Mechanism (1058)
 
 ---
 
@@ -30,7 +30,7 @@
 
 ### Machine Learning (`machine-learning`)
 
-**Corpus size:** 1513 papers
+**Corpus size:** 1521 papers
 
 **Recent papers:**
 
@@ -42,7 +42,7 @@
 
 ### Memory Science (`memory-science`)
 
-**Corpus size:** 1159 papers
+**Corpus size:** 1197 papers
 
 **Recent papers:**
 
@@ -54,7 +54,7 @@
 
 ### Language (`language`)
 
-**Corpus size:** 1048 papers
+**Corpus size:** 1078 papers
 
 **Recent papers:**
 
@@ -66,7 +66,7 @@
 
 ### Collective (`collective`)
 
-**Corpus size:** 991 papers
+**Corpus size:** 1020 papers
 
 **Recent papers:**
 
@@ -78,7 +78,7 @@
 
 ### Cognitive Science (`cognitive-science`)
 
-**Corpus size:** 890 papers
+**Corpus size:** 919 papers
 
 **Recent papers:**
 
@@ -90,7 +90,7 @@
 
 ### Education (`education`)
 
-**Corpus size:** 877 papers
+**Corpus size:** 907 papers
 
 **Recent papers:**
 
@@ -114,7 +114,7 @@
 
 ### Neuroscience (`neuroscience`)
 
-**Corpus size:** 683 papers
+**Corpus size:** 712 papers
 
 **Recent papers:**
 
@@ -126,7 +126,7 @@
 
 ### Neuromorphic (`neuromorphic`)
 
-**Corpus size:** 572 papers
+**Corpus size:** 600 papers
 
 **Recent papers:**
 
@@ -136,21 +136,9 @@
 
 ---
 
-### Social Learning (`social-learning`)
-
-**Corpus size:** 562 papers
-
-**Recent papers:**
-
-- [2026-07] The Price of Hidden Curvature: An $\widetildeΩ (d^{5/4} \sqrt{T})$ Lower Bound for Bandit Conve — https://arxiv.org/abs/2607.18652
-- [2026-07] Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition — https://arxiv.org/abs/2607.18737
-- [2026-07] Zing: Social Mind for LLMs — https://arxiv.org/abs/2607.23740
-
----
-
 ### Educational Psychology (`educational-psychology`)
 
-**Corpus size:** 561 papers
+**Corpus size:** 581 papers
 
 **Recent papers:**
 
@@ -160,9 +148,21 @@
 
 ---
 
+### Social Learning (`social-learning`)
+
+**Corpus size:** 578 papers
+
+**Recent papers:**
+
+- [2026-07] The Price of Hidden Curvature: An $\widetildeΩ (d^{5/4} \sqrt{T})$ Lower Bound for Bandit Conve — https://arxiv.org/abs/2607.18652
+- [2026-07] Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition — https://arxiv.org/abs/2607.18737
+- [2026-07] Zing: Social Mind for LLMs — https://arxiv.org/abs/2607.23740
+
+---
+
 ### Behavioral (`behavioral`)
 
-**Corpus size:** 549 papers
+**Corpus size:** 568 papers
 
 **Recent papers:**
 
@@ -174,7 +174,7 @@
 
 ### Animal Learning (`animal-learning`)
 
-**Corpus size:** 462 papers
+**Corpus size:** 482 papers
 
 **Recent papers:**
 
@@ -186,7 +186,7 @@
 
 ### Motor (`motor`)
 
-**Corpus size:** 418 papers
+**Corpus size:** 437 papers
 
 **Recent papers:**
 
@@ -198,13 +198,25 @@
 
 ### Evolutionary (`evolutionary`)
 
-**Corpus size:** 380 papers
+**Corpus size:** 410 papers
 
 **Recent papers:**
 
 - [None] Genetic correlations of avian personality traits: correlated response to artificial selection — https://www.semanticscholar.org/paper/2824af38c9c354de9e236503dfb82b61520179a3
 - [2026-07] A Neural Network model of Cultural Evolution — https://arxiv.org/abs/2607.24886
 - [2026-07] SPyCE: Skill-Policy Co-evolution for Multimodal Agents — https://arxiv.org/abs/2607.13854
+
+---
+
+### Creative (`creative`)
+
+**Corpus size:** 386 papers
+
+**Recent papers:**
+
+- [2026-07] Can an AI System Be Creative? A Critical Perspective from Art and Engineering — https://arxiv.org/abs/2607.20796
+- [2026-07] A Preliminary Study on the Impact of AI in the Creativity and Collaboration in Software Teams — https://arxiv.org/abs/2607.16744
+- [2026-07] Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing — https://arxiv.org/abs/2607.06721
 
 ---
 
@@ -222,7 +234,7 @@
 
 ### Philosophy Of Mind (`philosophy-of-mind`)
 
-**Corpus size:** 368 papers
+**Corpus size:** 378 papers
 
 **Recent papers:**
 
@@ -232,21 +244,9 @@
 
 ---
 
-### Creative (`creative`)
-
-**Corpus size:** 366 papers
-
-**Recent papers:**
-
-- [2026-07] Can an AI System Be Creative? A Critical Perspective from Art and Engineering — https://arxiv.org/abs/2607.20796
-- [2026-07] A Preliminary Study on the Impact of AI in the Creativity and Collaboration in Software Teams — https://arxiv.org/abs/2607.16744
-- [2026-07] Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing — https://arxiv.org/abs/2607.06721
-
----
-
 ### Perceptual (`perceptual`)
 
-**Corpus size:** 336 papers
+**Corpus size:** 355 papers
 
 **Recent papers:**
 
@@ -258,7 +258,7 @@
 
 ### Emotion (`emotion`)
 
-**Corpus size:** 215 papers
+**Corpus size:** 235 papers
 
 **Recent papers:**
 
