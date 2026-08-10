@@ -1,6 +1,11 @@
 # Article Topics (auto-generated)
 
 
+## 
+
+Evidence-based topic: 1637 curated papers, 1637 in the last 12 months.
+
+
 ## Machine Learning
 
 Evidence-based topic: 1521 curated papers, 525 in the last 12 months.
@@ -44,8 +49,3 @@ Evidence-based topic: 712 curated papers, 340 in the last 12 months.
 ## Neuromorphic
 
 Evidence-based topic: 600 curated papers, 275 in the last 12 months.
-
-
-## Educational Psychology
-
-Evidence-based topic: 581 curated papers, 350 in the last 12 months.

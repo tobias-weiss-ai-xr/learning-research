@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-08-10  
-**Corpus:** 13,618 papers across 20 categories
+**Generated:** 2026-08-11  
+**Corpus:** 15,255 papers across 21 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,22 +11,68 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Machine Learning | 1521 |
-| 2 | Memory Science | 1197 |
-| 3 | Language | 1078 |
-| 4 | Collective | 1020 |
-| 5 | Cognitive Science | 919 |
-| 6 | Education | 907 |
-| 7 | Health | 875 |
-| 8 | Neuroscience | 712 |
+| 1 |  | 1637 |
+| 2 | Machine Learning | 1521 |
+| 3 | Memory Science | 1197 |
+| 4 | Language | 1078 |
+| 5 | Collective | 1020 |
+| 6 | Cognitive Science | 919 |
+| 7 | Education | 907 |
+| 8 | Health | 875 |
 
 **Time span:** 1897–None (median year 2005)
-**Dominant aspects:** Theory (7042), Method (3221), Mechanism (1058)
+**Dominant aspects:** Theory (7042), Method (3221),  (1637)
+
+---
+
+## 📈 Research Momentum (Last 12 Months)
+
+| Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
+|----------|------:|---------:|----------:|-------:|----------:|----------:|
+| Evolutionary | 410 | 141 | 63 | +124% | 34% | 11.8 |
+| Memory Science | 1197 | 510 | 251 | +103% | 43% | 42.5 |
+| Behavioral | 568 | 254 | 130 | +95% | 45% | 21.2 |
+| Motor | 437 | 181 | 103 | +76% | 41% | 15.1 |
+|  | 1637 | 1637 | 0 | — | 100% | 136.4 |
+| Emotion | 235 | 80 | 51 | +57% | 34% | 6.7 |
+| Philosophy Of Mind | 378 | 137 | 95 | +44% | 36% | 11.4 |
+| Educational Psychology | 581 | 235 | 171 | +37% | 40% | 19.6 |
+| Language | 1078 | 334 | 230 | +45% | 31% | 27.8 |
+| Collective | 1020 | 342 | 255 | +34% | 34% | 28.5 |
+| Education | 907 | 333 | 256 | +30% | 37% | 27.8 |
+| Cognitive Science | 919 | 344 | 285 | +21% | 37% | 28.7 |
+
+---
+
+## 🕳️ Research Gaps (Thinnest Cells)
+
+| Cell | Papers |
+|------|--------:|
+| `behavioral/individual-differences` | 1 |
+| `behavioral/development` | 1 |
+| `social-learning/individual-differences` | 1 |
+| `motor/individual-differences` | 1 |
+| `creative/development` | 1 |
+| `machine-learning/individual-differences` | 1 |
+| `evolutionary/development` | 1 |
+| `philosophy-of-mind/individual-differences` | 1 |
 
 ---
 
 
 ## Category Insights
+
+###  (``)
+
+**Corpus size:** 1637 papers
+
+**Recent papers:**
+
+- [2026-08] Imprecise Belief Fusion Improves Multi-agent Social Learning — https://arxiv.org/abs/2608.01367v1
+- [2026-08] MA-HEAD-Net: Adaptive Rule-Guided Multi-Agent DRL for AoI Minimization in UAV-Assisted Emergenc — https://arxiv.org/abs/2608.01128v1
+- [2026-08] PATH-Bench: Path-Dependent Evaluation of Lifelong Agents — https://arxiv.org/abs/2608.01149v1
+
+---
 
 ### Machine Learning (`machine-learning`)
 

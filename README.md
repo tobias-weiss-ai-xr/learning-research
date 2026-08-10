@@ -301,7 +301,7 @@ This will demonstrate the SRS algorithm and save state to `srs_state.json`.
 
 ## 🙏 Acknowledgments
 
-This research corpus represents 62 years of learning science research, synthesized from 13,204 papers across 20 academic disciplines to create a comprehensive foundation for evidence-based learning platform design.
+This research corpus represents 62 years of learning science research, synthesized from 15,255 papers across 20 academic disciplines to create a comprehensive foundation for evidence-based learning platform design.
 
 ---
 

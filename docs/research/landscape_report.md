@@ -1,43 +1,45 @@
 # Paper Landscape Report
 
-**Generated:** 2026-08-10  
-**Corpus:** 13,618 papers (1897-None) | 12,915 arXiv preprints · 703 journal/publisher records
+**Generated:** 2026-08-11  
+**Corpus:** 15,255 papers (1897-None) | 14,552 arXiv preprints · 703 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-| Machine Learning | 1521 | 356 | 169 | -53% | 7% |
-| Memory Science | 1197 | 327 | 344 | +5% | 11% |
-| Language | 1078 | 249 | 211 | -15% | 7% |
-| Collective | 1020 | 309 | 200 | -35% | 8% |
-| Cognitive Science | 919 | 345 | 216 | -37% | 8% |
-| Education | 907 | 300 | 189 | -37% | 7% |
-| Health | 875 | 301 | 171 | -43% | 7% |
-| Neuroscience | 712 | 209 | 131 | -37% | 5% |
-| Neuromorphic | 600 | 173 | 102 | -41% | 4% |
-| Educational Psychology | 581 | 188 | 162 | -14% | 5% |
-| Social Learning | 578 | 159 | 96 | -40% | 4% |
-| Behavioral | 568 | 151 | 179 | +19% | 6% |
-| Animal Learning | 482 | 112 | 71 | -37% | 3% |
-| Motor | 437 | 129 | 121 | -6% | 4% |
-| Evolutionary | 410 | 86 | 93 | +8% | 3% |
-| Creative | 386 | 103 | 92 | -11% | 3% |
+|  | 1637 | 0 | 1637 | +0% | 26% |
+| Machine Learning | 1521 | 356 | 169 | -53% | 5% |
+| Memory Science | 1197 | 327 | 344 | +5% | 8% |
+| Language | 1078 | 249 | 211 | -15% | 5% |
+| Collective | 1020 | 309 | 200 | -35% | 6% |
+| Cognitive Science | 919 | 345 | 216 | -37% | 6% |
+| Education | 907 | 300 | 189 | -37% | 5% |
+| Health | 875 | 301 | 171 | -43% | 5% |
+| Neuroscience | 712 | 209 | 131 | -37% | 4% |
+| Neuromorphic | 600 | 173 | 102 | -41% | 3% |
+| Educational Psychology | 581 | 188 | 162 | -14% | 4% |
+| Social Learning | 578 | 159 | 96 | -40% | 3% |
+| Behavioral | 568 | 151 | 179 | +19% | 4% |
+| Animal Learning | 482 | 112 | 71 | -37% | 2% |
+| Motor | 437 | 129 | 121 | -6% | 3% |
+| Evolutionary | 410 | 86 | 93 | +8% | 2% |
+| Creative | 386 | 103 | 92 | -11% | 2% |
 | Developmental | 379 | 130 | 69 | -47% | 2% |
-| Philosophy Of Mind | 378 | 105 | 82 | -22% | 3% |
-| Perceptual | 355 | 110 | 63 | -43% | 3% |
-| Emotion | 235 | 55 | 54 | -2% | 2% |
+| Philosophy Of Mind | 378 | 105 | 82 | -22% | 2% |
+| Perceptual | 355 | 110 | 63 | -43% | 2% |
+| Emotion | 235 | 55 | 54 | -2% | 1% |
 
 ## Research Aspects
 
-- **Application**: 547 papers (4%) ##
+- ****: 1637 papers (11%) #####
+- **Application**: 547 papers (4%) #
 - **Development**: 470 papers (3%) #
-- **Individual Differences**: 349 papers (3%) #
-- **Mechanism**: 1058 papers (8%) ###
-- **Method**: 3221 papers (24%) ###########
-- **Review**: 361 papers (3%) #
-- **Technology**: 570 papers (4%) ##
-- **Theory**: 7042 papers (52%) #########################
+- **Individual Differences**: 349 papers (2%) #
+- **Mechanism**: 1058 papers (7%) ###
+- **Method**: 3221 papers (21%) ##########
+- **Review**: 361 papers (2%) #
+- **Technology**: 570 papers (4%) #
+- **Theory**: 7042 papers (46%) #######################
 
 ## Year Trend
 
@@ -87,25 +89,25 @@
 | 2023 | 2553 |
 | 2024 | 3146 |
 | 2025 | 3897 |
-| 2026 | 2815 |
+| 2026 | 4452 |
 | None | 7 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| agentic | 153 | 187 | 2.44× |
-| retrieval | 289 | 527 | 1.63× |
-| embodied | 129 | 237 | 1.62× |
-| world model | 86 | 160 | 1.6× |
-| scalable | 381 | 731 | 1.55× |
-| uncertainty | 207 | 428 | 1.44× |
-| multimodal | 313 | 666 | 1.4× |
-| benchmark | 896 | 1922 | 1.39× |
-| multi-agent | 275 | 599 | 1.37× |
-| hierarchical | 195 | 438 | 1.33× |
-| agent | 896 | 2020 | 1.32× |
-| causal | 154 | 351 | 1.31× |
+| agentic | 202 | 236 | 2.1× |
+| retrieval | 371 | 609 | 1.5× |
+| scalable | 542 | 892 | 1.49× |
+| world model | 114 | 188 | 1.49× |
+| uncertainty | 317 | 538 | 1.45× |
+| embodied | 148 | 256 | 1.42× |
+| benchmark | 1348 | 2374 | 1.4× |
+| transfer | 689 | 1277 | 1.33× |
+| multimodal | 416 | 769 | 1.33× |
+| hierarchical | 285 | 528 | 1.33× |
+| multi-agent | 373 | 697 | 1.32× |
+| language model | 1288 | 2535 | 1.25× |
 
 ## Top Venues
 
@@ -139,6 +141,7 @@
 
 ## Hottest Cells
 
+- `/` — 1637
 - `memory-science/theory` — 904
 - `machine-learning/method` — 778
 - `health/theory` — 704
@@ -148,7 +151,6 @@
 - `cognitive-science/theory` — 520
 - `education/theory` — 431
 - `educational-psychology/theory` — 413
-- `language/method` — 361
 
 ## Thin Cells (White Space)
 
