@@ -10,13 +10,13 @@
 
 ## 🎯 Overview
 
-This repository contains the research corpus and implementation tools for transforming learning platforms using evidence-based principles from **13,204 academic papers**.
+This repository contains the research corpus and implementation tools for transforming learning platforms using evidence-based principles from **17,165 academic papers**.
 
 ### Research Scope
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 13,204 |
+| **Papers Analyzed** | 17,165 |
 | **Academic Disciplines** | 20 |
 | **Time Span** | 1964-2026 |
 | **Research Aspects** | 8 |
