@@ -1,6 +1,6 @@
 # Learning Research Corpus
 
-**Evidence-based learning platform implementation** — Analysis of 13,204 research papers across 20 academic disciplines.
+**Evidence-based learning platform implementation** — Analysis of 17,165 research papers across 20 academic disciplines.
 
 **Author:** Tobias Weiss  
 **Contact:** ki-kompetenz-training@tobias-weiss.org  
