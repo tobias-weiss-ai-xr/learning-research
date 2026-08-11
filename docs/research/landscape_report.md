@@ -1,45 +1,45 @@
 # Paper Landscape Report
 
 **Generated:** 2026-08-11  
-**Corpus:** 15,255 papers (1897-None) | 14,552 arXiv preprints · 703 journal/publisher records
+**Corpus:** 17,165 papers (1897-None) | 16,462 arXiv preprints · 703 journal/publisher records
 
 ## Category Landscape
 
 | Category | Total | Prev Yr | This Yr | YoY | 12m Share |
 |----------|------:|--------:|--------:|----:|----------:|
-|  | 1637 | 0 | 1637 | +0% | 26% |
-| Machine Learning | 1521 | 356 | 169 | -53% | 5% |
-| Memory Science | 1197 | 327 | 344 | +5% | 8% |
-| Language | 1078 | 249 | 211 | -15% | 5% |
-| Collective | 1020 | 309 | 200 | -35% | 6% |
-| Cognitive Science | 919 | 345 | 216 | -37% | 6% |
-| Education | 907 | 300 | 189 | -37% | 5% |
-| Health | 875 | 301 | 171 | -43% | 5% |
-| Neuroscience | 712 | 209 | 131 | -37% | 4% |
-| Neuromorphic | 600 | 173 | 102 | -41% | 3% |
-| Educational Psychology | 581 | 188 | 162 | -14% | 4% |
-| Social Learning | 578 | 159 | 96 | -40% | 3% |
-| Behavioral | 568 | 151 | 179 | +19% | 4% |
+|  | 3547 | 0 | 3547 | +0% | 44% |
+| Machine Learning | 1521 | 356 | 169 | -53% | 4% |
+| Memory Science | 1197 | 327 | 344 | +5% | 6% |
+| Language | 1078 | 249 | 211 | -15% | 4% |
+| Collective | 1020 | 309 | 200 | -35% | 4% |
+| Cognitive Science | 919 | 345 | 216 | -37% | 4% |
+| Education | 907 | 300 | 189 | -37% | 4% |
+| Health | 875 | 301 | 171 | -43% | 4% |
+| Neuroscience | 712 | 209 | 131 | -37% | 3% |
+| Neuromorphic | 600 | 173 | 102 | -41% | 2% |
+| Educational Psychology | 581 | 188 | 162 | -14% | 3% |
+| Social Learning | 578 | 159 | 96 | -40% | 2% |
+| Behavioral | 568 | 151 | 179 | +19% | 3% |
 | Animal Learning | 482 | 112 | 71 | -37% | 2% |
-| Motor | 437 | 129 | 121 | -6% | 3% |
+| Motor | 437 | 129 | 121 | -6% | 2% |
 | Evolutionary | 410 | 86 | 93 | +8% | 2% |
 | Creative | 386 | 103 | 92 | -11% | 2% |
-| Developmental | 379 | 130 | 69 | -47% | 2% |
+| Developmental | 379 | 130 | 69 | -47% | 1% |
 | Philosophy Of Mind | 378 | 105 | 82 | -22% | 2% |
-| Perceptual | 355 | 110 | 63 | -43% | 2% |
+| Perceptual | 355 | 110 | 63 | -43% | 1% |
 | Emotion | 235 | 55 | 54 | -2% | 1% |
 
 ## Research Aspects
 
-- ****: 1637 papers (11%) #####
-- **Application**: 547 papers (4%) #
+- ****: 3547 papers (21%) ##########
+- **Application**: 547 papers (3%) #
 - **Development**: 470 papers (3%) #
 - **Individual Differences**: 349 papers (2%) #
-- **Mechanism**: 1058 papers (7%) ###
-- **Method**: 3221 papers (21%) ##########
+- **Mechanism**: 1058 papers (6%) ###
+- **Method**: 3221 papers (19%) #########
 - **Review**: 361 papers (2%) #
-- **Technology**: 570 papers (4%) #
-- **Theory**: 7042 papers (46%) #######################
+- **Technology**: 570 papers (3%) #
+- **Theory**: 7042 papers (41%) ####################
 
 ## Year Trend
 
@@ -89,25 +89,25 @@
 | 2023 | 2553 |
 | 2024 | 3146 |
 | 2025 | 3897 |
-| 2026 | 4452 |
+| 2026 | 6362 |
 | None | 7 |
 
 ## Emerging Themes (12-Month Bursts)
 
 | Keyword | Recent | Total | Burst |
 |---------|-------:|------:|------:|
-| agentic | 202 | 236 | 2.1× |
-| retrieval | 371 | 609 | 1.5× |
-| scalable | 542 | 892 | 1.49× |
-| world model | 114 | 188 | 1.49× |
-| uncertainty | 317 | 538 | 1.45× |
-| embodied | 148 | 256 | 1.42× |
-| benchmark | 1348 | 2374 | 1.4× |
-| transfer | 689 | 1277 | 1.33× |
-| multimodal | 416 | 769 | 1.33× |
-| hierarchical | 285 | 528 | 1.33× |
-| multi-agent | 373 | 697 | 1.32× |
-| language model | 1288 | 2535 | 1.25× |
+| agentic | 283 | 317 | 1.89× |
+| world model | 260 | 334 | 1.65× |
+| retrieval | 485 | 723 | 1.42× |
+| scalable | 663 | 1013 | 1.38× |
+| uncertainty | 414 | 635 | 1.38× |
+| benchmark | 1885 | 2911 | 1.37× |
+| embodied | 198 | 306 | 1.37× |
+| multimodal | 593 | 946 | 1.33× |
+| multi-agent | 532 | 856 | 1.31× |
+| hierarchical | 385 | 628 | 1.3× |
+| transfer | 881 | 1469 | 1.27× |
+| diffusion | 317 | 533 | 1.26× |
 
 ## Top Venues
 
@@ -141,7 +141,7 @@
 
 ## Hottest Cells
 
-- `/` — 1637
+- `/` — 3547
 - `memory-science/theory` — 904
 - `machine-learning/method` — 778
 - `health/theory` — 704

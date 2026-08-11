@@ -3,7 +3,7 @@
 
 ## 
 
-Evidence-based topic: 1637 curated papers, 1637 in the last 12 months.
+Evidence-based topic: 3547 curated papers, 3547 in the last 12 months.
 
 
 ## Machine Learning

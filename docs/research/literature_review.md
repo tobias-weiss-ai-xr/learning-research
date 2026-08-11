@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-08-11  
-**Corpus:** 15,255 papers across 21 categories
+**Corpus:** 17,165 papers across 21 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,7 +11,7 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 |  | 1637 |
+| 1 |  | 3547 |
 | 2 | Machine Learning | 1521 |
 | 3 | Memory Science | 1197 |
 | 4 | Language | 1078 |
@@ -21,7 +21,7 @@
 | 8 | Health | 875 |
 
 **Time span:** 1897–None (median year 2005)
-**Dominant aspects:** Theory (7042), Method (3221),  (1637)
+**Dominant aspects:** Theory (7042),  (3547), Method (3221)
 
 ---
 
@@ -33,7 +33,7 @@
 | Memory Science | 1197 | 510 | 251 | +103% | 43% | 42.5 |
 | Behavioral | 568 | 254 | 130 | +95% | 45% | 21.2 |
 | Motor | 437 | 181 | 103 | +76% | 41% | 15.1 |
-|  | 1637 | 1637 | 0 | — | 100% | 136.4 |
+|  | 3547 | 3547 | 0 | — | 100% | 295.6 |
 | Emotion | 235 | 80 | 51 | +57% | 34% | 6.7 |
 | Philosophy Of Mind | 378 | 137 | 95 | +44% | 36% | 11.4 |
 | Educational Psychology | 581 | 235 | 171 | +37% | 40% | 19.6 |
@@ -64,7 +64,7 @@
 
 ###  (``)
 
-**Corpus size:** 1637 papers
+**Corpus size:** 3547 papers
 
 **Recent papers:**
 

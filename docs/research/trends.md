@@ -1,27 +1,27 @@
 # Trends (12-Month View)
 
 **Generated:** 2026-08-11  
-**Window:** since 2025-08 — 6197 of 15255 papers
+**Window:** since 2025-08 — 8107 of 17165 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| agentic | 202 | 236 | 2.1× |
-| scalable | 542 | 892 | 1.5× |
-| retrieval | 371 | 609 | 1.5× |
-| uncertainty | 317 | 538 | 1.5× |
-| world model | 114 | 188 | 1.5× |
-| benchmark | 1348 | 2374 | 1.4× |
-| policy | 758 | 1292 | 1.4× |
-| embodied | 148 | 256 | 1.4× |
-| opponent | 15 | 26 | 1.4× |
-| language model | 1288 | 2535 | 1.3× |
-| agent | 1172 | 2296 | 1.3× |
-| optimization | 836 | 1645 | 1.3× |
-| transfer | 688 | 1277 | 1.3× |
-| reward | 531 | 976 | 1.3× |
-| multimodal | 416 | 769 | 1.3× |
+| agentic | 283 | 317 | 1.9× |
+| world model | 260 | 334 | 1.6× |
+| benchmark | 1885 | 2911 | 1.4× |
+| policy | 1051 | 1585 | 1.4× |
+| scalable | 663 | 1013 | 1.4× |
+| retrieval | 485 | 723 | 1.4× |
+| uncertainty | 414 | 635 | 1.4× |
+| embodied | 198 | 306 | 1.4× |
+| opponent | 23 | 34 | 1.4× |
+| transfer | 880 | 1469 | 1.3× |
+| reward | 733 | 1178 | 1.3× |
+| multimodal | 593 | 946 | 1.3× |
+| multi-agent | 532 | 856 | 1.3× |
+| planning | 402 | 679 | 1.3× |
+| hierarchical | 385 | 628 | 1.3× |
 
 ## 📈 Fastest-Growing Cells
 
@@ -36,7 +36,7 @@
 | `philosophy-of-mind/review` | 2 | 2 | 100% |
 | `philosophy-of-mind/individual-differences` | 1 | 1 | 100% |
 | `health/individual-differences` | 2 | 2 | 100% |
-| `/` | 1637 | 1637 | 100% |
+| `/` | 3547 | 3547 | 100% |
 | `emotion/mechanism` | 10 | 13 | 77% |
 | `evolutionary/technology` | 3 | 4 | 75% |
 | `evolutionary/application` | 9 | 12 | 75% |
