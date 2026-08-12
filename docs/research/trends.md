@@ -1,46 +1,46 @@
 # Trends (12-Month View)
 
-**Generated:** 2026-08-11  
-**Window:** since 2025-08 — 8107 of 17165 papers
+**Generated:** 2026-08-12  
+**Window:** since 2025-08 — 11013 of 26319 papers
 
 ## 🔥 Keyword Bursts
 
 | Keyword | Recent | Total | Burst |
 |---------|--------|-------|-------|
-| agentic | 283 | 317 | 1.9× |
-| world model | 260 | 334 | 1.6× |
-| benchmark | 1885 | 2911 | 1.4× |
-| policy | 1051 | 1585 | 1.4× |
-| scalable | 663 | 1013 | 1.4× |
-| retrieval | 485 | 723 | 1.4× |
-| uncertainty | 414 | 635 | 1.4× |
-| embodied | 198 | 306 | 1.4× |
-| opponent | 23 | 34 | 1.4× |
-| transfer | 880 | 1469 | 1.3× |
-| reward | 733 | 1178 | 1.3× |
-| multimodal | 593 | 946 | 1.3× |
-| multi-agent | 532 | 856 | 1.3× |
-| planning | 402 | 679 | 1.3× |
-| hierarchical | 385 | 628 | 1.3× |
+| agentic | 366 | 411 | 2.1× |
+| world model | 342 | 503 | 1.6× |
+| scalable | 950 | 1479 | 1.5× |
+| retrieval | 611 | 959 | 1.5× |
+| uncertainty | 548 | 902 | 1.5× |
+| benchmark | 2582 | 4320 | 1.4× |
+| policy | 1451 | 2394 | 1.4× |
+| reward | 980 | 1691 | 1.4× |
+| multimodal | 803 | 1363 | 1.4× |
+| multi-agent | 703 | 1232 | 1.4× |
+| hierarchical | 528 | 900 | 1.4× |
+| language model | 2373 | 4320 | 1.3× |
+| agent | 2101 | 3903 | 1.3× |
+| optimization | 1551 | 2764 | 1.3× |
+| transfer | 1212 | 2307 | 1.3× |
 
 ## 📈 Fastest-Growing Cells
 
 | Cell | Recent | Total | Recent Share |
 |------|--------|-------|--------------|
-| `behavioral/technology` | 4 | 4 | 100% |
 | `behavioral/individual-differences` | 1 | 1 | 100% |
 | `social-learning/individual-differences` | 1 | 1 | 100% |
-| `motor/development` | 2 | 2 | 100% |
-| `machine-learning/development` | 2 | 2 | 100% |
-| `evolutionary/development` | 1 | 1 | 100% |
 | `philosophy-of-mind/review` | 2 | 2 | 100% |
-| `philosophy-of-mind/individual-differences` | 1 | 1 | 100% |
-| `health/individual-differences` | 2 | 2 | 100% |
-| `/` | 3547 | 3547 | 100% |
-| `emotion/mechanism` | 10 | 13 | 77% |
-| `evolutionary/technology` | 3 | 4 | 75% |
-| `evolutionary/application` | 9 | 12 | 75% |
-| `creative/individual-differences` | 4 | 6 | 67% |
-| `memory-science/review` | 20 | 32 | 62% |
+| `/` | 4377 | 4377 | 100% |
+| `evolutionary/application` | 10 | 14 | 71% |
+| `evolutionary/development` | 2 | 3 | 67% |
+| `creative/individual-differences` | 5 | 8 | 62% |
+| `memory-science/review` | 20 | 33 | 61% |
+| `creative/mechanism` | 22 | 40 | 55% |
+| `behavioral/theory` | 197 | 394 | 50% |
+| `language/review` | 13 | 26 | 50% |
+| `emotion/mechanism` | 12 | 24 | 50% |
+| `neuromorphic/individual-differences` | 1 | 2 | 50% |
+| `animal-learning/development` | 1 | 2 | 50% |
+| `health/individual-differences` | 2 | 4 | 50% |
 
 Regenerate with `python3 tools/trend_scanner.py --months 12`.
