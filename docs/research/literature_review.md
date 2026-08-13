@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-08-13  
-**Corpus:** 28,606 papers across 21 categories
+**Corpus:** 29,018 papers across 21 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -15,13 +15,13 @@
 | 2 | Machine Learning | 5176 |
 | 3 | Cognitive Science | 2411 |
 | 4 | Language | 1500 |
-| 5 | Education | 1388 |
-| 6 | Memory Science | 1361 |
+| 5 | Memory Science | 1450 |
+| 6 | Education | 1388 |
 | 7 | Neuroscience | 1296 |
-| 8 | Collective | 1132 |
+| 8 | Collective | 1209 |
 
 **Time span:** 1897–None (median year 2005)
-**Dominant aspects:** Theory (12008), Method (6232),  (5575)
+**Dominant aspects:** Theory (12124), Method (6364),  (5575)
 
 ---
 
@@ -30,17 +30,17 @@
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
 |  | 5575 | 4440 | 1135 | +291% | 80% | 370.0 |
-| Memory Science | 1361 | 559 | 300 | +86% | 41% | 46.6 |
+| Memory Science | 1450 | 574 | 374 | +54% | 40% | 47.8 |
 | Evolutionary | 689 | 217 | 155 | +40% | 32% | 18.1 |
 | Behavioral | 907 | 324 | 251 | +29% | 36% | 27.0 |
-| Collective | 1132 | 353 | 270 | +31% | 31% | 29.4 |
 | Motor | 747 | 264 | 210 | +26% | 35% | 22.0 |
 | Animal Learning | 494 | 125 | 94 | +33% | 25% | 10.4 |
 | Educational Psychology | 784 | 289 | 240 | +20% | 37% | 24.1 |
 | Philosophy Of Mind | 544 | 175 | 148 | +18% | 32% | 14.6 |
+| Collective | 1209 | 378 | 322 | +17% | 31% | 31.5 |
 | Education | 1388 | 470 | 419 | +12% | 34% | 39.2 |
 | Cognitive Science | 2411 | 806 | 717 | +12% | 33% | 67.2 |
-| Health | 983 | 306 | 274 | +12% | 31% | 25.5 |
+| Language | 1500 | 416 | 381 | +9% | 28% | 34.7 |
 
 ---
 
@@ -52,10 +52,10 @@
 | `social-learning/individual-differences` | 1 |
 | `motor/individual-differences` | 1 |
 | `developmental/review` | 1 |
-| `perceptual/review` | 1 |
 | `developmental/individual-differences` | 2 |
 | `language/individual-differences` | 2 |
 | `machine-learning/individual-differences` | 2 |
+| `philosophy-of-mind/review` | 2 |
 
 ---
 
@@ -110,6 +110,18 @@
 
 ---
 
+### Memory Science (`memory-science`)
+
+**Corpus size:** 1450 papers
+
+**Recent papers:**
+
+- [None] Birth Order and Sibling Gender Ratio of a Clinical Sample the Effectiveness of Computerized Cog — https://www.semanticscholar.org/paper/36e943b2b3010f0883e4e971416197bd0f0d9abf
+- [2026-08] Maya-Nidra P1: A Neuromorphic Spiking Neural Network for Sleep-Phase Memory Consolidation with  — https://github.com/venky2099/Maya-Nidra-P1
+- [2026-08] Maya-Smriti: Episodic Memory as a Biological Prior for Class-Incremental Learning in Affective  — https://doi.org/10.5281/zenodo.19228974
+
+---
+
 ### Education (`education`)
 
 **Corpus size:** 1388 papers
@@ -119,18 +131,6 @@
 - [2026-08] Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Edu — https://arxiv.org/abs/2608.04006
 - [2026-08] EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners — https://arxiv.org/abs/2608.03206
 - [2026-08] Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors with the Pedagogical Suitabilit — https://arxiv.org/abs/2608.05411
-
----
-
-### Memory Science (`memory-science`)
-
-**Corpus size:** 1361 papers
-
-**Recent papers:**
-
-- [None] Birth Order and Sibling Gender Ratio of a Clinical Sample the Effectiveness of Computerized Cog — https://www.semanticscholar.org/paper/36e943b2b3010f0883e4e971416197bd0f0d9abf
-- [2026-07] Self-Review Reinforcement Learning (SRRL) with Cross-Episode Memory and Policy Distillation — https://arxiv.org/abs/2607.05541
-- [2026-07] Speculate with Memory: Lossless Acceleration for LLM Agents — https://arxiv.org/abs/2607.12236
 
 ---
 
@@ -148,7 +148,7 @@
 
 ### Collective (`collective`)
 
-**Corpus size:** 1132 papers
+**Corpus size:** 1209 papers
 
 **Recent papers:**
 
@@ -160,7 +160,7 @@
 
 ### Health (`health`)
 
-**Corpus size:** 983 papers
+**Corpus size:** 1063 papers
 
 **Recent papers:**
 
@@ -179,6 +179,18 @@
 - [2026-08] Benign interpolation and Occam's razor — https://arxiv.org/abs/2608.03386
 - [2026-08] Understanding Federated Learning Through the Lens of Mechanism Design: The Role of Data Heterog — https://arxiv.org/abs/2608.00364
 - [2026-08] Maya-Śūnyatā: Karma-Weighted Synaptic Pruning for Class-Incremental Learning in Affective Spiki — https://github.com/venky2099/Maya-Shunyata
+
+---
+
+### Neuromorphic (`neuromorphic`)
+
+**Corpus size:** 791 papers
+
+**Recent papers:**
+
+- [2026-08] Maya-Meta P1: The Bhaya Quiescence Law and Buddhi S-Curve Determinism — Two Empirical Constants — https://doi.org/10.5281/zenodo.20477224
+- [2026-07] Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing — https://arxiv.org/abs/2607.04921
+- [2026-07] Robust PnP on a Neuromorphic Processor for Object Pose Estimation — https://arxiv.org/abs/2607.16834
 
 ---
 
@@ -218,18 +230,6 @@
 
 ---
 
-### Neuromorphic (`neuromorphic`)
-
-**Corpus size:** 704 papers
-
-**Recent papers:**
-
-- [2026-07] Efficient Perception in Automotive Detection and Tracking Using Neuromorphic Computing — https://arxiv.org/abs/2607.04921
-- [2026-07] Robust PnP on a Neuromorphic Processor for Object Pose Estimation — https://arxiv.org/abs/2607.16834
-- [2026-07] Spiking Neural Networks for fMRI-Based Visual Semantic Decoding — https://arxiv.org/abs/2607.19170
-
----
-
 ### Evolutionary (`evolutionary`)
 
 **Corpus size:** 689 papers
@@ -239,6 +239,18 @@
 - [None] Genetic correlations of avian personality traits: correlated response to artificial selection — https://www.semanticscholar.org/paper/2824af38c9c354de9e236503dfb82b61520179a3
 - [2026-08] Evolutionary Curriculum Learning Improves Biological Sequence Modeling — https://arxiv.org/abs/2608.00697
 - [2026-07] A Neural Network model of Cultural Evolution — https://arxiv.org/abs/2607.24886
+
+---
+
+### Perceptual (`perceptual`)
+
+**Corpus size:** 621 papers
+
+**Recent papers:**
+
+- [2026-08] MIDAS: Multi-LLM Iterative Data-Adaptive Summarization — https://arxiv.org/abs/2608.04307
+- [2026-07] Constrained Hebbian Learning Supports Efficient Representational Allocation under Structural Co — https://arxiv.org/abs/2607.16027
+- [2026-07] HSEmotion Team at the 11th ABAW Challenge: Multi-Task Learning and Ambivalence/Hesitancy Video  — https://arxiv.org/abs/2607.12774
 
 ---
 
@@ -275,18 +287,6 @@
 - [2026-07] The Concept of Representation in ML: Beyond Plato and Aristotle — https://arxiv.org/abs/2607.17800
 - [2026-07] Algorithmic Approaches to Sequential Decision-Making and Social Epistemology — https://arxiv.org/abs/2607.20636
 - [2026-07] Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-,  — https://arxiv.org/abs/2607.12254
-
----
-
-### Perceptual (`perceptual`)
-
-**Corpus size:** 542 papers
-
-**Recent papers:**
-
-- [2026-08] MIDAS: Multi-LLM Iterative Data-Adaptive Summarization — https://arxiv.org/abs/2608.04307
-- [2026-07] Constrained Hebbian Learning Supports Efficient Representational Allocation under Structural Co — https://arxiv.org/abs/2607.16027
-- [2026-07] HSEmotion Team at the 11th ABAW Challenge: Multi-Task Learning and Ambivalence/Hesitancy Video  — https://arxiv.org/abs/2607.12774
 
 ---
 

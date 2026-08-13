@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "total_papers": 28606,
+    "total_papers": 29018,
     "generated_date": "None",
     "taxonomy": {
       "categories": 21,
       "subcategories": 9,
       "total_cells": 189,
-      "filled_cells": 160,
-      "saturation": 84.7,
-      "empty_cells": 29
+      "filled_cells": 161,
+      "saturation": 85.2,
+      "empty_cells": 28
     },
     "analysis_window": {
       "last_12m_start": "2025-08"
@@ -19,34 +19,34 @@
     "animal-learning": 494,
     "behavioral": 907,
     "cognitive-science": 2411,
-    "collective": 1132,
+    "collective": 1209,
     "creative": 617,
     "developmental": 587,
     "education": 1388,
     "educational-psychology": 784,
     "emotion": 413,
     "evolutionary": 689,
-    "health": 983,
+    "health": 1063,
     "language": 1500,
     "machine-learning": 5176,
-    "memory-science": 1361,
+    "memory-science": 1450,
     "motor": 747,
-    "neuromorphic": 704,
+    "neuromorphic": 791,
     "neuroscience": 1296,
-    "perceptual": 542,
+    "perceptual": 621,
     "philosophy-of-mind": 544,
     "social-learning": 756
   },
   "by_subcategory": {
     "": 5575,
-    "application": 832,
-    "development": 687,
-    "individual-differences": 380,
-    "mechanism": 1650,
-    "method": 6232,
-    "review": 429,
-    "technology": 813,
-    "theory": 12008
+    "application": 864,
+    "development": 703,
+    "individual-differences": 382,
+    "mechanism": 1724,
+    "method": 6364,
+    "review": 435,
+    "technology": 847,
+    "theory": 12124
   },
   "by_year": {
     "1897": 1,
@@ -91,9 +91,9 @@
     "2021": 219,
     "2022": 1836,
     "2023": 4367,
-    "2024": 5936,
-    "2025": 8518,
-    "2026": 7351,
+    "2024": 6084,
+    "2025": 8755,
+    "2026": 7378,
     "None": 7
   },
   "by_cell": {
@@ -101,11 +101,11 @@
     "machine-learning/theory": 2936,
     "machine-learning/method": 1788,
     "cognitive-science/theory": 1257,
-    "memory-science/theory": 971,
+    "memory-science/theory": 996,
+    "health/theory": 759,
     "language/theory": 738,
-    "health/theory": 735,
     "cognitive-science/method": 722,
-    "collective/theory": 682,
+    "collective/theory": 711,
     "education/theory": 644,
     "educational-psychology/theory": 527,
     "language/method": 525,
@@ -124,89 +124,90 @@
     "developmental/theory": 260,
     "social-learning/method": 254,
     "cognitive-science/mechanism": 231,
+    "neuromorphic/method": 226,
     "animal-learning/theory": 225,
     "creative/method": 216,
-    "neuromorphic/method": 201,
+    "perceptual/theory": 207,
+    "health/method": 203,
     "evolutionary/method": 200,
     "machine-learning/mechanism": 193,
+    "neuromorphic/theory": 193,
     "developmental/method": 186,
-    "perceptual/theory": 183,
-    "neuromorphic/theory": 179,
     "emotion/theory": 175,
-    "health/method": 157,
     "emotion/method": 155,
+    "neuromorphic/mechanism": 149,
     "philosophy-of-mind/method": 138,
-    "neuromorphic/mechanism": 130,
+    "memory-science/method": 118,
+    "collective/mechanism": 112,
     "machine-learning/application": 109,
+    "perceptual/method": 108,
+    "perceptual/technology": 107,
     "education/technology": 105,
-    "collective/mechanism": 101,
-    "memory-science/method": 100,
-    "perceptual/technology": 100,
     "animal-learning/individual-differences": 100,
+    "perceptual/development": 99,
     "evolutionary/individual-differences": 99,
-    "perceptual/development": 97,
-    "memory-science/application": 95,
+    "memory-science/application": 98,
+    "memory-science/mechanism": 94,
+    "collective/technology": 93,
     "educational-psychology/development": 91,
     "language/mechanism": 88,
-    "collective/technology": 88,
-    "perceptual/method": 85,
+    "memory-science/technology": 87,
+    "collective/method": 84,
+    "neuromorphic/development": 84,
     "motor/mechanism": 83,
     "machine-learning/review": 83,
     "cognitive-science/application": 79,
-    "neuromorphic/development": 77,
-    "memory-science/technology": 77,
     "education/application": 74,
     "animal-learning/technology": 74,
     "collective/individual-differences": 72,
     "developmental/development": 71,
+    "collective/application": 70,
     "animal-learning/application": 67,
-    "memory-science/mechanism": 67,
     "education/mechanism": 66,
-    "collective/method": 64,
+    "perceptual/mechanism": 65,
     "neuroscience/development": 63,
     "neuroscience/review": 62,
-    "collective/application": 61,
+    "neuromorphic/application": 61,
     "language/application": 59,
     "behavioral/mechanism": 58,
     "social-learning/mechanism": 56,
-    "collective/development": 55,
+    "collective/development": 56,
     "educational-psychology/method": 55,
     "evolutionary/mechanism": 54,
-    "perceptual/mechanism": 50,
-    "neuromorphic/application": 48,
     "education/review": 47,
     "developmental/mechanism": 46,
     "educational-psychology/technology": 46,
     "cognitive-science/technology": 45,
     "creative/mechanism": 43,
     "language/development": 42,
+    "neuromorphic/technology": 42,
     "behavioral/application": 39,
     "machine-learning/technology": 38,
     "cognitive-science/development": 36,
-    "neuromorphic/technology": 34,
-    "neuromorphic/review": 33,
-    "memory-science/review": 33,
+    "neuromorphic/review": 34,
+    "memory-science/review": 34,
     "emotion/mechanism": 32,
     "philosophy-of-mind/mechanism": 32,
     "cognitive-science/review": 31,
     "neuroscience/technology": 29,
     "motor/application": 29,
     "educational-psychology/mechanism": 28,
+    "health/application": 28,
     "neuroscience/application": 27,
     "social-learning/technology": 27,
     "creative/technology": 27,
     "machine-learning/development": 27,
     "language/review": 26,
-    "health/application": 26,
+    "health/technology": 24,
     "motor/development": 22,
+    "health/review": 21,
     "social-learning/development": 21,
     "education/development": 20,
     "behavioral/technology": 20,
     "language/technology": 20,
-    "health/technology": 20,
-    "health/review": 20,
     "philosophy-of-mind/development": 20,
     "social-learning/application": 19,
+    "perceptual/application": 19,
     "creative/application": 18,
     "memory-science/individual-differences": 18,
     "developmental/application": 17,
@@ -215,7 +216,8 @@
     "motor/technology": 16,
     "emotion/review": 15,
     "educational-psychology/review": 15,
-    "perceptual/application": 14,
+    "health/development": 14,
+    "perceptual/individual-differences": 14,
     "education/individual-differences": 13,
     "behavioral/review": 13,
     "emotion/application": 13,
@@ -223,24 +225,23 @@
     "creative/development": 13,
     "philosophy-of-mind/technology": 13,
     "educational-psychology/individual-differences": 13,
-    "health/development": 13,
     "philosophy-of-mind/application": 12,
-    "perceptual/individual-differences": 12,
     "social-learning/review": 11,
+    "collective/review": 11,
     "neuroscience/individual-differences": 11,
     "animal-learning/review": 11,
     "cognitive-science/individual-differences": 10,
     "animal-learning/method": 10,
+    "health/mechanism": 10,
     "educational-psychology/application": 9,
-    "collective/review": 9,
     "behavioral/development": 8,
     "creative/individual-differences": 8,
-    "health/mechanism": 8,
     "evolutionary/review": 7,
     "emotion/individual-differences": 6,
     "creative/review": 5,
     "evolutionary/development": 5,
     "animal-learning/mechanism": 5,
+    "memory-science/development": 5,
     "developmental/technology": 4,
     "health/individual-differences": 4,
     "emotion/development": 4,
@@ -252,11 +253,11 @@
     "philosophy-of-mind/review": 2,
     "neuromorphic/individual-differences": 2,
     "animal-learning/development": 2,
+    "perceptual/review": 2,
     "behavioral/individual-differences": 1,
     "social-learning/individual-differences": 1,
     "motor/individual-differences": 1,
-    "developmental/review": 1,
-    "perceptual/review": 1
+    "developmental/review": 1
   },
   "emerging_themes_12m": [
     {
@@ -281,7 +282,7 @@
     },
     {
       "keyword": "uncertainty",
-      "papers": 552
+      "papers": 553
     },
     {
       "keyword": "benchmark",
@@ -289,11 +290,11 @@
     },
     {
       "keyword": "hierarchical",
-      "papers": 534
+      "papers": 535
     },
     {
       "keyword": "multimodal",
-      "papers": 809
+      "papers": 811
     },
     {
       "keyword": "reward",
@@ -315,13 +316,13 @@
     {
       "id": "memory-science",
       "name": "Memory Science",
-      "total": 1361,
-      "recent": 559,
-      "prior": 300,
-      "growth_pct": 86.3,
-      "recent_share": 0.411,
-      "papers_per_month": 46.6,
-      "score": 127.4
+      "total": 1450,
+      "recent": 574,
+      "prior": 374,
+      "growth_pct": 53.5,
+      "recent_share": 0.396,
+      "papers_per_month": 47.8,
+      "score": 93.1
     },
     {
       "id": "evolutionary",
@@ -344,17 +345,6 @@
       "recent_share": 0.357,
       "papers_per_month": 27.0,
       "score": 64.8
-    },
-    {
-      "id": "collective",
-      "name": "Collective",
-      "total": 1132,
-      "recent": 353,
-      "prior": 270,
-      "growth_pct": 30.7,
-      "recent_share": 0.312,
-      "papers_per_month": 29.4,
-      "score": 61.9
     },
     {
       "id": "motor",
@@ -401,6 +391,17 @@
       "score": 50.4
     },
     {
+      "id": "collective",
+      "name": "Collective",
+      "total": 1209,
+      "recent": 378,
+      "prior": 322,
+      "growth_pct": 17.4,
+      "recent_share": 0.313,
+      "papers_per_month": 31.5,
+      "score": 48.7
+    },
+    {
       "id": "education",
       "name": "Education",
       "total": 1388,
@@ -423,17 +424,6 @@
       "score": 45.8
     },
     {
-      "id": "health",
-      "name": "Health",
-      "total": 983,
-      "recent": 306,
-      "prior": 274,
-      "growth_pct": 11.7,
-      "recent_share": 0.311,
-      "papers_per_month": 25.5,
-      "score": 42.8
-    },
-    {
       "id": "language",
       "name": "Language",
       "total": 1500,
@@ -445,26 +435,15 @@
       "score": 36.9
     },
     {
-      "id": "perceptual",
-      "name": "Perceptual",
-      "total": 542,
-      "recent": 145,
-      "prior": 137,
-      "growth_pct": 5.8,
-      "recent_share": 0.268,
-      "papers_per_month": 12.1,
-      "score": 32.6
-    },
-    {
-      "id": "neuromorphic",
-      "name": "Neuromorphic",
-      "total": 704,
-      "recent": 180,
-      "prior": 185,
-      "growth_pct": -2.7,
-      "recent_share": 0.256,
-      "papers_per_month": 15.0,
-      "score": 22.9
+      "id": "health",
+      "name": "Health",
+      "total": 1063,
+      "recent": 321,
+      "prior": 339,
+      "growth_pct": -5.3,
+      "recent_share": 0.302,
+      "papers_per_month": 26.8,
+      "score": 24.9
     },
     {
       "id": "social-learning",
@@ -487,6 +466,17 @@
       "recent_share": 0.267,
       "papers_per_month": 28.8,
       "score": 20.0
+    },
+    {
+      "id": "perceptual",
+      "name": "Perceptual",
+      "total": 621,
+      "recent": 173,
+      "prior": 188,
+      "growth_pct": -8.0,
+      "recent_share": 0.279,
+      "papers_per_month": 14.4,
+      "score": 19.9
     },
     {
       "id": "machine-learning",
@@ -520,6 +510,17 @@
       "recent_share": 0.277,
       "papers_per_month": 14.2,
       "score": 9.5
+    },
+    {
+      "id": "neuromorphic",
+      "name": "Neuromorphic",
+      "total": 791,
+      "recent": 190,
+      "prior": 262,
+      "growth_pct": -27.5,
+      "recent_share": 0.24,
+      "papers_per_month": 15.8,
+      "score": -3.5
     },
     {
       "id": "developmental",
@@ -614,9 +615,9 @@
       "2021": 9,
       "2022": 101,
       "2023": 241,
-      "2024": 245,
-      "2025": 325,
-      "2026": 203
+      "2024": 271,
+      "2025": 366,
+      "2026": 213
     },
     "creative": {
       "1995": 2,
@@ -715,9 +716,9 @@
       "2021": 9,
       "2022": 78,
       "2023": 186,
-      "2024": 224,
-      "2025": 314,
-      "2026": 172
+      "2024": 260,
+      "2025": 351,
+      "2026": 179
     },
     "language": {
       "2002": 1,
@@ -761,9 +762,9 @@
       "2021": 9,
       "2022": 59,
       "2023": 191,
-      "2024": 265,
-      "2025": 380,
-      "2026": 374,
+      "2024": 296,
+      "2025": 433,
+      "2026": 379,
       "None": 1
     },
     "motor": {
@@ -782,9 +783,9 @@
       "2021": 11,
       "2022": 89,
       "2023": 131,
-      "2024": 185,
-      "2025": 182,
-      "2026": 103
+      "2024": 217,
+      "2025": 236,
+      "2026": 104
     },
     "neuroscience": {
       "2010": 1,
@@ -807,9 +808,9 @@
       "2021": 10,
       "2022": 64,
       "2023": 112,
-      "2024": 126,
-      "2025": 140,
-      "2026": 80
+      "2024": 149,
+      "2025": 192,
+      "2026": 84
     },
     "philosophy-of-mind": {
       "1996": 1,
@@ -847,112 +848,112 @@
       "keyword": "agentic",
       "recent": 369,
       "total": 424,
-      "burst_score": 2.2,
-      "recent_share": 0.0326
+      "burst_score": 2.21,
+      "recent_share": 0.0323
     },
     {
       "keyword": "world model",
       "recent": 343,
       "total": 527,
-      "burst_score": 1.64,
-      "recent_share": 0.0303
+      "burst_score": 1.65,
+      "recent_share": 0.03
     },
     {
       "keyword": "scalable",
       "recent": 958,
-      "total": 1549,
-      "burst_score": 1.56,
-      "recent_share": 0.0846
+      "total": 1552,
+      "burst_score": 1.57,
+      "recent_share": 0.0839
     },
     {
       "keyword": "retrieval",
       "recent": 615,
-      "total": 1017,
+      "total": 1019,
       "burst_score": 1.53,
-      "recent_share": 0.0543
+      "recent_share": 0.0538
     },
     {
       "keyword": "policy",
       "recent": 1465,
-      "total": 2512,
-      "burst_score": 1.47,
-      "recent_share": 0.1293
+      "total": 2516,
+      "burst_score": 1.48,
+      "recent_share": 0.1283
     },
     {
       "keyword": "uncertainty",
-      "recent": 552,
-      "total": 947,
-      "burst_score": 1.47,
-      "recent_share": 0.0487
+      "recent": 553,
+      "total": 949,
+      "burst_score": 1.48,
+      "recent_share": 0.0484
     },
     {
       "keyword": "benchmark",
       "recent": 2599,
-      "total": 4544,
-      "burst_score": 1.44,
-      "recent_share": 0.2294
+      "total": 4545,
+      "burst_score": 1.45,
+      "recent_share": 0.2275
     },
     {
       "keyword": "hierarchical",
-      "recent": 534,
-      "total": 946,
-      "burst_score": 1.43,
-      "recent_share": 0.0471
+      "recent": 535,
+      "total": 947,
+      "burst_score": 1.44,
+      "recent_share": 0.0468
     },
     {
       "keyword": "multimodal",
-      "recent": 809,
-      "total": 1440,
-      "burst_score": 1.42,
-      "recent_share": 0.0714
+      "recent": 811,
+      "total": 1444,
+      "burst_score": 1.43,
+      "recent_share": 0.071
     },
     {
       "keyword": "reward",
       "recent": 989,
-      "total": 1774,
+      "total": 1776,
       "burst_score": 1.41,
-      "recent_share": 0.0873
+      "recent_share": 0.0866
     },
     {
       "keyword": "opponent",
       "recent": 30,
       "total": 54,
-      "burst_score": 1.4,
+      "burst_score": 1.41,
       "recent_share": 0.0026
     },
     {
       "keyword": "teaming",
       "recent": 18,
       "total": 33,
-      "burst_score": 1.38,
+      "burst_score": 1.39,
       "recent_share": 0.0016
     },
     {
       "keyword": "multi-agent",
       "recent": 709,
       "total": 1304,
-      "burst_score": 1.37,
-      "recent_share": 0.0626
+      "burst_score": 1.38,
+      "recent_share": 0.0621
     },
     {
       "keyword": "embodied",
       "recent": 282,
       "total": 521,
       "burst_score": 1.37,
-      "recent_share": 0.0249
+      "recent_share": 0.0247
     },
     {
       "keyword": "optimization",
-      "recent": 1571,
-      "total": 2926,
+      "recent": 1573,
+      "total": 2932,
       "burst_score": 1.36,
-      "recent_share": 0.1387
+      "recent_share": 0.1377
     }
   ],
   "source_breakdown": {
     "arxiv": 25113,
-    "doi": 3107,
-    "other": 386
+    "doi": 3514,
+    "other": 391
   },
   "venues": [
     {
@@ -965,11 +966,19 @@
     },
     {
       "name": "Scientific Reports",
-      "papers": 57
+      "papers": 66
     },
     {
       "name": "Education and Information Technologies",
-      "papers": 32
+      "papers": 33
+    },
+    {
+      "name": "bioRxiv (Cold Spring Harbor Laboratory)",
+      "papers": 30
+    },
+    {
+      "name": "Nature Communications",
+      "papers": 29
     },
     {
       "name": "PPR",
@@ -980,19 +989,15 @@
       "papers": 26
     },
     {
-      "name": "bioRxiv (Cold Spring Harbor Laboratory)",
-      "papers": 23
-    },
-    {
-      "name": "Nature Communications",
-      "papers": 22
-    },
-    {
       "name": "PLoS ONE",
-      "papers": 21
+      "papers": 25
     },
     {
       "name": "Education Sciences",
+      "papers": 21
+    },
+    {
+      "name": "Sustainability",
       "papers": 21
     },
     {
@@ -1000,20 +1005,16 @@
       "papers": 20
     },
     {
-      "name": "Sustainability",
-      "papers": 20
+      "name": "Applied Sciences",
+      "papers": 19
+    },
+    {
+      "name": "Zenodo (CERN European Organization for Nuclear Research)",
+      "papers": 19
     },
     {
       "name": "IEEE Access",
-      "papers": 17
-    },
-    {
-      "name": "Heliyon",
-      "papers": 16
-    },
-    {
-      "name": "Applied Sciences",
-      "papers": 16
+      "papers": 18
     }
   ],
   "gaps": {
@@ -1035,10 +1036,6 @@
         "papers": 1
       },
       {
-        "cell": "perceptual/review",
-        "papers": 1
-      },
-      {
         "cell": "developmental/individual-differences",
         "papers": 2
       },
@@ -1056,6 +1053,10 @@
       },
       {
         "cell": "neuromorphic/individual-differences",
+        "papers": 2
+      },
+      {
+        "cell": "animal-learning/development",
         "papers": 2
       }
     ],
@@ -1124,6 +1125,14 @@
   },
   "top_authors": [
     {
+      "name": "Venkatesh Swaminathan",
+      "papers": 8
+    },
+    {
+      "name": "Evgenia Gkintoni",
+      "papers": 7
+    },
+    {
       "name": "Laurence B. Leonard",
       "papers": 6
     },
@@ -1132,15 +1141,19 @@
       "papers": 6
     },
     {
-      "name": "Evgenia Gkintoni",
-      "papers": 5
-    },
-    {
       "name": "Ali Derakhshan",
       "papers": 5
     },
     {
       "name": "Reinhard Pekrun",
+      "papers": 5
+    },
+    {
+      "name": "Shawn N. Cummings",
+      "papers": 5
+    },
+    {
+      "name": "Rachel M. Theodore",
       "papers": 5
     },
     {
@@ -1156,32 +1169,20 @@
       "papers": 4
     },
     {
+      "name": "Xiang Li",
+      "papers": 4
+    },
+    {
       "name": "Rafat Ghanamah",
+      "papers": 4
+    },
+    {
+      "name": "Yifan Wang",
       "papers": 4
     },
     {
       "name": "Sanna J\u00e4rvel\u00e4",
       "papers": 4
-    },
-    {
-      "name": "Yongliang Wang",
-      "papers": 4
-    },
-    {
-      "name": "Binny Jose",
-      "papers": 4
-    },
-    {
-      "name": "Barbara Anne Dosher",
-      "papers": 4
-    },
-    {
-      "name": "Li Y",
-      "papers": 3
-    },
-    {
-      "name": "Wei Wang",
-      "papers": 3
     }
   ]
 }
