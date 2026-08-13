@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-08-12  
-**Corpus:** 26,319 papers across 21 categories
+**Generated:** 2026-08-13  
+**Corpus:** 27,517 papers across 21 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,8 +11,8 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 | Machine Learning | 5082 |
-| 2 |  | 4377 |
+| 1 |  | 5575 |
+| 2 | Machine Learning | 5082 |
 | 3 | Cognitive Science | 2333 |
 | 4 | Language | 1419 |
 | 5 | Memory Science | 1361 |
@@ -21,7 +21,7 @@
 | 8 | Collective | 1132 |
 
 **Time span:** 1897–None (median year 2005)
-**Dominant aspects:** Theory (11572), Method (5817),  (4377)
+**Dominant aspects:** Theory (11572), Method (5817),  (5575)
 
 ---
 
@@ -29,10 +29,10 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
+|  | 5575 | 4440 | 1135 | +291% | 80% | 370.0 |
 | Memory Science | 1361 | 559 | 300 | +86% | 41% | 46.6 |
 | Behavioral | 818 | 312 | 174 | +79% | 38% | 26.0 |
 | Evolutionary | 613 | 189 | 107 | +77% | 31% | 15.8 |
-|  | 4377 | 4377 | 0 | — | 100% | 364.8 |
 | Motor | 669 | 245 | 151 | +62% | 37% | 20.4 |
 | Education | 1299 | 463 | 337 | +37% | 36% | 38.6 |
 | Educational Psychology | 713 | 260 | 198 | +31% | 36% | 21.7 |
@@ -62,6 +62,18 @@
 
 ## Category Insights
 
+###  (``)
+
+**Corpus size:** 5575 papers
+
+**Recent papers:**
+
+- [2026-08] PATH-Bench: Path-Dependent Evaluation of Lifelong Agents — https://arxiv.org/abs/2608.01149
+- [2026-08] Hybrid Quantum Neural Networks: Theory, Implementations, and Applications — https://arxiv.org/abs/2608.01194
+- [2026-08] CoSynFlow: Conformal Symplectic Neural Flows for Cross-System Prediction of Dissipative Hamilto — https://arxiv.org/abs/2608.00571
+
+---
+
 ### Machine Learning (`machine-learning`)
 
 **Corpus size:** 5082 papers
@@ -71,18 +83,6 @@
 - [2026-08] Plasticity of Growing and Elastic Neural Networks in Online Continual Learning — https://arxiv.org/abs/2608.01475
 - [2026-08] VLAff: Vision-Language-Affordance Model for Unified Actionable Affordances — https://arxiv.org/abs/2608.05215
 - [2026-08] When Collaboration Becomes a Trigger: Collective Evidence-Threshold Backdoors in Multi-Agent Sy — https://arxiv.org/abs/2608.01085
-
----
-
-###  (``)
-
-**Corpus size:** 4377 papers
-
-**Recent papers:**
-
-- [2026-08] PATH-Bench: Path-Dependent Evaluation of Lifelong Agents — https://arxiv.org/abs/2608.01149
-- [2026-08] Hybrid Quantum Neural Networks: Theory, Implementations, and Applications — https://arxiv.org/abs/2608.01194
-- [2026-08] CoSynFlow: Conformal Symplectic Neural Flows for Cross-System Prediction of Dissipative Hamilto — https://arxiv.org/abs/2608.00571
 
 ---
 

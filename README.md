@@ -10,13 +10,13 @@
 
 ## 🎯 Overview
 
-This repository contains the research corpus and implementation tools for transforming learning platforms using evidence-based principles from **26,319 academic papers**.
+This repository contains the research corpus and implementation tools for transforming learning platforms using evidence-based principles from **27,517 academic papers**.
 
 ### Research Scope
 
 | Metric | Value |
 |--------|-------|
-| **Papers Analyzed** | 26,319 |
+| **Papers Analyzed** | 27,517 |
 | **Academic Disciplines** | 20 |
 | **Time Span** | 1964-2026 |
 | **Research Aspects** | 8 |
@@ -301,7 +301,7 @@ This will demonstrate the SRS algorithm and save state to `srs_state.json`.
 
 ## 🙏 Acknowledgments
 
-This research corpus represents 62 years of learning science research, synthesized from 26,319 papers across 20 academic disciplines to create a comprehensive foundation for evidence-based learning platform design.
+This research corpus represents 62 years of learning science research, synthesized from 27,517 papers across 20 academic disciplines to create a comprehensive foundation for evidence-based learning platform design.
 
 ---
 
