@@ -1,7 +1,7 @@
 # Literature Review
 
 **Generated:** 2026-08-13  
-**Corpus:** 27,517 papers across 21 categories
+**Corpus:** 28,606 papers across 21 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -12,16 +12,16 @@
 | Rank | Category | Papers |
 |------|----------|--------|
 | 1 |  | 5575 |
-| 2 | Machine Learning | 5082 |
-| 3 | Cognitive Science | 2333 |
-| 4 | Language | 1419 |
-| 5 | Memory Science | 1361 |
-| 6 | Education | 1299 |
-| 7 | Neuroscience | 1220 |
+| 2 | Machine Learning | 5176 |
+| 3 | Cognitive Science | 2411 |
+| 4 | Language | 1500 |
+| 5 | Education | 1388 |
+| 6 | Memory Science | 1361 |
+| 7 | Neuroscience | 1296 |
 | 8 | Collective | 1132 |
 
 **Time span:** 1897–None (median year 2005)
-**Dominant aspects:** Theory (11572), Method (5817),  (5575)
+**Dominant aspects:** Theory (12008), Method (6232),  (5575)
 
 ---
 
@@ -31,16 +31,16 @@
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
 |  | 5575 | 4440 | 1135 | +291% | 80% | 370.0 |
 | Memory Science | 1361 | 559 | 300 | +86% | 41% | 46.6 |
-| Behavioral | 818 | 312 | 174 | +79% | 38% | 26.0 |
-| Evolutionary | 613 | 189 | 107 | +77% | 31% | 15.8 |
-| Motor | 669 | 245 | 151 | +62% | 37% | 20.4 |
-| Education | 1299 | 463 | 337 | +37% | 36% | 38.6 |
-| Educational Psychology | 713 | 260 | 198 | +31% | 36% | 21.7 |
+| Evolutionary | 689 | 217 | 155 | +40% | 32% | 18.1 |
+| Behavioral | 907 | 324 | 251 | +29% | 36% | 27.0 |
 | Collective | 1132 | 353 | 270 | +31% | 31% | 29.4 |
+| Motor | 747 | 264 | 210 | +26% | 35% | 22.0 |
 | Animal Learning | 494 | 125 | 94 | +33% | 25% | 10.4 |
-| Language | 1419 | 404 | 312 | +30% | 28% | 33.7 |
-| Philosophy Of Mind | 477 | 143 | 113 | +26% | 30% | 11.9 |
-| Cognitive Science | 2333 | 792 | 653 | +21% | 34% | 66.0 |
+| Educational Psychology | 784 | 289 | 240 | +20% | 37% | 24.1 |
+| Philosophy Of Mind | 544 | 175 | 148 | +18% | 32% | 14.6 |
+| Education | 1388 | 470 | 419 | +12% | 34% | 39.2 |
+| Cognitive Science | 2411 | 806 | 717 | +12% | 33% | 67.2 |
+| Health | 983 | 306 | 274 | +12% | 31% | 25.5 |
 
 ---
 
@@ -76,7 +76,7 @@
 
 ### Machine Learning (`machine-learning`)
 
-**Corpus size:** 5082 papers
+**Corpus size:** 5176 papers
 
 **Recent papers:**
 
@@ -88,7 +88,7 @@
 
 ### Cognitive Science (`cognitive-science`)
 
-**Corpus size:** 2333 papers
+**Corpus size:** 2411 papers
 
 **Recent papers:**
 
@@ -100,13 +100,25 @@
 
 ### Language (`language`)
 
-**Corpus size:** 1419 papers
+**Corpus size:** 1500 papers
 
 **Recent papers:**
 
 - [2026-08] ConlangBench: Exploring Language Knowledge and Learning in LLMs through Diverse Constructed Lan — https://arxiv.org/abs/2608.03505
 - [2026-08] Exemplars in Disguise: Pure Exemplar Models Mimic Abstraction-First Learning — https://arxiv.org/abs/2608.00821
 - [2026-08] Language Models Generalize to Human-like Word Order Preferences — https://arxiv.org/abs/2608.05028
+
+---
+
+### Education (`education`)
+
+**Corpus size:** 1388 papers
+
+**Recent papers:**
+
+- [2026-08] Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Edu — https://arxiv.org/abs/2608.04006
+- [2026-08] EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners — https://arxiv.org/abs/2608.03206
+- [2026-08] Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors with the Pedagogical Suitabilit — https://arxiv.org/abs/2608.05411
 
 ---
 
@@ -122,21 +134,9 @@
 
 ---
 
-### Education (`education`)
-
-**Corpus size:** 1299 papers
-
-**Recent papers:**
-
-- [2026-08] Calibrating Trustworthiness: Co-Designing Metrics and Visualizations for Evaluating LLMs in Edu — https://arxiv.org/abs/2608.04006
-- [2026-08] EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners — https://arxiv.org/abs/2608.03206
-- [2026-08] Evaluating and Improving Pedagogical Fit in LLM-Based AI Tutors with the Pedagogical Suitabilit — https://arxiv.org/abs/2608.05411
-
----
-
 ### Neuroscience (`neuroscience`)
 
-**Corpus size:** 1220 papers
+**Corpus size:** 1296 papers
 
 **Recent papers:**
 
@@ -172,7 +172,7 @@
 
 ### Behavioral (`behavioral`)
 
-**Corpus size:** 818 papers
+**Corpus size:** 907 papers
 
 **Recent papers:**
 
@@ -184,13 +184,37 @@
 
 ### Educational Psychology (`educational-psychology`)
 
-**Corpus size:** 713 papers
+**Corpus size:** 784 papers
 
 **Recent papers:**
 
 - [2026-07] Cellular Adaptation to Signal Fluctuations as Learning — https://arxiv.org/abs/2607.03545
 - [2026-07] Algorithmic Accuracy as a Motivational Driver in Robot-Mediated Learning: A Comparative Study o — https://arxiv.org/abs/2607.16299
 - [2026-07] Principled Direction-Free Intrinsic Motivation through Model-Free Epistemic Free-Energy Estimat — https://arxiv.org/abs/2607.16858
+
+---
+
+### Social Learning (`social-learning`)
+
+**Corpus size:** 756 papers
+
+**Recent papers:**
+
+- [2026-08] Imprecise Belief Fusion Improves Multi-agent Social Learning — https://arxiv.org/abs/2608.01367
+- [2026-07] The Price of Hidden Curvature: An $\widetildeΩ (d^{5/4} \sqrt{T})$ Lower Bound for Bandit Conve — https://arxiv.org/abs/2607.18652
+- [2026-07] Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition — https://arxiv.org/abs/2607.18737
+
+---
+
+### Motor (`motor`)
+
+**Corpus size:** 747 papers
+
+**Recent papers:**
+
+- [2026-08] The Evolutionary Origin of Values: implications for AI alignment, sentience and existential ris — https://arxiv.org/abs/2608.03361
+- [2026-07] Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Contro — https://arxiv.org/abs/2607.20110
+- [2026-07] Temporal Feature Distillation for Label-Efficient Precise Event Spotting in Sports Videos — https://arxiv.org/abs/2607.10998
 
 ---
 
@@ -206,39 +230,51 @@
 
 ---
 
-### Social Learning (`social-learning`)
-
-**Corpus size:** 690 papers
-
-**Recent papers:**
-
-- [2026-08] Imprecise Belief Fusion Improves Multi-agent Social Learning — https://arxiv.org/abs/2608.01367
-- [2026-07] The Price of Hidden Curvature: An $\widetildeΩ (d^{5/4} \sqrt{T})$ Lower Bound for Bandit Conve — https://arxiv.org/abs/2607.18652
-- [2026-07] Motion Primitive Discovery in a Humanoid Robot via Self-Organising Maps for Phase Recognition — https://arxiv.org/abs/2607.18737
-
----
-
-### Motor (`motor`)
-
-**Corpus size:** 669 papers
-
-**Recent papers:**
-
-- [2026-08] The Evolutionary Origin of Values: implications for AI alignment, sentience and existential ris — https://arxiv.org/abs/2608.03361
-- [2026-07] Extreme-RGMT: Continual Learning of Highly Dynamic Skills for Robust Generalist Humanoid Contro — https://arxiv.org/abs/2607.20110
-- [2026-07] Temporal Feature Distillation for Label-Efficient Precise Event Spotting in Sports Videos — https://arxiv.org/abs/2607.10998
-
----
-
 ### Evolutionary (`evolutionary`)
 
-**Corpus size:** 613 papers
+**Corpus size:** 689 papers
 
 **Recent papers:**
 
 - [None] Genetic correlations of avian personality traits: correlated response to artificial selection — https://www.semanticscholar.org/paper/2824af38c9c354de9e236503dfb82b61520179a3
 - [2026-08] Evolutionary Curriculum Learning Improves Biological Sequence Modeling — https://arxiv.org/abs/2608.00697
 - [2026-07] A Neural Network model of Cultural Evolution — https://arxiv.org/abs/2607.24886
+
+---
+
+### Creative (`creative`)
+
+**Corpus size:** 617 papers
+
+**Recent papers:**
+
+- [2026-07] Can an AI System Be Creative? A Critical Perspective from Art and Engineering — https://arxiv.org/abs/2607.20796
+- [2026-07] A Preliminary Study on the Impact of AI in the Creativity and Collaboration in Software Teams — https://arxiv.org/abs/2607.16744
+- [2026-07] Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing — https://arxiv.org/abs/2607.06721
+
+---
+
+### Developmental (`developmental`)
+
+**Corpus size:** 587 papers
+
+**Recent papers:**
+
+- [2026-08] Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Comp — https://arxiv.org/abs/2608.03930
+- [2026-07] Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Pri — https://arxiv.org/abs/2607.14046
+- [2026-07] Using hierarchical statistical learning models to model individual statistical learning — https://arxiv.org/abs/2607.05822
+
+---
+
+### Philosophy Of Mind (`philosophy-of-mind`)
+
+**Corpus size:** 544 papers
+
+**Recent papers:**
+
+- [2026-07] The Concept of Representation in ML: Beyond Plato and Aristotle — https://arxiv.org/abs/2607.17800
+- [2026-07] Algorithmic Approaches to Sequential Decision-Making and Social Epistemology — https://arxiv.org/abs/2607.20636
+- [2026-07] Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-,  — https://arxiv.org/abs/2607.12254
 
 ---
 
@@ -254,30 +290,6 @@
 
 ---
 
-### Creative (`creative`)
-
-**Corpus size:** 537 papers
-
-**Recent papers:**
-
-- [2026-07] Can an AI System Be Creative? A Critical Perspective from Art and Engineering — https://arxiv.org/abs/2607.20796
-- [2026-07] A Preliminary Study on the Impact of AI in the Creativity and Collaboration in Software Teams — https://arxiv.org/abs/2607.16744
-- [2026-07] Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing — https://arxiv.org/abs/2607.06721
-
----
-
-### Developmental (`developmental`)
-
-**Corpus size:** 512 papers
-
-**Recent papers:**
-
-- [2026-08] Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Comp — https://arxiv.org/abs/2608.03930
-- [2026-07] Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Pri — https://arxiv.org/abs/2607.14046
-- [2026-07] Using hierarchical statistical learning models to model individual statistical learning — https://arxiv.org/abs/2607.05822
-
----
-
 ### Animal Learning (`animal-learning`)
 
 **Corpus size:** 494 papers
@@ -290,21 +302,9 @@
 
 ---
 
-### Philosophy Of Mind (`philosophy-of-mind`)
-
-**Corpus size:** 477 papers
-
-**Recent papers:**
-
-- [2026-07] The Concept of Representation in ML: Beyond Plato and Aristotle — https://arxiv.org/abs/2607.17800
-- [2026-07] Algorithmic Approaches to Sequential Decision-Making and Social Epistemology — https://arxiv.org/abs/2607.20636
-- [2026-07] Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-,  — https://arxiv.org/abs/2607.12254
-
----
-
 ### Emotion (`emotion`)
 
-**Corpus size:** 344 papers
+**Corpus size:** 413 papers
 
 **Recent papers:**
 
