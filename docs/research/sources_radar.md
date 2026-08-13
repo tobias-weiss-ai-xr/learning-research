@@ -6,8 +6,8 @@ Web and institutional resources relevant to the learning research corpus. These 
 
 | Source | URL | Relevance | Status | Notes |
 |--------|-----|-----------|--------|-------|
-| **Harvard Derek Bok Center** — Taxonomies of Learning | https://bokcenter.harvard.edu/taxonomies-learning | Taxonomies / Education | 🔍 To Review | Bloom's Taxonomy (1956), Revised Bloom (2001), Fink's Taxonomy of Significant Learning (2013). Key framework for cognitive objectives. |
-| **Wikipedia** — Zone of Proximal Development | https://en.wikipedia.org/wiki/Zone_of_proximal_development | Educational Psychology | 🔍 To Review | Vygotsky's ZPD framework. Scaffolding, social development theory. Central to adaptive learning and personalization in ed-tech. |
+| **Harvard Derek Bok Center** — Taxonomies of Learning | https://bokcenter.harvard.edu/taxonomies-learning | Taxonomies / Education | 🎯 Implementation | Bloom's Taxonomy (1956), Revised Bloom (2001), Fink's Taxonomy of Significant Learning (2013). Integrated into knowledge tree across ki-kompetenz-training + hpc-courses. |
+| **Wikipedia** — Zone of Proximal Development | https://en.wikipedia.org/wiki/Zone_of_proximal_development | Educational Psychology | 🎯 Implementation | Vygotsky's ZPD framework. Scaffolding layers (Full→Partial→Minimal→Autonomy), 70-80% success sweet spot. Implemented in both repos. |
 
 ## Taxonomy Frameworks to Cross-Reference
 
