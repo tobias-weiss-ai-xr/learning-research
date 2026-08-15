@@ -3,28 +3,28 @@
   {
    "id": "",
    "name": "",
-   "count": 5575,
+   "count": 5573,
    "trajectory": {
     "2024": 406,
     "2025": 1931,
-    "2026": 3238
+    "2026": 3236
    },
    "momentum": {
     "id": "",
     "name": "",
-    "total": 5575,
-    "recent": 4440,
+    "total": 5573,
+    "recent": 4438,
     "prior": 1135,
-    "growth_pct": 291.2,
+    "growth_pct": 291.0,
     "recent_share": 0.796,
-    "papers_per_month": 370.0,
-    "score": 370.8
+    "papers_per_month": 369.8,
+    "score": 370.6
    }
   },
   {
    "id": "animal-learning",
    "name": "Animal Learning",
-   "count": 494,
+   "count": 573,
    "trajectory": {
     "1897": 1,
     "1964": 1,
@@ -52,28 +52,28 @@
     "2020": 7,
     "2021": 7,
     "2022": 28,
-    "2023": 83,
-    "2024": 104,
-    "2025": 113,
-    "2026": 76,
+    "2023": 95,
+    "2024": 152,
+    "2025": 130,
+    "2026": 78,
     "None": 5
    },
    "momentum": {
     "id": "animal-learning",
     "name": "Animal Learning",
-    "total": 494,
-    "recent": 125,
-    "prior": 94,
-    "growth_pct": 33.0,
-    "recent_share": 0.253,
-    "papers_per_month": 10.4,
-    "score": 58.3
+    "total": 573,
+    "recent": 129,
+    "prior": 129,
+    "growth_pct": 0.0,
+    "recent_share": 0.225,
+    "papers_per_month": 10.8,
+    "score": 22.5
    }
   },
   {
    "id": "behavioral",
    "name": "Behavioral",
-   "count": 907,
+   "count": 951,
    "trajectory": {
     "1954": 1,
     "1966": 1,
@@ -86,27 +86,27 @@
     "2020": 1,
     "2021": 11,
     "2022": 76,
-    "2023": 148,
-    "2024": 199,
+    "2023": 166,
+    "2024": 225,
     "2025": 242,
     "2026": 222
    },
    "momentum": {
     "id": "behavioral",
     "name": "Behavioral",
-    "total": 907,
+    "total": 951,
     "recent": 324,
-    "prior": 251,
-    "growth_pct": 29.1,
-    "recent_share": 0.357,
+    "prior": 257,
+    "growth_pct": 26.1,
+    "recent_share": 0.341,
     "papers_per_month": 27.0,
-    "score": 64.8
+    "score": 60.2
    }
   },
   {
    "id": "cognitive-science",
    "name": "Cognitive Science",
-   "count": 2411,
+   "count": 2442,
    "trajectory": {
     "2007": 1,
     "2009": 1,
@@ -119,27 +119,27 @@
     "2018": 2,
     "2021": 16,
     "2022": 150,
-    "2023": 423,
-    "2024": 526,
+    "2023": 433,
+    "2024": 547,
     "2025": 807,
     "2026": 477
    },
    "momentum": {
     "id": "cognitive-science",
     "name": "Cognitive Science",
-    "total": 2411,
+    "total": 2442,
     "recent": 806,
     "prior": 717,
     "growth_pct": 12.4,
-    "recent_share": 0.334,
+    "recent_share": 0.33,
     "papers_per_month": 67.2,
-    "score": 45.8
+    "score": 45.4
    }
   },
   {
    "id": "collective",
    "name": "Collective",
-   "count": 1209,
+   "count": 1237,
    "trajectory": {
     "2008": 1,
     "2009": 1,
@@ -147,21 +147,21 @@
     "2015": 1,
     "2021": 9,
     "2022": 101,
-    "2023": 241,
-    "2024": 271,
+    "2023": 249,
+    "2024": 291,
     "2025": 366,
     "2026": 213
    },
    "momentum": {
     "id": "collective",
     "name": "Collective",
-    "total": 1209,
+    "total": 1237,
     "recent": 378,
-    "prior": 322,
-    "growth_pct": 17.4,
-    "recent_share": 0.313,
+    "prior": 323,
+    "growth_pct": 17.0,
+    "recent_share": 0.306,
     "papers_per_month": 31.5,
-    "score": 48.7
+    "score": 47.6
    }
   },
   {
@@ -194,31 +194,31 @@
   {
    "id": "developmental",
    "name": "Developmental",
-   "count": 587,
+   "count": 627,
    "trajectory": {
     "2021": 12,
     "2022": 49,
-    "2023": 96,
-    "2024": 152,
+    "2023": 112,
+    "2024": 176,
     "2025": 194,
     "2026": 84
    },
    "momentum": {
     "id": "developmental",
     "name": "Developmental",
-    "total": 587,
+    "total": 627,
     "recent": 144,
-    "prior": 224,
-    "growth_pct": -35.7,
-    "recent_share": 0.245,
+    "prior": 225,
+    "growth_pct": -36.0,
+    "recent_share": 0.23,
     "papers_per_month": 12.0,
-    "score": -11.2
+    "score": -13.0
    }
   },
   {
    "id": "education",
    "name": "Education",
-   "count": 1388,
+   "count": 1429,
    "trajectory": {
     "1988": 1,
     "1990": 1,
@@ -231,27 +231,27 @@
     "2018": 1,
     "2021": 6,
     "2022": 82,
-    "2023": 221,
-    "2024": 343,
+    "2023": 236,
+    "2024": 369,
     "2025": 455,
     "2026": 267
    },
    "momentum": {
     "id": "education",
     "name": "Education",
-    "total": 1388,
+    "total": 1429,
     "recent": 470,
-    "prior": 419,
-    "growth_pct": 12.2,
-    "recent_share": 0.339,
+    "prior": 418,
+    "growth_pct": 12.4,
+    "recent_share": 0.329,
     "papers_per_month": 39.2,
-    "score": 46.1
+    "score": 45.3
    }
   },
   {
    "id": "educational-psychology",
    "name": "Educational Psychology",
-   "count": 784,
+   "count": 806,
    "trajectory": {
     "1936": 1,
     "1956": 1,
@@ -263,21 +263,21 @@
     "2018": 1,
     "2021": 14,
     "2022": 44,
-    "2023": 100,
-    "2024": 172,
+    "2023": 103,
+    "2024": 190,
     "2025": 257,
-    "2026": 187
+    "2026": 188
    },
    "momentum": {
     "id": "educational-psychology",
     "name": "Educational Psychology",
-    "total": 784,
-    "recent": 289,
-    "prior": 240,
-    "growth_pct": 20.4,
-    "recent_share": 0.369,
-    "papers_per_month": 24.1,
-    "score": 57.3
+    "total": 806,
+    "recent": 290,
+    "prior": 241,
+    "growth_pct": 20.3,
+    "recent_share": 0.36,
+    "papers_per_month": 24.2,
+    "score": 56.3
    }
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "evolutionary",
    "name": "Evolutionary",
-   "count": 689,
+   "count": 688,
    "trajectory": {
     "1981": 1,
     "1990": 1,
@@ -335,7 +335,7 @@
     "2020": 12,
     "2021": 11,
     "2022": 45,
-    "2023": 87,
+    "2023": 86,
     "2024": 129,
     "2025": 182,
     "2026": 135,
@@ -344,7 +344,7 @@
    "momentum": {
     "id": "evolutionary",
     "name": "Evolutionary",
-    "total": 689,
+    "total": 688,
     "recent": 217,
     "prior": 155,
     "growth_pct": 40.0,
@@ -356,50 +356,50 @@
   {
    "id": "health",
    "name": "Health",
-   "count": 1063,
+   "count": 1107,
    "trajectory": {
     "2021": 9,
     "2022": 78,
-    "2023": 186,
-    "2024": 260,
+    "2023": 194,
+    "2024": 296,
     "2025": 351,
     "2026": 179
    },
    "momentum": {
     "id": "health",
     "name": "Health",
-    "total": 1063,
+    "total": 1107,
     "recent": 321,
-    "prior": 339,
-    "growth_pct": -5.3,
-    "recent_share": 0.302,
+    "prior": 343,
+    "growth_pct": -6.4,
+    "recent_share": 0.29,
     "papers_per_month": 26.8,
-    "score": 24.9
+    "score": 22.6
    }
   },
   {
    "id": "language",
    "name": "Language",
-   "count": 1500,
+   "count": 1529,
    "trajectory": {
     "2002": 1,
     "2021": 13,
     "2022": 132,
-    "2023": 353,
-    "2024": 369,
+    "2023": 363,
+    "2024": 388,
     "2025": 371,
     "2026": 260
    },
    "momentum": {
     "id": "language",
     "name": "Language",
-    "total": 1500,
+    "total": 1529,
     "recent": 416,
-    "prior": 381,
-    "growth_pct": 9.2,
-    "recent_share": 0.277,
+    "prior": 382,
+    "growth_pct": 8.9,
+    "recent_share": 0.272,
     "papers_per_month": 34.7,
-    "score": 36.9
+    "score": 36.1
    }
   },
   {
@@ -429,7 +429,7 @@
   {
    "id": "memory-science",
    "name": "Memory Science",
-   "count": 1450,
+   "count": 1500,
    "trajectory": {
     "1969": 1,
     "1984": 1,
@@ -454,28 +454,28 @@
     "2020": 13,
     "2021": 9,
     "2022": 59,
-    "2023": 191,
-    "2024": 296,
+    "2023": 214,
+    "2024": 322,
     "2025": 433,
-    "2026": 379,
+    "2026": 380,
     "None": 1
    },
    "momentum": {
     "id": "memory-science",
     "name": "Memory Science",
-    "total": 1450,
-    "recent": 574,
-    "prior": 374,
-    "growth_pct": 53.5,
-    "recent_share": 0.396,
-    "papers_per_month": 47.8,
-    "score": 93.1
+    "total": 1500,
+    "recent": 575,
+    "prior": 376,
+    "growth_pct": 52.9,
+    "recent_share": 0.383,
+    "papers_per_month": 47.9,
+    "score": 91.2
    }
   },
   {
    "id": "motor",
    "name": "Motor",
-   "count": 747,
+   "count": 778,
    "trajectory": {
     "2004": 2,
     "2012": 1,
@@ -483,51 +483,51 @@
     "2020": 1,
     "2021": 20,
     "2022": 67,
-    "2023": 96,
-    "2024": 155,
+    "2023": 104,
+    "2024": 178,
     "2025": 233,
     "2026": 164
    },
    "momentum": {
     "id": "motor",
     "name": "Motor",
-    "total": 747,
+    "total": 778,
     "recent": 264,
-    "prior": 210,
-    "growth_pct": 25.7,
-    "recent_share": 0.353,
+    "prior": 215,
+    "growth_pct": 22.8,
+    "recent_share": 0.339,
     "papers_per_month": 22.0,
-    "score": 61.0
+    "score": 56.7
    }
   },
   {
    "id": "neuromorphic",
    "name": "Neuromorphic",
-   "count": 791,
+   "count": 833,
    "trajectory": {
     "2021": 11,
     "2022": 89,
-    "2023": 131,
-    "2024": 217,
+    "2023": 149,
+    "2024": 241,
     "2025": 236,
     "2026": 104
    },
    "momentum": {
     "id": "neuromorphic",
     "name": "Neuromorphic",
-    "total": 791,
+    "total": 833,
     "recent": 190,
-    "prior": 262,
-    "growth_pct": -27.5,
-    "recent_share": 0.24,
+    "prior": 263,
+    "growth_pct": -27.8,
+    "recent_share": 0.228,
     "papers_per_month": 15.8,
-    "score": -3.5
+    "score": -5.0
    }
   },
   {
    "id": "neuroscience",
    "name": "Neuroscience",
-   "count": 1296,
+   "count": 1315,
    "trajectory": {
     "2010": 1,
     "2012": 1,
@@ -536,27 +536,27 @@
     "2020": 1,
     "2021": 7,
     "2022": 118,
-    "2023": 268,
-    "2024": 327,
+    "2023": 274,
+    "2024": 340,
     "2025": 376,
     "2026": 194
    },
    "momentum": {
     "id": "neuroscience",
     "name": "Neuroscience",
-    "total": 1296,
+    "total": 1315,
     "recent": 346,
     "prior": 371,
     "growth_pct": -6.7,
-    "recent_share": 0.267,
+    "recent_share": 0.263,
     "papers_per_month": 28.8,
-    "score": 20.0
+    "score": 19.6
    }
   },
   {
    "id": "perceptual",
    "name": "Perceptual",
-   "count": 621,
+   "count": 651,
    "trajectory": {
     "1996": 1,
     "2009": 5,
@@ -564,27 +564,27 @@
     "2020": 1,
     "2021": 10,
     "2022": 64,
-    "2023": 112,
-    "2024": 149,
+    "2023": 118,
+    "2024": 173,
     "2025": 192,
     "2026": 84
    },
    "momentum": {
     "id": "perceptual",
     "name": "Perceptual",
-    "total": 621,
+    "total": 651,
     "recent": 173,
-    "prior": 188,
-    "growth_pct": -8.0,
-    "recent_share": 0.279,
+    "prior": 190,
+    "growth_pct": -8.9,
+    "recent_share": 0.266,
     "papers_per_month": 14.4,
-    "score": 19.9
+    "score": 17.7
    }
   },
   {
    "id": "philosophy-of-mind",
    "name": "Philosophy Of Mind",
-   "count": 544,
+   "count": 569,
    "trajectory": {
     "1996": 1,
     "1997": 1,
@@ -598,27 +598,27 @@
     "2014": 1,
     "2021": 9,
     "2022": 51,
-    "2023": 87,
-    "2024": 128,
+    "2023": 94,
+    "2024": 145,
     "2025": 154,
-    "2026": 105
+    "2026": 106
    },
    "momentum": {
     "id": "philosophy-of-mind",
     "name": "Philosophy Of Mind",
-    "total": 544,
-    "recent": 175,
+    "total": 569,
+    "recent": 176,
     "prior": 148,
-    "growth_pct": 18.2,
-    "recent_share": 0.322,
-    "papers_per_month": 14.6,
-    "score": 50.4
+    "growth_pct": 18.9,
+    "recent_share": 0.309,
+    "papers_per_month": 14.7,
+    "score": 49.8
    }
   },
   {
    "id": "social-learning",
    "name": "Social Learning",
-   "count": 756,
+   "count": 778,
    "trajectory": {
     "1981": 1,
     "2005": 1,
@@ -626,20 +626,20 @@
     "2017": 1,
     "2021": 8,
     "2022": 61,
-    "2023": 156,
-    "2024": 197,
-    "2025": 221,
-    "2026": 108
+    "2023": 159,
+    "2024": 214,
+    "2025": 222,
+    "2026": 109
    },
    "momentum": {
     "id": "social-learning",
     "name": "Social Learning",
-    "total": 756,
-    "recent": 201,
-    "prior": 215,
-    "growth_pct": -6.5,
-    "recent_share": 0.266,
-    "papers_per_month": 16.8,
+    "total": 778,
+    "recent": 203,
+    "prior": 216,
+    "growth_pct": -6.0,
+    "recent_share": 0.261,
+    "papers_per_month": 16.9,
     "score": 20.1
    }
   }
@@ -648,47 +648,47 @@
   {
    "id": "",
    "name": "",
-   "count": 5575
+   "count": 5573
   },
   {
    "id": "application",
    "name": "Application",
-   "count": 864
+   "count": 893
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 703
+   "count": 723
   },
   {
    "id": "individual-differences",
    "name": "Individual Differences",
-   "count": 382
+   "count": 385
   },
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 1724
+   "count": 1795
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 6364
+   "count": 6586
   },
   {
    "id": "review",
    "name": "Review",
-   "count": 435
+   "count": 438
   },
   {
    "id": "technology",
    "name": "Technology",
-   "count": 847
+   "count": 884
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 12124
+   "count": 12315
   }
  ],
  "timeline": [
@@ -13425,11 +13425,6 @@
   [
    "2023-01",
    "language",
-   "development"
-  ],
-  [
-   "2023-01",
-   "language",
    "mechanism"
   ],
   [
@@ -24224,11 +24219,6 @@
   ],
   [
    "2023-07",
-   "evolutionary",
-   "theory"
-  ],
-  [
-   "2023-07",
    "health",
    "method"
   ],
@@ -25655,6 +25645,11 @@
   [
    "2023-08",
    "developmental",
+   "method"
+  ],
+  [
+   "2023-08",
+   "developmental",
    "theory"
   ],
   [
@@ -25670,6 +25665,11 @@
   [
    "2023-08",
    "education",
+   "application"
+  ],
+  [
+   "2023-08",
+   "education",
    "mechanism"
   ],
   [
@@ -25696,6 +25696,11 @@
    "2023-08",
    "education",
    "technology"
+  ],
+  [
+   "2023-08",
+   "education",
+   "theory"
   ],
   [
    "2023-08",
@@ -25889,6 +25894,11 @@
   ],
   [
    "2023-08",
+   "health",
+   "theory"
+  ],
+  [
+   "2023-08",
    "language",
    "application"
   ],
@@ -26451,6 +26461,11 @@
    "2023-08",
    "machine-learning",
    "theory"
+  ],
+  [
+   "2023-08",
+   "memory-science",
+   "mechanism"
   ],
   [
    "2023-08",
@@ -26870,6 +26885,21 @@
   [
    "2023-09",
    "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "animal-learning",
+   "technology"
+  ],
+  [
+   "2023-09",
+   "animal-learning",
    "technology"
   ],
   [
@@ -26885,6 +26915,21 @@
   [
    "2023-09",
    "behavioral",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2023-09",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2023-09",
+   "behavioral",
    "method"
   ],
   [
@@ -26901,6 +26946,11 @@
    "2023-09",
    "behavioral",
    "method"
+  ],
+  [
+   "2023-09",
+   "behavioral",
+   "review"
   ],
   [
    "2023-09",
@@ -26956,6 +27006,11 @@
    "2023-09",
    "cognitive-science",
    "mechanism"
+  ],
+  [
+   "2023-09",
+   "cognitive-science",
+   "method"
   ],
   [
    "2023-09",
@@ -26996,6 +27051,11 @@
    "2023-09",
    "cognitive-science",
    "technology"
+  ],
+  [
+   "2023-09",
+   "cognitive-science",
+   "theory"
   ],
   [
    "2023-09",
@@ -27125,7 +27185,22 @@
   [
    "2023-09",
    "collective",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "collective",
+   "method"
+  ],
+  [
+   "2023-09",
+   "collective",
    "technology"
+  ],
+  [
+   "2023-09",
+   "collective",
+   "theory"
   ],
   [
    "2023-09",
@@ -27250,7 +27325,27 @@
   [
    "2023-09",
    "developmental",
+   "method"
+  ],
+  [
+   "2023-09",
+   "developmental",
+   "method"
+  ],
+  [
+   "2023-09",
+   "developmental",
    "theory"
+  ],
+  [
+   "2023-09",
+   "developmental",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "education",
+   "application"
   ],
   [
    "2023-09",
@@ -27310,7 +27405,7 @@
   [
    "2023-09",
    "education",
-   "technology"
+   "method"
   ],
   [
    "2023-09",
@@ -27326,6 +27421,16 @@
    "2023-09",
    "education",
    "technology"
+  ],
+  [
+   "2023-09",
+   "education",
+   "technology"
+  ],
+  [
+   "2023-09",
+   "education",
+   "theory"
   ],
   [
    "2023-09",
@@ -27461,6 +27566,21 @@
    "2023-09",
    "health",
    "application"
+  ],
+  [
+   "2023-09",
+   "health",
+   "application"
+  ],
+  [
+   "2023-09",
+   "health",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "health",
+   "method"
   ],
   [
    "2023-09",
@@ -27656,6 +27776,31 @@
    "2023-09",
    "language",
    "method"
+  ],
+  [
+   "2023-09",
+   "language",
+   "method"
+  ],
+  [
+   "2023-09",
+   "language",
+   "method"
+  ],
+  [
+   "2023-09",
+   "language",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "language",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "language",
+   "theory"
   ],
   [
    "2023-09",
@@ -28225,7 +28370,7 @@
   [
    "2023-09",
    "memory-science",
-   "mechanism"
+   "development"
   ],
   [
    "2023-09",
@@ -28241,6 +28386,26 @@
    "2023-09",
    "memory-science",
    "mechanism"
+  ],
+  [
+   "2023-09",
+   "memory-science",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "memory-science",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2023-09",
+   "memory-science",
+   "method"
   ],
   [
    "2023-09",
@@ -28299,8 +28464,28 @@
   ],
   [
    "2023-09",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2023-09",
    "motor",
    "mechanism"
+  ],
+  [
+   "2023-09",
+   "motor",
+   "method"
+  ],
+  [
+   "2023-09",
+   "motor",
+   "method"
   ],
   [
    "2023-09",
@@ -28345,6 +28530,11 @@
   [
    "2023-09",
    "neuromorphic",
+   "application"
+  ],
+  [
+   "2023-09",
+   "neuromorphic",
    "development"
   ],
   [
@@ -28406,6 +28596,21 @@
    "2023-09",
    "neuromorphic",
    "method"
+  ],
+  [
+   "2023-09",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-09",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-09",
+   "neuromorphic",
+   "technology"
   ],
   [
    "2023-09",
@@ -28424,8 +28629,18 @@
   ],
   [
    "2023-09",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2023-09",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2023-09",
    "neuroscience",
-   "development"
+   "application"
   ],
   [
    "2023-09",
@@ -28445,7 +28660,7 @@
   [
    "2023-09",
    "neuroscience",
-   "mechanism"
+   "development"
   ],
   [
    "2023-09",
@@ -28475,7 +28690,7 @@
   [
    "2023-09",
    "neuroscience",
-   "method"
+   "mechanism"
   ],
   [
    "2023-09",
@@ -28516,6 +28731,21 @@
    "2023-09",
    "neuroscience",
    "method"
+  ],
+  [
+   "2023-09",
+   "neuroscience",
+   "method"
+  ],
+  [
+   "2023-09",
+   "neuroscience",
+   "method"
+  ],
+  [
+   "2023-09",
+   "neuroscience",
+   "theory"
   ],
   [
    "2023-09",
@@ -28594,6 +28824,11 @@
   ],
   [
    "2023-09",
+   "perceptual",
+   "theory"
+  ],
+  [
+   "2023-09",
    "philosophy-of-mind",
    "mechanism"
   ],
@@ -28601,6 +28836,16 @@
    "2023-09",
    "philosophy-of-mind",
    "method"
+  ],
+  [
+   "2023-09",
+   "philosophy-of-mind",
+   "technology"
+  ],
+  [
+   "2023-09",
+   "philosophy-of-mind",
+   "theory"
   ],
   [
    "2023-09",
@@ -28635,6 +28880,16 @@
   [
    "2023-09",
    "social-learning",
+   "mechanism"
+  ],
+  [
+   "2023-09",
+   "social-learning",
+   "method"
+  ],
+  [
+   "2023-09",
+   "social-learning",
    "method"
   ],
   [
@@ -28711,6 +28966,21 @@
    "2023-10",
    "animal-learning",
    "application"
+  ],
+  [
+   "2023-10",
+   "animal-learning",
+   "development"
+  ],
+  [
+   "2023-10",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2023-10",
+   "animal-learning",
+   "technology"
   ],
   [
    "2023-10",
@@ -28770,7 +29040,37 @@
   [
    "2023-10",
    "behavioral",
+   "method"
+  ],
+  [
+   "2023-10",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2023-10",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2023-10",
+   "behavioral",
    "technology"
+  ],
+  [
+   "2023-10",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "behavioral",
+   "theory"
   ],
   [
    "2023-10",
@@ -28821,6 +29121,16 @@
    "2023-10",
    "cognitive-science",
    "mechanism"
+  ],
+  [
+   "2023-10",
+   "cognitive-science",
+   "method"
+  ],
+  [
+   "2023-10",
+   "cognitive-science",
+   "method"
   ],
   [
    "2023-10",
@@ -29135,6 +29445,11 @@
   [
    "2023-10",
    "developmental",
+   "method"
+  ],
+  [
+   "2023-10",
+   "developmental",
    "theory"
   ],
   [
@@ -29235,7 +29550,17 @@
   [
    "2023-10",
    "education",
-   "technology"
+   "method"
+  ],
+  [
+   "2023-10",
+   "education",
+   "method"
+  ],
+  [
+   "2023-10",
+   "education",
+   "method"
   ],
   [
    "2023-10",
@@ -29250,7 +29575,7 @@
   [
    "2023-10",
    "education",
-   "theory"
+   "technology"
   ],
   [
    "2023-10",
@@ -29276,6 +29601,21 @@
    "2023-10",
    "education",
    "theory"
+  ],
+  [
+   "2023-10",
+   "education",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "education",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "educational-psychology",
+   "application"
   ],
   [
    "2023-10",
@@ -29459,6 +29799,16 @@
   ],
   [
    "2023-10",
+   "health",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "health",
+   "theory"
+  ],
+  [
+   "2023-10",
    "language",
    "application"
   ],
@@ -29659,6 +30009,16 @@
   ],
   [
    "2023-10",
+   "language",
+   "theory"
+  ],
+  [
+   "2023-10",
+   "language",
+   "theory"
+  ],
+  [
+   "2023-10",
    "machine-learning",
    "application"
   ],
@@ -30325,6 +30685,16 @@
   [
    "2023-10",
    "memory-science",
+   "application"
+  ],
+  [
+   "2023-10",
+   "memory-science",
+   "mechanism"
+  ],
+  [
+   "2023-10",
+   "memory-science",
    "mechanism"
   ],
   [
@@ -30346,6 +30716,16 @@
    "2023-10",
    "memory-science",
    "method"
+  ],
+  [
+   "2023-10",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2023-10",
+   "memory-science",
+   "technology"
   ],
   [
    "2023-10",
@@ -30425,12 +30805,27 @@
   [
    "2023-10",
    "motor",
+   "development"
+  ],
+  [
+   "2023-10",
+   "motor",
    "mechanism"
   ],
   [
    "2023-10",
    "motor",
    "mechanism"
+  ],
+  [
+   "2023-10",
+   "motor",
+   "method"
+  ],
+  [
+   "2023-10",
+   "motor",
+   "method"
   ],
   [
    "2023-10",
@@ -30496,6 +30891,36 @@
    "2023-10",
    "neuromorphic",
    "development"
+  ],
+  [
+   "2023-10",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-10",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-10",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-10",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-10",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-10",
+   "neuromorphic",
+   "method"
   ],
   [
    "2023-10",
@@ -30570,6 +30995,11 @@
   [
    "2023-10",
    "neuroscience",
+   "development"
+  ],
+  [
+   "2023-10",
+   "neuroscience",
    "mechanism"
   ],
   [
@@ -30621,6 +31051,11 @@
    "2023-10",
    "neuroscience",
    "method"
+  ],
+  [
+   "2023-10",
+   "neuroscience",
+   "technology"
   ],
   [
    "2023-10",
@@ -30695,6 +31130,11 @@
   [
    "2023-10",
    "perceptual",
+   "method"
+  ],
+  [
+   "2023-10",
+   "perceptual",
    "technology"
   ],
   [
@@ -30825,6 +31265,21 @@
   [
    "2023-11",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2023-11",
+   "animal-learning",
+   "technology"
+  ],
+  [
+   "2023-11",
+   "animal-learning",
    "technology"
   ],
   [
@@ -30860,7 +31315,32 @@
   [
    "2023-11",
    "behavioral",
+   "application"
+  ],
+  [
+   "2023-11",
+   "behavioral",
    "mechanism"
+  ],
+  [
+   "2023-11",
+   "behavioral",
+   "mechanism"
+  ],
+  [
+   "2023-11",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2023-11",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2023-11",
+   "behavioral",
+   "method"
   ],
   [
    "2023-11",
@@ -31000,7 +31480,12 @@
   [
    "2023-11",
    "cognitive-science",
-   "technology"
+   "method"
+  ],
+  [
+   "2023-11",
+   "cognitive-science",
+   "method"
   ],
   [
    "2023-11",
@@ -31011,6 +31496,16 @@
    "2023-11",
    "cognitive-science",
    "technology"
+  ],
+  [
+   "2023-11",
+   "cognitive-science",
+   "technology"
+  ],
+  [
+   "2023-11",
+   "cognitive-science",
+   "theory"
   ],
   [
    "2023-11",
@@ -31125,6 +31620,11 @@
   [
    "2023-11",
    "collective",
+   "mechanism"
+  ],
+  [
+   "2023-11",
+   "collective",
    "method"
   ],
   [
@@ -31136,6 +31636,16 @@
    "2023-11",
    "collective",
    "technology"
+  ],
+  [
+   "2023-11",
+   "collective",
+   "technology"
+  ],
+  [
+   "2023-11",
+   "collective",
+   "theory"
   ],
   [
    "2023-11",
@@ -31270,6 +31780,21 @@
   [
    "2023-11",
    "developmental",
+   "mechanism"
+  ],
+  [
+   "2023-11",
+   "developmental",
+   "mechanism"
+  ],
+  [
+   "2023-11",
+   "developmental",
+   "method"
+  ],
+  [
+   "2023-11",
+   "developmental",
    "method"
   ],
   [
@@ -31281,6 +31806,26 @@
    "2023-11",
    "developmental",
    "method"
+  ],
+  [
+   "2023-11",
+   "developmental",
+   "method"
+  ],
+  [
+   "2023-11",
+   "developmental",
+   "method"
+  ],
+  [
+   "2023-11",
+   "developmental",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "developmental",
+   "theory"
   ],
   [
    "2023-11",
@@ -31305,7 +31850,12 @@
   [
    "2023-11",
    "education",
-   "technology"
+   "method"
+  ],
+  [
+   "2023-11",
+   "education",
+   "method"
   ],
   [
    "2023-11",
@@ -31315,7 +31865,7 @@
   [
    "2023-11",
    "education",
-   "theory"
+   "technology"
   ],
   [
    "2023-11",
@@ -31356,6 +31906,21 @@
    "2023-11",
    "education",
    "theory"
+  ],
+  [
+   "2023-11",
+   "education",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "education",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "educational-psychology",
+   "method"
   ],
   [
    "2023-11",
@@ -31455,6 +32020,11 @@
   [
    "2023-11",
    "health",
+   "technology"
+  ],
+  [
+   "2023-11",
+   "health",
    "theory"
   ],
   [
@@ -32220,6 +32790,16 @@
   [
    "2023-11",
    "memory-science",
+   "mechanism"
+  ],
+  [
+   "2023-11",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2023-11",
+   "memory-science",
    "method"
   ],
   [
@@ -32231,6 +32811,11 @@
    "2023-11",
    "memory-science",
    "method"
+  ],
+  [
+   "2023-11",
+   "memory-science",
+   "review"
   ],
   [
    "2023-11",
@@ -32299,6 +32884,21 @@
   ],
   [
    "2023-11",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2023-11",
+   "motor",
+   "method"
+  ],
+  [
+   "2023-11",
    "motor",
    "method"
   ],
@@ -32336,6 +32936,16 @@
    "2023-11",
    "motor",
    "theory"
+  ],
+  [
+   "2023-11",
+   "neuromorphic",
+   "application"
+  ],
+  [
+   "2023-11",
+   "neuromorphic",
+   "application"
   ],
   [
    "2023-11",
@@ -32520,7 +33130,7 @@
   [
    "2023-11",
    "perceptual",
-   "method"
+   "mechanism"
   ],
   [
    "2023-11",
@@ -32530,7 +33140,7 @@
   [
    "2023-11",
    "perceptual",
-   "technology"
+   "method"
   ],
   [
    "2023-11",
@@ -32546,6 +33156,21 @@
    "2023-11",
    "perceptual",
    "technology"
+  ],
+  [
+   "2023-11",
+   "perceptual",
+   "technology"
+  ],
+  [
+   "2023-11",
+   "perceptual",
+   "technology"
+  ],
+  [
+   "2023-11",
+   "perceptual",
+   "theory"
   ],
   [
    "2023-11",
@@ -32576,6 +33201,11 @@
    "2023-11",
    "philosophy-of-mind",
    "method"
+  ],
+  [
+   "2023-11",
+   "philosophy-of-mind",
+   "theory"
   ],
   [
    "2023-11",
@@ -32690,6 +33320,21 @@
   [
    "2023-12",
    "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2023-12",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2023-12",
+   "animal-learning",
    "technology"
   ],
   [
@@ -32741,6 +33386,16 @@
    "2023-12",
    "behavioral",
    "application"
+  ],
+  [
+   "2023-12",
+   "behavioral",
+   "application"
+  ],
+  [
+   "2023-12",
+   "behavioral",
+   "mechanism"
   ],
   [
    "2023-12",
@@ -32771,6 +33426,11 @@
    "2023-12",
    "behavioral",
    "method"
+  ],
+  [
+   "2023-12",
+   "behavioral",
+   "theory"
   ],
   [
    "2023-12",
@@ -32850,6 +33510,16 @@
   [
    "2023-12",
    "cognitive-science",
+   "mechanism"
+  ],
+  [
+   "2023-12",
+   "cognitive-science",
+   "method"
+  ],
+  [
+   "2023-12",
+   "cognitive-science",
    "method"
   ],
   [
@@ -32964,6 +33634,16 @@
   ],
   [
    "2023-12",
+   "cognitive-science",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "collective",
+   "application"
+  ],
+  [
+   "2023-12",
    "collective",
    "application"
   ],
@@ -33049,6 +33729,11 @@
   ],
   [
    "2023-12",
+   "collective",
+   "theory"
+  ],
+  [
+   "2023-12",
    "creative",
    "mechanism"
   ],
@@ -33110,6 +33795,11 @@
   [
    "2023-12",
    "developmental",
+   "development"
+  ],
+  [
+   "2023-12",
+   "developmental",
    "mechanism"
   ],
   [
@@ -33126,6 +33816,21 @@
    "2023-12",
    "developmental",
    "method"
+  ],
+  [
+   "2023-12",
+   "developmental",
+   "method"
+  ],
+  [
+   "2023-12",
+   "developmental",
+   "method"
+  ],
+  [
+   "2023-12",
+   "developmental",
+   "theory"
   ],
   [
    "2023-12",
@@ -33151,6 +33856,16 @@
    "2023-12",
    "education",
    "mechanism"
+  ],
+  [
+   "2023-12",
+   "education",
+   "method"
+  ],
+  [
+   "2023-12",
+   "education",
+   "method"
   ],
   [
    "2023-12",
@@ -33301,6 +34016,16 @@
    "2023-12",
    "education",
    "theory"
+  ],
+  [
+   "2023-12",
+   "education",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "educational-psychology",
+   "method"
   ],
   [
    "2023-12",
@@ -33390,6 +34115,11 @@
   [
    "2023-12",
    "health",
+   "mechanism"
+  ],
+  [
+   "2023-12",
+   "health",
    "method"
   ],
   [
@@ -33461,6 +34191,26 @@
    "2023-12",
    "language",
    "application"
+  ],
+  [
+   "2023-12",
+   "language",
+   "development"
+  ],
+  [
+   "2023-12",
+   "language",
+   "method"
+  ],
+  [
+   "2023-12",
+   "language",
+   "method"
+  ],
+  [
+   "2023-12",
+   "language",
+   "method"
   ],
   [
    "2023-12",
@@ -34055,12 +34805,47 @@
   [
    "2023-12",
    "memory-science",
+   "method"
+  ],
+  [
+   "2023-12",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2023-12",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2023-12",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2023-12",
+   "memory-science",
    "technology"
   ],
   [
    "2023-12",
    "memory-science",
    "technology"
+  ],
+  [
+   "2023-12",
+   "memory-science",
+   "technology"
+  ],
+  [
+   "2023-12",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "memory-science",
+   "theory"
   ],
   [
    "2023-12",
@@ -34130,6 +34915,16 @@
   [
    "2023-12",
    "motor",
+   "method"
+  ],
+  [
+   "2023-12",
+   "motor",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "motor",
    "theory"
   ],
   [
@@ -34210,6 +35005,26 @@
   [
    "2023-12",
    "neuromorphic",
+   "method"
+  ],
+  [
+   "2023-12",
+   "neuromorphic",
+   "technology"
+  ],
+  [
+   "2023-12",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "neuromorphic",
    "theory"
   ],
   [
@@ -34246,6 +35061,11 @@
    "2023-12",
    "neuroscience",
    "mechanism"
+  ],
+  [
+   "2023-12",
+   "neuroscience",
+   "method"
   ],
   [
    "2023-12",
@@ -34321,6 +35141,11 @@
    "2023-12",
    "perceptual",
    "development"
+  ],
+  [
+   "2023-12",
+   "perceptual",
+   "method"
   ],
   [
    "2023-12",
@@ -34391,6 +35216,26 @@
    "2023-12",
    "philosophy-of-mind",
    "technology"
+  ],
+  [
+   "2023-12",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2023-12",
+   "philosophy-of-mind",
+   "theory"
   ],
   [
    "2023-12",
@@ -34416,6 +35261,11 @@
    "2023-12",
    "social-learning",
    "mechanism"
+  ],
+  [
+   "2023-12",
+   "social-learning",
+   "method"
   ],
   [
    "2023-12",
@@ -34565,6 +35415,16 @@
   [
    "2024-01",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "animal-learning",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "animal-learning",
    "technology"
   ],
   [
@@ -34584,6 +35444,21 @@
   ],
   [
    "2024-01",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-01",
    "behavioral",
    "application"
   ],
@@ -34630,6 +35505,16 @@
   [
    "2024-01",
    "behavioral",
+   "method"
+  ],
+  [
+   "2024-01",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2024-01",
+   "behavioral",
    "theory"
   ],
   [
@@ -34655,7 +35540,7 @@
   [
    "2024-01",
    "cognitive-science",
-   "mechanism"
+   "application"
   ],
   [
    "2024-01",
@@ -34671,6 +35556,21 @@
    "2024-01",
    "cognitive-science",
    "mechanism"
+  ],
+  [
+   "2024-01",
+   "cognitive-science",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "cognitive-science",
+   "method"
+  ],
+  [
+   "2024-01",
+   "cognitive-science",
+   "method"
   ],
   [
    "2024-01",
@@ -34826,6 +35726,16 @@
    "2024-01",
    "cognitive-science",
    "theory"
+  ],
+  [
+   "2024-01",
+   "cognitive-science",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "collective",
+   "development"
   ],
   [
    "2024-01",
@@ -34845,6 +35755,26 @@
   [
    "2024-01",
    "collective",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "collective",
+   "method"
+  ],
+  [
+   "2024-01",
+   "collective",
+   "method"
+  ],
+  [
+   "2024-01",
+   "collective",
+   "method"
+  ],
+  [
+   "2024-01",
+   "collective",
    "method"
   ],
   [
@@ -34866,6 +35796,21 @@
    "2024-01",
    "collective",
    "method"
+  ],
+  [
+   "2024-01",
+   "collective",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "collective",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "collective",
+   "theory"
   ],
   [
    "2024-01",
@@ -34961,6 +35906,31 @@
    "2024-01",
    "developmental",
    "application"
+  ],
+  [
+   "2024-01",
+   "developmental",
+   "development"
+  ],
+  [
+   "2024-01",
+   "developmental",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "developmental",
+   "method"
+  ],
+  [
+   "2024-01",
+   "developmental",
+   "method"
+  ],
+  [
+   "2024-01",
+   "developmental",
+   "method"
   ],
   [
    "2024-01",
@@ -35010,7 +35980,7 @@
   [
    "2024-01",
    "education",
-   "mechanism"
+   "development"
   ],
   [
    "2024-01",
@@ -35021,6 +35991,31 @@
    "2024-01",
    "education",
    "mechanism"
+  ],
+  [
+   "2024-01",
+   "education",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "education",
+   "method"
+  ],
+  [
+   "2024-01",
+   "education",
+   "method"
+  ],
+  [
+   "2024-01",
+   "education",
+   "method"
+  ],
+  [
+   "2024-01",
+   "education",
+   "method"
   ],
   [
    "2024-01",
@@ -35066,6 +36061,26 @@
    "2024-01",
    "education",
    "review"
+  ],
+  [
+   "2024-01",
+   "education",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "education",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "education",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "education",
+   "theory"
   ],
   [
    "2024-01",
@@ -35140,6 +36155,26 @@
   [
    "2024-01",
    "educational-psychology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "educational-psychology",
+   "method"
+  ],
+  [
+   "2024-01",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "educational-psychology",
    "theory"
   ],
   [
@@ -35235,6 +36270,46 @@
   [
    "2024-01",
    "health",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "health",
+   "method"
+  ],
+  [
+   "2024-01",
+   "health",
+   "method"
+  ],
+  [
+   "2024-01",
+   "health",
+   "method"
+  ],
+  [
+   "2024-01",
+   "health",
+   "method"
+  ],
+  [
+   "2024-01",
+   "health",
+   "method"
+  ],
+  [
+   "2024-01",
+   "health",
+   "method"
+  ],
+  [
+   "2024-01",
+   "health",
+   "method"
+  ],
+  [
+   "2024-01",
+   "health",
    "method"
   ],
   [
@@ -35261,6 +36336,16 @@
    "2024-01",
    "health",
    "review"
+  ],
+  [
+   "2024-01",
+   "health",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "health",
+   "technology"
   ],
   [
    "2024-01",
@@ -35324,6 +36409,21 @@
   ],
   [
    "2024-01",
+   "health",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "health",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "language",
+   "development"
+  ],
+  [
+   "2024-01",
    "language",
    "development"
   ],
@@ -35336,6 +36436,16 @@
    "2024-01",
    "language",
    "development"
+  ],
+  [
+   "2024-01",
+   "language",
+   "development"
+  ],
+  [
+   "2024-01",
+   "language",
+   "mechanism"
   ],
   [
    "2024-01",
@@ -35386,6 +36496,31 @@
    "2024-01",
    "language",
    "method"
+  ],
+  [
+   "2024-01",
+   "language",
+   "method"
+  ],
+  [
+   "2024-01",
+   "language",
+   "method"
+  ],
+  [
+   "2024-01",
+   "language",
+   "method"
+  ],
+  [
+   "2024-01",
+   "language",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "language",
+   "theory"
   ],
   [
    "2024-01",
@@ -35960,6 +37095,16 @@
   [
    "2024-01",
    "memory-science",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2024-01",
+   "memory-science",
    "method"
   ],
   [
@@ -35970,7 +37115,7 @@
   [
    "2024-01",
    "memory-science",
-   "technology"
+   "method"
   ],
   [
    "2024-01",
@@ -35986,6 +37131,21 @@
    "2024-01",
    "memory-science",
    "technology"
+  ],
+  [
+   "2024-01",
+   "memory-science",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "memory-science",
+   "theory"
   ],
   [
    "2024-01",
@@ -36050,7 +37210,7 @@
   [
    "2024-01",
    "motor",
-   "method"
+   "mechanism"
   ],
   [
    "2024-01",
@@ -36065,6 +37225,16 @@
   [
    "2024-01",
    "motor",
+   "method"
+  ],
+  [
+   "2024-01",
+   "motor",
+   "method"
+  ],
+  [
+   "2024-01",
+   "motor",
    "theory"
   ],
   [
@@ -36111,6 +37281,16 @@
    "2024-01",
    "neuromorphic",
    "mechanism"
+  ],
+  [
+   "2024-01",
+   "neuromorphic",
+   "mechanism"
+  ],
+  [
+   "2024-01",
+   "neuromorphic",
+   "method"
   ],
   [
    "2024-01",
@@ -36179,6 +37359,16 @@
   ],
   [
    "2024-01",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2024-01",
    "neuroscience",
    "application"
   ],
@@ -36279,6 +37469,11 @@
   ],
   [
    "2024-01",
+   "neuroscience",
+   "theory"
+  ],
+  [
+   "2024-01",
    "perceptual",
    "development"
   ],
@@ -36296,6 +37491,16 @@
    "2024-01",
    "perceptual",
    "mechanism"
+  ],
+  [
+   "2024-01",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-01",
+   "perceptual",
+   "method"
   ],
   [
    "2024-01",
@@ -36319,8 +37524,48 @@
   ],
   [
    "2024-01",
+   "perceptual",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "perceptual",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "philosophy-of-mind",
+   "application"
+  ],
+  [
+   "2024-01",
+   "philosophy-of-mind",
+   "development"
+  ],
+  [
+   "2024-01",
    "philosophy-of-mind",
    "method"
+  ],
+  [
+   "2024-01",
+   "philosophy-of-mind",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "philosophy-of-mind",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "philosophy-of-mind",
+   "theory"
   ],
   [
    "2024-01",
@@ -36390,6 +37635,21 @@
   [
    "2024-01",
    "social-learning",
+   "method"
+  ],
+  [
+   "2024-01",
+   "social-learning",
+   "technology"
+  ],
+  [
+   "2024-01",
+   "social-learning",
+   "theory"
+  ],
+  [
+   "2024-01",
+   "social-learning",
    "theory"
   ],
   [
@@ -36436,6 +37696,36 @@
    "2024-02",
    "animal-learning",
    "application"
+  ],
+  [
+   "2024-02",
+   "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-02",
+   "animal-learning",
+   "theory"
   ],
   [
    "2024-02",
@@ -36544,8 +37834,13 @@
   ],
   [
    "2024-02",
-   "cognitive-science",
-   "mechanism"
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "behavioral",
+   "theory"
   ],
   [
    "2024-02",
@@ -36576,6 +37871,16 @@
    "2024-02",
    "cognitive-science",
    "mechanism"
+  ],
+  [
+   "2024-02",
+   "cognitive-science",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "cognitive-science",
+   "method"
   ],
   [
    "2024-02",
@@ -36761,6 +38066,11 @@
    "2024-02",
    "collective",
    "mechanism"
+  ],
+  [
+   "2024-02",
+   "collective",
+   "method"
   ],
   [
    "2024-02",
@@ -36905,6 +38215,16 @@
   [
    "2024-02",
    "developmental",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "developmental",
+   "method"
+  ],
+  [
+   "2024-02",
+   "developmental",
    "method"
   ],
   [
@@ -36916,6 +38236,11 @@
    "2024-02",
    "developmental",
    "method"
+  ],
+  [
+   "2024-02",
+   "developmental",
+   "theory"
   ],
   [
    "2024-02",
@@ -36990,6 +38315,16 @@
   [
    "2024-02",
    "education",
+   "method"
+  ],
+  [
+   "2024-02",
+   "education",
+   "method"
+  ],
+  [
+   "2024-02",
+   "education",
    "review"
   ],
   [
@@ -37006,6 +38341,11 @@
    "2024-02",
    "education",
    "technology"
+  ],
+  [
+   "2024-02",
+   "education",
+   "theory"
   ],
   [
    "2024-02",
@@ -37070,6 +38410,26 @@
   [
    "2024-02",
    "educational-psychology",
+   "method"
+  ],
+  [
+   "2024-02",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "educational-psychology",
    "theory"
   ],
   [
@@ -37190,6 +38550,21 @@
   [
    "2024-02",
    "health",
+   "application"
+  ],
+  [
+   "2024-02",
+   "health",
+   "method"
+  ],
+  [
+   "2024-02",
+   "health",
+   "method"
+  ],
+  [
+   "2024-02",
+   "health",
    "method"
   ],
   [
@@ -37206,6 +38581,16 @@
    "2024-02",
    "health",
    "technology"
+  ],
+  [
+   "2024-02",
+   "health",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "health",
+   "theory"
   ],
   [
    "2024-02",
@@ -37356,6 +38741,11 @@
    "2024-02",
    "language",
    "technology"
+  ],
+  [
+   "2024-02",
+   "language",
+   "theory"
   ],
   [
    "2024-02",
@@ -38195,6 +39585,16 @@
   [
    "2024-02",
    "memory-science",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2024-02",
+   "memory-science",
    "method"
   ],
   [
@@ -38205,6 +39605,16 @@
   [
    "2024-02",
    "memory-science",
+   "method"
+  ],
+  [
+   "2024-02",
+   "memory-science",
+   "technology"
+  ],
+  [
+   "2024-02",
+   "memory-science",
    "technology"
   ],
   [
@@ -38216,6 +39626,21 @@
    "2024-02",
    "memory-science",
    "technology"
+  ],
+  [
+   "2024-02",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "memory-science",
+   "theory"
   ],
   [
    "2024-02",
@@ -38385,6 +39810,16 @@
   [
    "2024-02",
    "motor",
+   "method"
+  ],
+  [
+   "2024-02",
+   "motor",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "motor",
    "theory"
   ],
   [
@@ -38425,6 +39860,11 @@
   [
    "2024-02",
    "neuromorphic",
+   "application"
+  ],
+  [
+   "2024-02",
+   "neuromorphic",
    "development"
   ],
   [
@@ -38451,6 +39891,16 @@
    "2024-02",
    "neuromorphic",
    "mechanism"
+  ],
+  [
+   "2024-02",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2024-02",
+   "neuromorphic",
+   "method"
   ],
   [
    "2024-02",
@@ -38604,6 +40054,11 @@
   ],
   [
    "2024-02",
+   "neuroscience",
+   "theory"
+  ],
+  [
+   "2024-02",
    "perceptual",
    "development"
   ],
@@ -38615,6 +40070,26 @@
   [
    "2024-02",
    "perceptual",
+   "mechanism"
+  ],
+  [
+   "2024-02",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-02",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-02",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-02",
+   "perceptual",
    "method"
   ],
   [
@@ -38631,6 +40106,16 @@
    "2024-02",
    "perceptual",
    "technology"
+  ],
+  [
+   "2024-02",
+   "perceptual",
+   "technology"
+  ],
+  [
+   "2024-02",
+   "perceptual",
+   "theory"
   ],
   [
    "2024-02",
@@ -38650,7 +40135,22 @@
   [
    "2024-02",
    "philosophy-of-mind",
+   "method"
+  ],
+  [
+   "2024-02",
+   "philosophy-of-mind",
    "technology"
+  ],
+  [
+   "2024-02",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "philosophy-of-mind",
+   "theory"
   ],
   [
    "2024-02",
@@ -38721,6 +40221,21 @@
    "2024-02",
    "social-learning",
    "technology"
+  ],
+  [
+   "2024-02",
+   "social-learning",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "social-learning",
+   "theory"
+  ],
+  [
+   "2024-02",
+   "social-learning",
+   "theory"
   ],
   [
    "2024-02",
@@ -38746,6 +40261,21 @@
    "2024-03",
    "animal-learning",
    "mechanism"
+  ],
+  [
+   "2024-03",
+   "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-03",
+   "animal-learning",
+   "method"
   ],
   [
    "2024-03",
@@ -38786,6 +40316,16 @@
    "2024-03",
    "behavioral",
    "mechanism"
+  ],
+  [
+   "2024-03",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2024-03",
+   "behavioral",
+   "method"
   ],
   [
    "2024-03",
@@ -38955,12 +40495,32 @@
   [
    "2024-03",
    "cognitive-science",
+   "method"
+  ],
+  [
+   "2024-03",
+   "cognitive-science",
+   "method"
+  ],
+  [
+   "2024-03",
+   "cognitive-science",
+   "method"
+  ],
+  [
+   "2024-03",
+   "cognitive-science",
    "technology"
   ],
   [
    "2024-03",
    "cognitive-science",
    "technology"
+  ],
+  [
+   "2024-03",
+   "cognitive-science",
+   "theory"
   ],
   [
    "2024-03",
@@ -39135,6 +40695,16 @@
   [
    "2024-03",
    "collective",
+   "review"
+  ],
+  [
+   "2024-03",
+   "collective",
+   "technology"
+  ],
+  [
+   "2024-03",
+   "collective",
    "technology"
   ],
   [
@@ -39219,6 +40789,16 @@
   ],
   [
    "2024-03",
+   "collective",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "collective",
+   "theory"
+  ],
+  [
+   "2024-03",
    "creative",
    "method"
   ],
@@ -39281,6 +40861,26 @@
    "2024-03",
    "creative",
    "theory"
+  ],
+  [
+   "2024-03",
+   "developmental",
+   "application"
+  ],
+  [
+   "2024-03",
+   "developmental",
+   "development"
+  ],
+  [
+   "2024-03",
+   "developmental",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "developmental",
+   "mechanism"
   ],
   [
    "2024-03",
@@ -39365,7 +40965,27 @@
   [
    "2024-03",
    "education",
-   "review"
+   "method"
+  ],
+  [
+   "2024-03",
+   "education",
+   "method"
+  ],
+  [
+   "2024-03",
+   "education",
+   "method"
+  ],
+  [
+   "2024-03",
+   "education",
+   "method"
+  ],
+  [
+   "2024-03",
+   "education",
+   "method"
   ],
   [
    "2024-03",
@@ -39375,6 +40995,11 @@
   [
    "2024-03",
    "education",
+   "review"
+  ],
+  [
+   "2024-03",
+   "education",
    "theory"
   ],
   [
@@ -39435,7 +41060,17 @@
   [
    "2024-03",
    "educational-psychology",
+   "method"
+  ],
+  [
+   "2024-03",
+   "educational-psychology",
    "technology"
+  ],
+  [
+   "2024-03",
+   "educational-psychology",
+   "theory"
   ],
   [
    "2024-03",
@@ -39545,7 +41180,17 @@
   [
    "2024-03",
    "health",
+   "application"
+  ],
+  [
+   "2024-03",
+   "health",
    "development"
+  ],
+  [
+   "2024-03",
+   "health",
+   "mechanism"
   ],
   [
    "2024-03",
@@ -39571,6 +41216,11 @@
    "2024-03",
    "health",
    "method"
+  ],
+  [
+   "2024-03",
+   "health",
+   "theory"
   ],
   [
    "2024-03",
@@ -39626,6 +41276,21 @@
    "2024-03",
    "language",
    "mechanism"
+  ],
+  [
+   "2024-03",
+   "language",
+   "method"
+  ],
+  [
+   "2024-03",
+   "language",
+   "method"
+  ],
+  [
+   "2024-03",
+   "language",
+   "method"
   ],
   [
    "2024-03",
@@ -39691,6 +41356,11 @@
    "2024-03",
    "language",
    "technology"
+  ],
+  [
+   "2024-03",
+   "language",
+   "theory"
   ],
   [
    "2024-03",
@@ -40290,6 +41960,11 @@
   [
    "2024-03",
    "memory-science",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "memory-science",
    "method"
   ],
   [
@@ -40399,6 +42074,21 @@
   ],
   [
    "2024-03",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-03",
    "motor",
    "application"
   ],
@@ -40406,6 +42096,11 @@
    "2024-03",
    "motor",
    "application"
+  ],
+  [
+   "2024-03",
+   "motor",
+   "development"
   ],
   [
    "2024-03",
@@ -40441,6 +42136,11 @@
    "2024-03",
    "motor",
    "method"
+  ],
+  [
+   "2024-03",
+   "motor",
+   "theory"
   ],
   [
    "2024-03",
@@ -40490,7 +42190,7 @@
   [
    "2024-03",
    "neuromorphic",
-   "method"
+   "mechanism"
   ],
   [
    "2024-03",
@@ -40515,7 +42215,22 @@
   [
    "2024-03",
    "neuromorphic",
-   "theory"
+   "method"
+  ],
+  [
+   "2024-03",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2024-03",
+   "neuromorphic",
+   "method"
+  ],
+  [
+   "2024-03",
+   "neuromorphic",
+   "method"
   ],
   [
    "2024-03",
@@ -40541,6 +42256,21 @@
    "2024-03",
    "neuromorphic",
    "theory"
+  ],
+  [
+   "2024-03",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "neuroscience",
+   "development"
   ],
   [
    "2024-03",
@@ -40690,6 +42420,11 @@
   [
    "2024-03",
    "perceptual",
+   "mechanism"
+  ],
+  [
+   "2024-03",
+   "perceptual",
    "method"
   ],
   [
@@ -40779,6 +42514,26 @@
   ],
   [
    "2024-03",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-03",
+   "social-learning",
+   "application"
+  ],
+  [
+   "2024-03",
    "social-learning",
    "mechanism"
   ],
@@ -40900,7 +42655,12 @@
   [
    "2024-04",
    "animal-learning",
-   "theory"
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "animal-learning",
+   "technology"
   ],
   [
    "2024-04",
@@ -40921,6 +42681,26 @@
    "2024-04",
    "animal-learning",
    "theory"
+  ],
+  [
+   "2024-04",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "behavioral",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "behavioral",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "behavioral",
+   "method"
   ],
   [
    "2024-04",
@@ -41026,6 +42806,11 @@
    "2024-04",
    "cognitive-science",
    "mechanism"
+  ],
+  [
+   "2024-04",
+   "cognitive-science",
+   "method"
   ],
   [
    "2024-04",
@@ -41111,6 +42896,11 @@
    "2024-04",
    "cognitive-science",
    "review"
+  ],
+  [
+   "2024-04",
+   "cognitive-science",
+   "theory"
   ],
   [
    "2024-04",
@@ -41200,6 +42990,11 @@
   [
    "2024-04",
    "collective",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "collective",
    "method"
   ],
   [
@@ -41340,6 +43135,21 @@
   [
    "2024-04",
    "developmental",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "developmental",
+   "method"
+  ],
+  [
+   "2024-04",
+   "developmental",
+   "method"
+  ],
+  [
+   "2024-04",
+   "developmental",
    "method"
   ],
   [
@@ -41384,8 +43194,13 @@
   ],
   [
    "2024-04",
+   "developmental",
+   "theory"
+  ],
+  [
+   "2024-04",
    "education",
-   "mechanism"
+   "application"
   ],
   [
    "2024-04",
@@ -41400,7 +43215,7 @@
   [
    "2024-04",
    "education",
-   "method"
+   "mechanism"
   ],
   [
    "2024-04",
@@ -41441,6 +43256,26 @@
    "2024-04",
    "education",
    "method"
+  ],
+  [
+   "2024-04",
+   "education",
+   "method"
+  ],
+  [
+   "2024-04",
+   "education",
+   "method"
+  ],
+  [
+   "2024-04",
+   "education",
+   "method"
+  ],
+  [
+   "2024-04",
+   "education",
+   "review"
   ],
   [
    "2024-04",
@@ -41705,12 +43540,32 @@
   [
    "2024-04",
    "health",
+   "method"
+  ],
+  [
+   "2024-04",
+   "health",
+   "method"
+  ],
+  [
+   "2024-04",
+   "health",
    "review"
   ],
   [
    "2024-04",
    "health",
    "review"
+  ],
+  [
+   "2024-04",
+   "health",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "health",
+   "theory"
   ],
   [
    "2024-04",
@@ -41791,6 +43646,11 @@
    "2024-04",
    "language",
    "mechanism"
+  ],
+  [
+   "2024-04",
+   "language",
+   "method"
   ],
   [
    "2024-04",
@@ -42430,7 +44290,12 @@
   [
    "2024-04",
    "memory-science",
-   "method"
+   "application"
+  ],
+  [
+   "2024-04",
+   "memory-science",
+   "mechanism"
   ],
   [
    "2024-04",
@@ -42441,6 +44306,16 @@
    "2024-04",
    "memory-science",
    "method"
+  ],
+  [
+   "2024-04",
+   "memory-science",
+   "method"
+  ],
+  [
+   "2024-04",
+   "memory-science",
+   "theory"
   ],
   [
    "2024-04",
@@ -42530,6 +44405,16 @@
   [
    "2024-04",
    "motor",
+   "development"
+  ],
+  [
+   "2024-04",
+   "motor",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "motor",
    "mechanism"
   ],
   [
@@ -42540,7 +44425,7 @@
   [
    "2024-04",
    "motor",
-   "method"
+   "mechanism"
   ],
   [
    "2024-04",
@@ -42561,6 +44446,21 @@
    "2024-04",
    "motor",
    "method"
+  ],
+  [
+   "2024-04",
+   "motor",
+   "method"
+  ],
+  [
+   "2024-04",
+   "motor",
+   "method"
+  ],
+  [
+   "2024-04",
+   "motor",
+   "theory"
   ],
   [
    "2024-04",
@@ -42595,6 +44495,16 @@
   [
    "2024-04",
    "neuromorphic",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "neuromorphic",
+   "mechanism"
+  ],
+  [
+   "2024-04",
+   "neuromorphic",
    "method"
   ],
   [
@@ -42620,12 +44530,22 @@
   [
    "2024-04",
    "neuromorphic",
+   "technology"
+  ],
+  [
+   "2024-04",
+   "neuromorphic",
    "theory"
   ],
   [
    "2024-04",
    "neuromorphic",
    "theory"
+  ],
+  [
+   "2024-04",
+   "neuroscience",
+   "application"
   ],
   [
    "2024-04",
@@ -42725,7 +44645,7 @@
   [
    "2024-04",
    "neuroscience",
-   "review"
+   "method"
   ],
   [
    "2024-04",
@@ -42741,6 +44661,16 @@
    "2024-04",
    "neuroscience",
    "review"
+  ],
+  [
+   "2024-04",
+   "neuroscience",
+   "review"
+  ],
+  [
+   "2024-04",
+   "neuroscience",
+   "theory"
   ],
   [
    "2024-04",
@@ -42810,7 +44740,7 @@
   [
    "2024-04",
    "perceptual",
-   "technology"
+   "method"
   ],
   [
    "2024-04",
@@ -42825,6 +44755,16 @@
   [
    "2024-04",
    "perceptual",
+   "technology"
+  ],
+  [
+   "2024-04",
+   "perceptual",
+   "theory"
+  ],
+  [
+   "2024-04",
+   "philosophy-of-mind",
    "theory"
   ],
   [
@@ -42870,6 +44810,11 @@
   [
    "2024-04",
    "social-learning",
+   "individual-differences"
+  ],
+  [
+   "2024-04",
+   "social-learning",
    "mechanism"
   ],
   [
@@ -42948,6 +44893,11 @@
    "theory"
   ],
   [
+   "2024-04",
+   "social-learning",
+   "theory"
+  ],
+  [
    "2024-05",
    "animal-learning",
    "application"
@@ -42956,11 +44906,36 @@
    "2024-05",
    "animal-learning",
    "application"
+  ],
+  [
+   "2024-05",
+   "animal-learning",
+   "mechanism"
   ],
   [
    "2024-05",
    "animal-learning",
    "method"
+  ],
+  [
+   "2024-05",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "animal-learning",
+   "technology"
   ],
   [
    "2024-05",
@@ -43036,6 +45011,21 @@
    "2024-05",
    "behavioral",
    "method"
+  ],
+  [
+   "2024-05",
+   "behavioral",
+   "technology"
+  ],
+  [
+   "2024-05",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "behavioral",
+   "theory"
   ],
   [
    "2024-05",
@@ -43066,6 +45056,11 @@
    "2024-05",
    "cognitive-science",
    "application"
+  ],
+  [
+   "2024-05",
+   "cognitive-science",
+   "mechanism"
   ],
   [
    "2024-05",
@@ -43146,6 +45141,11 @@
    "2024-05",
    "cognitive-science",
    "review"
+  ],
+  [
+   "2024-05",
+   "cognitive-science",
+   "theory"
   ],
   [
    "2024-05",
@@ -43265,6 +45265,11 @@
   [
    "2024-05",
    "collective",
+   "method"
+  ],
+  [
+   "2024-05",
+   "collective",
    "technology"
   ],
   [
@@ -43344,6 +45349,11 @@
   ],
   [
    "2024-05",
+   "collective",
+   "theory"
+  ],
+  [
+   "2024-05",
    "creative",
    "method"
   ],
@@ -43421,6 +45431,11 @@
    "2024-05",
    "developmental",
    "mechanism"
+  ],
+  [
+   "2024-05",
+   "developmental",
+   "method"
   ],
   [
    "2024-05",
@@ -43610,6 +45625,11 @@
   [
    "2024-05",
    "educational-psychology",
+   "individual-differences"
+  ],
+  [
+   "2024-05",
+   "educational-psychology",
    "mechanism"
   ],
   [
@@ -43756,6 +45776,21 @@
    "2024-05",
    "health",
    "method"
+  ],
+  [
+   "2024-05",
+   "health",
+   "method"
+  ],
+  [
+   "2024-05",
+   "health",
+   "technology"
+  ],
+  [
+   "2024-05",
+   "health",
+   "theory"
   ],
   [
    "2024-05",
@@ -43931,6 +45966,16 @@
    "2024-05",
    "language",
    "method"
+  ],
+  [
+   "2024-05",
+   "language",
+   "method"
+  ],
+  [
+   "2024-05",
+   "language",
+   "theory"
   ],
   [
    "2024-05",
@@ -44814,8 +46859,18 @@
   ],
   [
    "2024-05",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-05",
    "motor",
    "development"
+  ],
+  [
+   "2024-05",
+   "motor",
+   "mechanism"
   ],
   [
    "2024-05",
@@ -44839,6 +46894,21 @@
   ],
   [
    "2024-05",
+   "motor",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "neuromorphic",
+   "application"
+  ],
+  [
+   "2024-05",
+   "neuromorphic",
+   "application"
+  ],
+  [
+   "2024-05",
    "neuromorphic",
    "development"
   ],
@@ -44871,6 +46941,16 @@
    "2024-05",
    "neuromorphic",
    "method"
+  ],
+  [
+   "2024-05",
+   "neuromorphic",
+   "technology"
+  ],
+  [
+   "2024-05",
+   "neuromorphic",
+   "theory"
   ],
   [
    "2024-05",
@@ -44906,6 +46986,11 @@
    "2024-05",
    "neuroscience",
    "application"
+  ],
+  [
+   "2024-05",
+   "neuroscience",
+   "development"
   ],
   [
    "2024-05",
@@ -45014,6 +47099,16 @@
   ],
   [
    "2024-05",
+   "neuroscience",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "neuroscience",
+   "theory"
+  ],
+  [
+   "2024-05",
    "perceptual",
    "development"
   ],
@@ -45025,6 +47120,26 @@
   [
    "2024-05",
    "perceptual",
+   "method"
+  ],
+  [
+   "2024-05",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-05",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-05",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-05",
+   "perceptual",
    "technology"
   ],
   [
@@ -45074,8 +47189,8 @@
   ],
   [
    "2024-05",
-   "philosophy-of-mind",
-   "method"
+   "perceptual",
+   "theory"
   ],
   [
    "2024-05",
@@ -45091,6 +47206,31 @@
    "2024-05",
    "philosophy-of-mind",
    "method"
+  ],
+  [
+   "2024-05",
+   "philosophy-of-mind",
+   "method"
+  ],
+  [
+   "2024-05",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "philosophy-of-mind",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "philosophy-of-mind",
+   "theory"
   ],
   [
    "2024-05",
@@ -45170,6 +47310,16 @@
   [
    "2024-05",
    "social-learning",
+   "method"
+  ],
+  [
+   "2024-05",
+   "social-learning",
+   "theory"
+  ],
+  [
+   "2024-05",
+   "social-learning",
    "theory"
   ],
   [
@@ -45225,6 +47375,26 @@
   [
    "2024-06",
    "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-06",
+   "animal-learning",
+   "technology"
+  ],
+  [
+   "2024-06",
+   "animal-learning",
    "technology"
   ],
   [
@@ -45259,8 +47429,8 @@
   ],
   [
    "2024-06",
-   "behavioral",
-   "method"
+   "animal-learning",
+   "theory"
   ],
   [
    "2024-06",
@@ -45291,6 +47461,26 @@
    "2024-06",
    "behavioral",
    "method"
+  ],
+  [
+   "2024-06",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2024-06",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "behavioral",
+   "theory"
   ],
   [
    "2024-06",
@@ -45470,7 +47660,37 @@
   [
    "2024-06",
    "cognitive-science",
+   "method"
+  ],
+  [
+   "2024-06",
+   "cognitive-science",
+   "method"
+  ],
+  [
+   "2024-06",
+   "cognitive-science",
    "technology"
+  ],
+  [
+   "2024-06",
+   "cognitive-science",
+   "technology"
+  ],
+  [
+   "2024-06",
+   "cognitive-science",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "cognitive-science",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "cognitive-science",
+   "theory"
   ],
   [
    "2024-06",
@@ -45591,6 +47811,11 @@
    "2024-06",
    "collective",
    "method"
+  ],
+  [
+   "2024-06",
+   "collective",
+   "technology"
   ],
   [
    "2024-06",
@@ -45720,6 +47945,11 @@
   [
    "2024-06",
    "developmental",
+   "application"
+  ],
+  [
+   "2024-06",
+   "developmental",
    "development"
   ],
   [
@@ -45735,7 +47965,17 @@
   [
    "2024-06",
    "developmental",
-   "theory"
+   "method"
+  ],
+  [
+   "2024-06",
+   "developmental",
+   "method"
+  ],
+  [
+   "2024-06",
+   "developmental",
+   "method"
   ],
   [
    "2024-06",
@@ -45756,6 +47996,21 @@
    "2024-06",
    "developmental",
    "theory"
+  ],
+  [
+   "2024-06",
+   "developmental",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "education",
+   "method"
+  ],
+  [
+   "2024-06",
+   "education",
+   "method"
   ],
   [
    "2024-06",
@@ -45914,6 +48169,26 @@
   ],
   [
    "2024-06",
+   "education",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "education",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "educational-psychology",
+   "application"
+  ],
+  [
+   "2024-06",
+   "educational-psychology",
+   "development"
+  ],
+  [
+   "2024-06",
    "educational-psychology",
    "development"
   ],
@@ -45921,6 +48196,21 @@
    "2024-06",
    "educational-psychology",
    "mechanism"
+  ],
+  [
+   "2024-06",
+   "educational-psychology",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "educational-psychology",
+   "method"
+  ],
+  [
+   "2024-06",
+   "educational-psychology",
+   "method"
   ],
   [
    "2024-06",
@@ -46046,6 +48336,16 @@
    "2024-06",
    "health",
    "application"
+  ],
+  [
+   "2024-06",
+   "health",
+   "method"
+  ],
+  [
+   "2024-06",
+   "health",
+   "method"
   ],
   [
    "2024-06",
@@ -46179,6 +48479,11 @@
   ],
   [
    "2024-06",
+   "health",
+   "theory"
+  ],
+  [
+   "2024-06",
    "language",
    "application"
   ],
@@ -46271,6 +48576,11 @@
    "2024-06",
    "language",
    "technology"
+  ],
+  [
+   "2024-06",
+   "language",
+   "theory"
   ],
   [
    "2024-06",
@@ -47059,6 +49369,21 @@
   ],
   [
    "2024-06",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "motor",
+   "mechanism"
+  ],
+  [
+   "2024-06",
    "motor",
    "mechanism"
   ],
@@ -47071,6 +49396,16 @@
    "2024-06",
    "motor",
    "mechanism"
+  ],
+  [
+   "2024-06",
+   "motor",
+   "method"
+  ],
+  [
+   "2024-06",
+   "motor",
+   "method"
   ],
   [
    "2024-06",
@@ -47230,7 +49565,7 @@
   [
    "2024-06",
    "neuromorphic",
-   "theory"
+   "method"
   ],
   [
    "2024-06",
@@ -47246,6 +49581,16 @@
    "2024-06",
    "neuromorphic",
    "theory"
+  ],
+  [
+   "2024-06",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2024-06",
+   "neuroscience",
+   "application"
   ],
   [
    "2024-06",
@@ -47379,6 +49724,11 @@
   ],
   [
    "2024-06",
+   "neuroscience",
+   "theory"
+  ],
+  [
+   "2024-06",
    "perceptual",
    "development"
   ],
@@ -47405,6 +49755,11 @@
   [
    "2024-06",
    "perceptual",
+   "method"
+  ],
+  [
+   "2024-06",
+   "perceptual",
    "theory"
   ],
   [
@@ -47471,6 +49826,21 @@
    "2024-06",
    "philosophy-of-mind",
    "theory"
+  ],
+  [
+   "2024-06",
+   "social-learning",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "social-learning",
+   "mechanism"
+  ],
+  [
+   "2024-06",
+   "social-learning",
+   "method"
   ],
   [
    "2024-06",
@@ -47574,6 +49944,16 @@
   ],
   [
    "2024-07",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-07",
    "behavioral",
    "method"
   ],
@@ -47581,6 +49961,31 @@
    "2024-07",
    "behavioral",
    "method"
+  ],
+  [
+   "2024-07",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "behavioral",
+   "theory"
   ],
   [
    "2024-07",
@@ -47799,6 +50204,16 @@
   ],
   [
    "2024-07",
+   "cognitive-science",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "cognitive-science",
+   "theory"
+  ],
+  [
+   "2024-07",
    "collective",
    "development"
   ],
@@ -47835,7 +50250,17 @@
   [
    "2024-07",
    "collective",
+   "method"
+  ],
+  [
+   "2024-07",
+   "collective",
    "technology"
+  ],
+  [
+   "2024-07",
+   "collective",
+   "theory"
   ],
   [
    "2024-07",
@@ -47951,6 +50376,16 @@
    "2024-07",
    "creative",
    "theory"
+  ],
+  [
+   "2024-07",
+   "developmental",
+   "development"
+  ],
+  [
+   "2024-07",
+   "developmental",
+   "method"
   ],
   [
    "2024-07",
@@ -48055,7 +50490,7 @@
   [
    "2024-07",
    "education",
-   "technology"
+   "method"
   ],
   [
    "2024-07",
@@ -48066,6 +50501,16 @@
    "2024-07",
    "education",
    "technology"
+  ],
+  [
+   "2024-07",
+   "education",
+   "technology"
+  ],
+  [
+   "2024-07",
+   "education",
+   "theory"
   ],
   [
    "2024-07",
@@ -48194,6 +50639,11 @@
   ],
   [
    "2024-07",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2024-07",
    "emotion",
    "method"
   ],
@@ -48325,6 +50775,11 @@
   [
    "2024-07",
    "health",
+   "method"
+  ],
+  [
+   "2024-07",
+   "health",
    "review"
   ],
   [
@@ -48374,8 +50829,8 @@
   ],
   [
    "2024-07",
-   "language",
-   "mechanism"
+   "health",
+   "theory"
   ],
   [
    "2024-07",
@@ -48396,6 +50851,16 @@
    "2024-07",
    "language",
    "mechanism"
+  ],
+  [
+   "2024-07",
+   "language",
+   "mechanism"
+  ],
+  [
+   "2024-07",
+   "language",
+   "method"
   ],
   [
    "2024-07",
@@ -49036,6 +51501,11 @@
    "2024-07",
    "machine-learning",
    "theory"
+  ],
+  [
+   "2024-07",
+   "memory-science",
+   "mechanism"
   ],
   [
    "2024-07",
@@ -49129,6 +51599,11 @@
   ],
   [
    "2024-07",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-07",
    "motor",
    "mechanism"
   ],
@@ -49155,12 +51630,27 @@
   [
    "2024-07",
    "motor",
+   "method"
+  ],
+  [
+   "2024-07",
+   "motor",
+   "method"
+  ],
+  [
+   "2024-07",
+   "motor",
    "theory"
   ],
   [
    "2024-07",
    "motor",
    "theory"
+  ],
+  [
+   "2024-07",
+   "neuromorphic",
+   "development"
   ],
   [
    "2024-07",
@@ -49236,6 +51726,21 @@
    "2024-07",
    "neuromorphic",
    "theory"
+  ],
+  [
+   "2024-07",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "neuromorphic",
+   "theory"
+  ],
+  [
+   "2024-07",
+   "neuroscience",
+   "application"
   ],
   [
    "2024-07",
@@ -49331,6 +51836,11 @@
    "2024-07",
    "neuroscience",
    "technology"
+  ],
+  [
+   "2024-07",
+   "neuroscience",
+   "theory"
   ],
   [
    "2024-07",
@@ -49390,12 +51900,32 @@
   [
    "2024-07",
    "perceptual",
+   "mechanism"
+  ],
+  [
+   "2024-07",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-07",
+   "perceptual",
+   "method"
+  ],
+  [
+   "2024-07",
+   "perceptual",
    "technology"
   ],
   [
    "2024-07",
    "perceptual",
    "technology"
+  ],
+  [
+   "2024-07",
+   "perceptual",
+   "theory"
   ],
   [
    "2024-07",
@@ -49480,7 +52010,17 @@
   [
    "2024-07",
    "social-learning",
+   "individual-differences"
+  ],
+  [
+   "2024-07",
+   "social-learning",
    "mechanism"
+  ],
+  [
+   "2024-07",
+   "social-learning",
+   "method"
   ],
   [
    "2024-07",
@@ -49675,7 +52215,12 @@
   [
    "2024-08",
    "behavioral",
-   "method"
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "behavioral",
+   "mechanism"
   ],
   [
    "2024-08",
@@ -49696,6 +52241,31 @@
    "2024-08",
    "behavioral",
    "method"
+  ],
+  [
+   "2024-08",
+   "behavioral",
+   "method"
+  ],
+  [
+   "2024-08",
+   "behavioral",
+   "technology"
+  ],
+  [
+   "2024-08",
+   "behavioral",
+   "technology"
+  ],
+  [
+   "2024-08",
+   "behavioral",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "behavioral",
+   "theory"
   ],
   [
    "2024-08",
@@ -50004,6 +52574,11 @@
   ],
   [
    "2024-08",
+   "collective",
+   "theory"
+  ],
+  [
+   "2024-08",
    "creative",
    "application"
   ],
@@ -50125,6 +52700,11 @@
   [
    "2024-08",
    "developmental",
+   "method"
+  ],
+  [
+   "2024-08",
+   "developmental",
    "theory"
   ],
   [
@@ -50309,6 +52889,11 @@
   ],
   [
    "2024-08",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2024-08",
    "emotion",
    "method"
   ],
@@ -50436,6 +53021,26 @@
    "2024-08",
    "evolutionary",
    "theory"
+  ],
+  [
+   "2024-08",
+   "health",
+   "application"
+  ],
+  [
+   "2024-08",
+   "health",
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "health",
+   "method"
+  ],
+  [
+   "2024-08",
+   "health",
+   "method"
   ],
   [
    "2024-08",
@@ -50521,6 +53126,11 @@
    "2024-08",
    "language",
    "application"
+  ],
+  [
+   "2024-08",
+   "language",
+   "method"
   ],
   [
    "2024-08",
@@ -51120,7 +53730,12 @@
   [
    "2024-08",
    "memory-science",
-   "method"
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "memory-science",
+   "mechanism"
   ],
   [
    "2024-08",
@@ -51135,7 +53750,7 @@
   [
    "2024-08",
    "memory-science",
-   "technology"
+   "method"
   ],
   [
    "2024-08",
@@ -51160,7 +53775,7 @@
   [
    "2024-08",
    "memory-science",
-   "theory"
+   "technology"
   ],
   [
    "2024-08",
@@ -51211,6 +53826,36 @@
    "2024-08",
    "memory-science",
    "theory"
+  ],
+  [
+   "2024-08",
+   "memory-science",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "motor",
+   "development"
+  ],
+  [
+   "2024-08",
+   "motor",
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "motor",
+   "mechanism"
+  ],
+  [
+   "2024-08",
+   "motor",
+   "method"
+  ],
+  [
+   "2024-08",
+   "motor",
+   "method"
   ],
   [
    "2024-08",
@@ -51306,6 +53951,11 @@
    "2024-08",
    "neuromorphic",
    "method"
+  ],
+  [
+   "2024-08",
+   "neuromorphic",
+   "theory"
   ],
   [
    "2024-08",
@@ -51476,6 +54126,16 @@
    "2024-08",
    "perceptual",
    "technology"
+  ],
+  [
+   "2024-08",
+   "perceptual",
+   "theory"
+  ],
+  [
+   "2024-08",
+   "perceptual",
+   "theory"
   ],
   [
    "2024-08",
@@ -51623,6 +54283,11 @@
    "theory"
   ],
   [
+   "2024-08",
+   "social-learning",
+   "theory"
+  ],
+  [
    "2024-09",
    "",
    ""
@@ -52090,6 +54755,21 @@
   [
    "2024-09",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-09",
+   "animal-learning",
    "review"
   ],
   [
@@ -52101,6 +54781,21 @@
    "2024-09",
    "animal-learning",
    "technology"
+  ],
+  [
+   "2024-09",
+   "animal-learning",
+   "technology"
+  ],
+  [
+   "2024-09",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-09",
+   "animal-learning",
+   "theory"
   ],
   [
    "2024-09",
@@ -55250,6 +57945,11 @@
   [
    "2024-10",
    "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2024-10",
+   "animal-learning",
    "method"
   ],
   [
@@ -59005,12 +61705,37 @@
   [
    "2024-11",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-11",
+   "animal-learning",
    "technology"
   ],
   [
    "2024-11",
    "animal-learning",
    "technology"
+  ],
+  [
+   "2024-11",
+   "animal-learning",
+   "theory"
   ],
   [
    "2024-11",
@@ -61955,12 +64680,52 @@
   [
    "2024-12",
    "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
    "technology"
   ],
   [
    "2024-12",
    "animal-learning",
    "technology"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2024-12",
+   "animal-learning",
+   "theory"
   ],
   [
    "2024-12",
@@ -62866,11 +65631,6 @@
    "2024-12",
    "education",
    "method"
-  ],
-  [
-   "2024-12",
-   "education",
-   "review"
   ],
   [
    "2024-12",
@@ -65330,12 +68090,27 @@
   [
    "2025-01",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "animal-learning",
+   "method"
+  ],
+  [
+   "2025-01",
+   "animal-learning",
    "technology"
   ],
   [
    "2025-01",
    "animal-learning",
    "technology"
+  ],
+  [
+   "2025-01",
+   "animal-learning",
+   "theory"
   ],
   [
    "2025-01",
@@ -68680,12 +71455,22 @@
   [
    "2025-02",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2025-02",
+   "animal-learning",
    "technology"
   ],
   [
    "2025-02",
    "animal-learning",
    "technology"
+  ],
+  [
+   "2025-02",
+   "animal-learning",
+   "theory"
   ],
   [
    "2025-02",
@@ -71925,6 +74710,16 @@
   [
    "2025-03",
    "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2025-03",
+   "animal-learning",
    "method"
   ],
   [
@@ -75345,7 +78140,7 @@
   [
    "2025-04",
    "animal-learning",
-   "technology"
+   "mechanism"
   ],
   [
    "2025-04",
@@ -75361,6 +78156,16 @@
    "2025-04",
    "animal-learning",
    "technology"
+  ],
+  [
+   "2025-04",
+   "animal-learning",
+   "technology"
+  ],
+  [
+   "2025-04",
+   "animal-learning",
+   "theory"
   ],
   [
    "2025-04",
@@ -78749,6 +81554,16 @@
   ],
   [
    "2025-05",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2025-05",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2025-05",
    "behavioral",
    "application"
   ],
@@ -85845,7 +88660,17 @@
   [
    "2025-07",
    "animal-learning",
-   "technology"
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2025-07",
+   "animal-learning",
+   "method"
   ],
   [
    "2025-07",
@@ -85856,6 +88681,16 @@
    "2025-07",
    "animal-learning",
    "technology"
+  ],
+  [
+   "2025-07",
+   "animal-learning",
+   "technology"
+  ],
+  [
+   "2025-07",
+   "animal-learning",
+   "theory"
   ],
   [
    "2025-07",
@@ -89310,6 +92145,11 @@
   [
    "2025-08",
    "animal-learning",
+   "mechanism"
+  ],
+  [
+   "2025-08",
+   "animal-learning",
    "technology"
   ],
   [
@@ -93509,6 +96349,11 @@
   ],
   [
    "2025-09",
+   "animal-learning",
+   "theory"
+  ],
+  [
+   "2025-09",
    "behavioral",
    "application"
   ],
@@ -96531,6 +99376,11 @@
    "2025-09",
    "social-learning",
    "method"
+  ],
+  [
+   "2025-09",
+   "social-learning",
+   "technology"
   ],
   [
    "2025-09",
@@ -109975,6 +112825,11 @@
   [
    "2026-01",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2026-01",
+   "animal-learning",
    "review"
   ],
   [
@@ -115230,6 +118085,11 @@
   [
    "2026-02",
    "animal-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "animal-learning",
    "technology"
   ],
   [
@@ -117065,6 +119925,11 @@
   [
    "2026-02",
    "memory-science",
+   "technology"
+  ],
+  [
+   "2026-02",
+   "memory-science",
    "theory"
   ],
   [
@@ -117741,11 +120606,6 @@
    "2026-02",
    "social-learning",
    "theory"
-  ],
-  [
-   "2026-03",
-   "",
-   ""
   ],
   [
    "2026-03",
@@ -125839,11 +128699,6 @@
   ],
   [
    "2026-04",
-   "",
-   ""
-  ],
-  [
-   "2026-04",
    "animal-learning",
    "application"
   ],
@@ -128508,6 +131363,11 @@
    "theory"
   ],
   [
+   "2026-04",
+   "social-learning",
+   "theory"
+  ],
+  [
    "2026-05",
    "",
    ""
@@ -138769,6 +141629,11 @@
   ],
   [
    "2026-06",
+   "educational-psychology",
+   "theory"
+  ],
+  [
+   "2026-06",
    "emotion",
    "application"
   ],
@@ -140341,6 +143206,11 @@
    "2026-06",
    "philosophy-of-mind",
    "technology"
+  ],
+  [
+   "2026-06",
+   "philosophy-of-mind",
+   "theory"
   ],
   [
    "2026-06",
@@ -145609,60 +148479,60 @@
    "papers": 117
   },
   {
-   "name": "Frontiers in Psychology",
-   "papers": 70
-  },
-  {
    "name": "Scientific Reports",
-   "papers": 66
+   "papers": 76
   },
   {
-   "name": "Education and Information Technologies",
-   "papers": 33
-  },
-  {
-   "name": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "papers": 30
+   "name": "Frontiers in Psychology",
+   "papers": 73
   },
   {
    "name": "Nature Communications",
+   "papers": 39
+  },
+  {
+   "name": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "papers": 36
+  },
+  {
+   "name": "Education and Information Technologies",
+   "papers": 35
+  },
+  {
+   "name": "PLoS ONE",
    "papers": 29
+  },
+  {
+   "name": "Frontiers in Education",
+   "papers": 28
   },
   {
    "name": "PPR",
    "papers": 27
   },
   {
-   "name": "Frontiers in Education",
-   "papers": 26
-  },
-  {
-   "name": "PLoS ONE",
-   "papers": 25
-  },
-  {
-   "name": "Education Sciences",
-   "papers": 21
-  },
-  {
    "name": "Sustainability",
-   "papers": 21
-  },
-  {
-   "name": "Educational Psychology Review",
-   "papers": 20
-  },
-  {
-   "name": "Applied Sciences",
-   "papers": 19
-  },
-  {
-   "name": "Zenodo (CERN European Organization for Nuclear Research)",
-   "papers": 19
+   "papers": 27
   },
   {
    "name": "IEEE Access",
-   "papers": 18
+   "papers": 23
+  },
+  {
+   "name": "Education Sciences",
+   "papers": 22
+  },
+  {
+   "name": "Educational Psychology Review",
+   "papers": 22
+  },
+  {
+   "name": "Journal of Neuroscience",
+   "papers": 21
+  },
+  {
+   "name": "Advanced Functional Materials",
+   "papers": 21
   }
  ],
  "keyword_bursts": [
@@ -145670,106 +148540,106 @@
    "keyword": "agentic",
    "recent": 369,
    "total": 424,
-   "burst_score": 2.21,
+   "burst_score": 2.25,
    "recent_share": 0.0323
   },
   {
    "keyword": "world model",
    "recent": 343,
    "total": 527,
-   "burst_score": 1.65,
+   "burst_score": 1.69,
    "recent_share": 0.03
   },
   {
    "keyword": "scalable",
    "recent": 958,
    "total": 1552,
-   "burst_score": 1.57,
-   "recent_share": 0.0839
+   "burst_score": 1.6,
+   "recent_share": 0.0838
   },
   {
    "keyword": "retrieval",
-   "recent": 615,
-   "total": 1019,
-   "burst_score": 1.53,
-   "recent_share": 0.0538
+   "recent": 614,
+   "total": 1022,
+   "burst_score": 1.56,
+   "recent_share": 0.0537
   },
   {
    "keyword": "policy",
    "recent": 1465,
-   "total": 2516,
-   "burst_score": 1.48,
-   "recent_share": 0.1283
+   "total": 2518,
+   "burst_score": 1.51,
+   "recent_share": 0.1282
   },
   {
    "keyword": "uncertainty",
    "recent": 553,
-   "total": 949,
-   "burst_score": 1.48,
+   "total": 952,
+   "burst_score": 1.5,
    "recent_share": 0.0484
   },
   {
    "keyword": "benchmark",
-   "recent": 2599,
-   "total": 4545,
-   "burst_score": 1.45,
-   "recent_share": 0.2275
+   "recent": 2598,
+   "total": 4544,
+   "burst_score": 1.48,
+   "recent_share": 0.2273
   },
   {
    "keyword": "hierarchical",
    "recent": 535,
-   "total": 947,
-   "burst_score": 1.44,
+   "total": 949,
+   "burst_score": 1.46,
    "recent_share": 0.0468
   },
   {
    "keyword": "multimodal",
    "recent": 811,
-   "total": 1444,
-   "burst_score": 1.43,
+   "total": 1446,
+   "burst_score": 1.45,
    "recent_share": 0.071
   },
   {
    "keyword": "reward",
-   "recent": 989,
-   "total": 1776,
-   "burst_score": 1.41,
+   "recent": 990,
+   "total": 1783,
+   "burst_score": 1.44,
    "recent_share": 0.0866
   },
   {
    "keyword": "opponent",
    "recent": 30,
    "total": 54,
-   "burst_score": 1.41,
+   "burst_score": 1.44,
    "recent_share": 0.0026
+  },
+  {
+   "keyword": "multi-agent",
+   "recent": 709,
+   "total": 1306,
+   "burst_score": 1.41,
+   "recent_share": 0.062
   },
   {
    "keyword": "teaming",
    "recent": 18,
    "total": 33,
-   "burst_score": 1.39,
+   "burst_score": 1.41,
    "recent_share": 0.0016
-  },
-  {
-   "keyword": "multi-agent",
-   "recent": 709,
-   "total": 1304,
-   "burst_score": 1.38,
-   "recent_share": 0.0621
   },
   {
    "keyword": "embodied",
    "recent": 282,
-   "total": 521,
-   "burst_score": 1.37,
+   "total": 523,
+   "burst_score": 1.4,
    "recent_share": 0.0247
   },
   {
    "keyword": "optimization",
    "recent": 1573,
-   "total": 2932,
-   "burst_score": 1.36,
-   "recent_share": 0.1377
+   "total": 2934,
+   "burst_score": 1.39,
+   "recent_share": 0.1376
   }
  ]
 }

@@ -1,7 +1,7 @@
 # Literature Review
 
-**Generated:** 2026-08-13  
-**Corpus:** 29,018 papers across 21 categories
+**Generated:** 2026-08-16  
+**Corpus:** 29,592 papers across 21 categories
 
 > Synthesis of the corpus. Category insights are grounded in title/abstract analysis of the papers themselves.
 
@@ -11,17 +11,17 @@
 
 | Rank | Category | Papers |
 |------|----------|--------|
-| 1 |  | 5575 |
+| 1 |  | 5573 |
 | 2 | Machine Learning | 5176 |
-| 3 | Cognitive Science | 2411 |
-| 4 | Language | 1500 |
-| 5 | Memory Science | 1450 |
-| 6 | Education | 1388 |
-| 7 | Neuroscience | 1296 |
-| 8 | Collective | 1209 |
+| 3 | Cognitive Science | 2442 |
+| 4 | Language | 1529 |
+| 5 | Memory Science | 1500 |
+| 6 | Education | 1429 |
+| 7 | Neuroscience | 1315 |
+| 8 | Collective | 1237 |
 
 **Time span:** 1897–None (median year 2005)
-**Dominant aspects:** Theory (12124), Method (6364),  (5575)
+**Dominant aspects:** Theory (12315), Method (6586),  (5573)
 
 ---
 
@@ -29,18 +29,18 @@
 
 | Category | Total | Last 12m | Prior 12m | Growth | 12-m share | Papers/mo |
 |----------|------:|---------:|----------:|-------:|----------:|----------:|
-|  | 5575 | 4440 | 1135 | +291% | 80% | 370.0 |
-| Memory Science | 1450 | 574 | 374 | +54% | 40% | 47.8 |
-| Evolutionary | 689 | 217 | 155 | +40% | 32% | 18.1 |
-| Behavioral | 907 | 324 | 251 | +29% | 36% | 27.0 |
-| Motor | 747 | 264 | 210 | +26% | 35% | 22.0 |
-| Animal Learning | 494 | 125 | 94 | +33% | 25% | 10.4 |
-| Educational Psychology | 784 | 289 | 240 | +20% | 37% | 24.1 |
-| Philosophy Of Mind | 544 | 175 | 148 | +18% | 32% | 14.6 |
-| Collective | 1209 | 378 | 322 | +17% | 31% | 31.5 |
-| Education | 1388 | 470 | 419 | +12% | 34% | 39.2 |
-| Cognitive Science | 2411 | 806 | 717 | +12% | 33% | 67.2 |
-| Language | 1500 | 416 | 381 | +9% | 28% | 34.7 |
+|  | 5573 | 4438 | 1135 | +291% | 80% | 369.8 |
+| Memory Science | 1500 | 575 | 376 | +53% | 38% | 47.9 |
+| Evolutionary | 688 | 217 | 155 | +40% | 32% | 18.1 |
+| Behavioral | 951 | 324 | 257 | +26% | 34% | 27.0 |
+| Motor | 778 | 264 | 215 | +23% | 34% | 22.0 |
+| Educational Psychology | 806 | 290 | 241 | +20% | 36% | 24.2 |
+| Philosophy Of Mind | 569 | 176 | 148 | +19% | 31% | 14.7 |
+| Collective | 1237 | 378 | 323 | +17% | 31% | 31.5 |
+| Cognitive Science | 2442 | 806 | 717 | +12% | 33% | 67.2 |
+| Education | 1429 | 470 | 418 | +12% | 33% | 39.2 |
+| Language | 1529 | 416 | 382 | +9% | 27% | 34.7 |
+| Health | 1107 | 321 | 343 | -6% | 29% | 26.8 |
 
 ---
 
@@ -49,13 +49,13 @@
 | Cell | Papers |
 |------|--------:|
 | `behavioral/individual-differences` | 1 |
-| `social-learning/individual-differences` | 1 |
 | `motor/individual-differences` | 1 |
 | `developmental/review` | 1 |
 | `developmental/individual-differences` | 2 |
 | `language/individual-differences` | 2 |
 | `machine-learning/individual-differences` | 2 |
 | `philosophy-of-mind/review` | 2 |
+| `neuromorphic/individual-differences` | 2 |
 
 ---
 
@@ -64,7 +64,7 @@
 
 ###  (``)
 
-**Corpus size:** 5575 papers
+**Corpus size:** 5573 papers
 
 **Recent papers:**
 
@@ -88,7 +88,7 @@
 
 ### Cognitive Science (`cognitive-science`)
 
-**Corpus size:** 2411 papers
+**Corpus size:** 2442 papers
 
 **Recent papers:**
 
@@ -100,7 +100,7 @@
 
 ### Language (`language`)
 
-**Corpus size:** 1500 papers
+**Corpus size:** 1529 papers
 
 **Recent papers:**
 
@@ -112,7 +112,7 @@
 
 ### Memory Science (`memory-science`)
 
-**Corpus size:** 1450 papers
+**Corpus size:** 1500 papers
 
 **Recent papers:**
 
@@ -124,7 +124,7 @@
 
 ### Education (`education`)
 
-**Corpus size:** 1388 papers
+**Corpus size:** 1429 papers
 
 **Recent papers:**
 
@@ -136,7 +136,7 @@
 
 ### Neuroscience (`neuroscience`)
 
-**Corpus size:** 1296 papers
+**Corpus size:** 1315 papers
 
 **Recent papers:**
 
@@ -148,7 +148,7 @@
 
 ### Collective (`collective`)
 
-**Corpus size:** 1209 papers
+**Corpus size:** 1237 papers
 
 **Recent papers:**
 
@@ -160,7 +160,7 @@
 
 ### Health (`health`)
 
-**Corpus size:** 1063 papers
+**Corpus size:** 1107 papers
 
 **Recent papers:**
 
@@ -172,7 +172,7 @@
 
 ### Behavioral (`behavioral`)
 
-**Corpus size:** 907 papers
+**Corpus size:** 951 papers
 
 **Recent papers:**
 
@@ -184,7 +184,7 @@
 
 ### Neuromorphic (`neuromorphic`)
 
-**Corpus size:** 791 papers
+**Corpus size:** 833 papers
 
 **Recent papers:**
 
@@ -196,7 +196,7 @@
 
 ### Educational Psychology (`educational-psychology`)
 
-**Corpus size:** 784 papers
+**Corpus size:** 806 papers
 
 **Recent papers:**
 
@@ -208,7 +208,7 @@
 
 ### Social Learning (`social-learning`)
 
-**Corpus size:** 756 papers
+**Corpus size:** 778 papers
 
 **Recent papers:**
 
@@ -220,7 +220,7 @@
 
 ### Motor (`motor`)
 
-**Corpus size:** 747 papers
+**Corpus size:** 778 papers
 
 **Recent papers:**
 
@@ -232,7 +232,7 @@
 
 ### Evolutionary (`evolutionary`)
 
-**Corpus size:** 689 papers
+**Corpus size:** 688 papers
 
 **Recent papers:**
 
@@ -244,13 +244,25 @@
 
 ### Perceptual (`perceptual`)
 
-**Corpus size:** 621 papers
+**Corpus size:** 651 papers
 
 **Recent papers:**
 
 - [2026-08] MIDAS: Multi-LLM Iterative Data-Adaptive Summarization — https://arxiv.org/abs/2608.04307
 - [2026-07] Constrained Hebbian Learning Supports Efficient Representational Allocation under Structural Co — https://arxiv.org/abs/2607.16027
 - [2026-07] HSEmotion Team at the 11th ABAW Challenge: Multi-Task Learning and Ambivalence/Hesitancy Video  — https://arxiv.org/abs/2607.12774
+
+---
+
+### Developmental (`developmental`)
+
+**Corpus size:** 627 papers
+
+**Recent papers:**
+
+- [2026-08] Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Comp — https://arxiv.org/abs/2608.03930
+- [2026-07] Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Pri — https://arxiv.org/abs/2607.14046
+- [2026-07] Using hierarchical statistical learning models to model individual statistical learning — https://arxiv.org/abs/2607.05822
 
 ---
 
@@ -266,39 +278,27 @@
 
 ---
 
-### Developmental (`developmental`)
-
-**Corpus size:** 587 papers
-
-**Recent papers:**
-
-- [2026-08] Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Comp — https://arxiv.org/abs/2608.03930
-- [2026-07] Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Pri — https://arxiv.org/abs/2607.14046
-- [2026-07] Using hierarchical statistical learning models to model individual statistical learning — https://arxiv.org/abs/2607.05822
-
----
-
-### Philosophy Of Mind (`philosophy-of-mind`)
-
-**Corpus size:** 544 papers
-
-**Recent papers:**
-
-- [2026-07] The Concept of Representation in ML: Beyond Plato and Aristotle — https://arxiv.org/abs/2607.17800
-- [2026-07] Algorithmic Approaches to Sequential Decision-Making and Social Epistemology — https://arxiv.org/abs/2607.20636
-- [2026-07] Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-,  — https://arxiv.org/abs/2607.12254
-
----
-
 ### Animal Learning (`animal-learning`)
 
-**Corpus size:** 494 papers
+**Corpus size:** 573 papers
 
 **Recent papers:**
 
 - [None] P4-268 ROLE OF TAU PHOSPHORYLATION ON MICROTUBULE POLYMERIZATION — https://www.semanticscholar.org/paper/0109ffee886b9b69e65e2683e7961c48076a1a18
 - [None] Sexual dimorphism in the neuroimmune response to pain — https://www.semanticscholar.org/paper/076251b1c1e6160845a014d9aabc6507c891087e
 - [None] PREPRINT 1 Match or mismatch: Tokay geckos adjust their behaviour based on 2 handler familiarit — https://www.semanticscholar.org/paper/0840b0676bbb99f5cf275ff97594ee1437bedba8
+
+---
+
+### Philosophy Of Mind (`philosophy-of-mind`)
+
+**Corpus size:** 569 papers
+
+**Recent papers:**
+
+- [2026-07] The Concept of Representation in ML: Beyond Plato and Aristotle — https://arxiv.org/abs/2607.17800
+- [2026-07] Algorithmic Approaches to Sequential Decision-Making and Social Epistemology — https://arxiv.org/abs/2607.20636
+- [2026-07] Self-Aware Recursively Self-Improving Agents for Personal Singularity: A Goal-, Scope-, Tool-,  — https://arxiv.org/abs/2607.12254
 
 ---
 
