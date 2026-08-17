@@ -3,12 +3,15 @@
 </h1>
 <h3 align="center">Evidence-based learning platform implementation — 29,592 papers across 20 academic disciplines</h3>
 
-<div align="center">
-  [**GitHub**](https://github.com/tobias-weiss-ai-xr/learning-research)
-  [**License**](LICENSE)
-  [**CI**](https://github.com/tobias-weiss-ai-xr/learning-research/actions/workflows/validate.yml)
-  [**AI Literacy**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [**Business Dev**](https://github.com/tobias-weiss-ai-xr/business-development-research) [**Agent Learning**](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
-</div>
+### 🔗 Links
+
+- **GitHub**: https://github.com/tobias-weiss-ai-xr/learning-research
+- **License**: https://github.com/tobias-weiss-ai-xr/learning-research/blob/main/LICENSE
+- **CI**: https://github.com/tobias-weiss-ai-xr/learning-research/actions/workflows/validate.yml
+- **AI Literacy**: https://github.com/tobias-weiss-ai-xr/ai-literacy-research
+- **Business Dev**: https://github.com/tobias-weiss-ai-xr/business-development-research
+- **Agent Learning**: https://github.com/tobias-weiss-ai-xr/agent-learning-research
+
 
 > 📖 **Learning research corpus:** personalization, spaced repetition, active recall,
 > adaptive learning, feedback, cognitive load, motivation, social learning — analyzed
@@ -171,7 +174,7 @@ python3 workshop_generator.py
 
 ## 📊 Corpus Statistics
 
-**29,592 papers** across **21 categories**.  
+**29,592 papers** across **20 categories**.  
 Sources: **arXiv** 25,116 (84%) · **DOI** 4,082 (13%) · **Other** 394 (1%).  
 Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/learning-research).
 
@@ -179,17 +182,17 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/learni
 
 | Category | Papers | Recent | |
 |----------|--------|--------|-|
-|  | **5,573** | 0 | ████████████ |
-| machine-learning | **5,176** | 0 | ███████████░ |
-| cognitive-science | **2,442** | 0 | █████░░░░░░░ |
-| language | **1,529** | 0 | ███░░░░░░░░░ |
-| memory-science | **1,500** | 0 | ███░░░░░░░░░ |
-| education | **1,429** | 0 | ███░░░░░░░░░ |
-| neuroscience | **1,315** | 0 | ██░░░░░░░░░░ |
-| collective | **1,237** | 0 | ██░░░░░░░░░░ |
-| health | **1,107** | 0 | ██░░░░░░░░░░ |
-| behavioral | **951** | 0 | ██░░░░░░░░░░ |
-| *other* | **7,333** | | |
+| machine-learning | **5,671** | 0 | ████████████ |
+| cognitive-science | **2,839** | 0 | ██████░░░░░░ |
+| language | **2,579** | 0 | █████░░░░░░░ |
+| philosophy-of-mind | **2,190** | 0 | ████░░░░░░░░ |
+| neuroscience | **1,749** | 0 | ███░░░░░░░░░ |
+| social-learning | **1,582** | 0 | ███░░░░░░░░░ |
+| education | **1,571** | 0 | ███░░░░░░░░░ |
+| memory-science | **1,513** | 0 | ███░░░░░░░░░ |
+| collective | **1,248** | 0 | ██░░░░░░░░░░ |
+| health | **1,143** | 0 | ██░░░░░░░░░░ |
+| *other* | **7,507** | | |
 
 
 ### By year
@@ -205,11 +208,11 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/learni
 
 | Category | Total | Rate | Recent | Score |
 |----------|-------|------|--------|-------|
-|  | 5,573 | 369.8/mo | 80% | 371 |
-| Memory Science | 1,500 | 47.9/mo | 38% | 91 |
-| Evolutionary | 688 | 18.1/mo | 32% | 72 |
-| Behavioral | 951 | 27.0/mo | 34% | 60 |
-| Motor | 778 | 22.0/mo | 34% | 57 |
+| Philosophy Of Mind | 2,190 | 120.7/mo | 66% | 257 |
+| Social Learning | 1,582 | 69.2/mo | 52% | 164 |
+| Language | 2,579 | 104.5/mo | 49% | 160 |
+| Evolutionary | 927 | 34.5/mo | 45% | 155 |
+| Behavioral | 1,135 | 40.8/mo | 43% | 120 |
 
 
 ### Trending keywords
@@ -248,7 +251,8 @@ Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/learni
 | `motor/individual-differences` | 1 |
 | `developmental/review` | 1 |
 | `developmental/individual-differences` | 2 |
-| `language/individual-differences` | 2 |
+| `machine-learning/individual-differences` | 2 |
+
 
 
 
