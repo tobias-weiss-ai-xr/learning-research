@@ -4,10 +4,10 @@
 <h3 align="center">Evidence-based learning platform implementation — 29,592 papers across 20 academic disciplines</h3>
 
 <div align="center">
-  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/learning--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research)
-  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/learning--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research/actions/workflows/validate.yml)
-  [![AI Literacy](https://img.shields.io/badge/AI Literacy-ai--literacy--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [![Business Dev](https://img.shields.io/badge/Business Dev-business--development--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/business-development-research) [![Agent Learning](https://img.shields.io/badge/Agent Learning-agent--learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
+  [**GitHub**](https://github.com/tobias-weiss-ai-xr/learning-research)
+  [**License**](LICENSE)
+  [**CI**](https://github.com/tobias-weiss-ai-xr/learning-research/actions/workflows/validate.yml)
+  [**AI Literacy**](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [**Business Dev**](https://github.com/tobias-weiss-ai-xr/business-development-research) [**Agent Learning**](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
 </div>
 
 > 📖 **Learning research corpus:** personalization, spaced repetition, active recall,
