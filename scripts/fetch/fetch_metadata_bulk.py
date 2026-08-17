@@ -121,9 +121,16 @@ def main():
         action="store_true",
         help="Skip papers that already have authors",
     )
+    parser.add_argument(
+        "--local", action="store_true", help="Use local papers.yaml"
+    )
     args = parser.parse_args()
 
-    yaml_path = Path(__file__).resolve().parent.parent.parent / "papers.yaml"
+    # Use local papers.yaml if --local flag is set
+    if args.local:
+        yaml_path = Path("papers.yaml")
+    else:
+        yaml_path = Path(__file__).resolve().parent.parent.parent / "papers.yaml"
     data, papers = load_papers(yaml_path)
 
     if not papers:

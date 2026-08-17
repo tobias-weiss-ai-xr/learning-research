@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate README.md and docs/papers.json from papers.yaml."""
 
+STATS_ONLY = False  # Set True to skip full paper list generation
 import argparse
 import json
 import sys
@@ -145,8 +146,8 @@ def render_paper_list(papers):
 def generate_readme(papers, readme_path, check_mode=False):
     readme_text = readme_path.read_text(encoding="utf-8")
 
-    start_marker = "## Paper list"
-    end_marker = "## Related Projects"
+    start_marker = "## Paper list"  # (paper list replaced with stats)
+    end_marker = "## Related Projects"  # (paper list replaced with stats)  # (paper list replaced with stats)
 
     start_idx = readme_text.find(start_marker)
     end_idx = readme_text.find(end_marker)

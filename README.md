@@ -1,10 +1,22 @@
-# Learning Research Corpus
+<h1 align="center">
+  <strong>Learning Research Corpus</strong>
+</h1>
+<h3 align="center">Evidence-based learning platform implementation — 29,592 papers across 20 academic disciplines</h3>
 
-**Evidence-based learning platform implementation** — Analysis of 17,165 research papers across 20 academic disciplines.
+<div align="center">
+  [![GitHub](https://img.shields.io/badge/GitHub-tobias-weiss-ai-xr/learning--research-181717.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research)
+  [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+  [![CI](https://img.shields.io/github/actions/workflow/status/tobias-weiss-ai-xr/learning--research/validate.yml?label=CI&logo=github)](https://github.com/tobias-weiss-ai-xr/learning-research/actions/workflows/validate.yml)
+  [![AI Literacy](https://img.shields.io/badge/AI Literacy-ai--literacy--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/ai-literacy-research) [![Business Dev](https://img.shields.io/badge/Business Dev-business--development--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/business-development-research) [![Agent Learning](https://img.shields.io/badge/Agent Learning-agent--learning--research-blue.svg?logo=github)](https://github.com/tobias-weiss-ai-xr/agent-learning-research)
+</div>
 
-**Author:** Tobias Weiss  
-**Contact:** ki-kompetenz-training@tobias-weiss.org  
-**Website:** www.ki-kompetenz-training.org
+> 📖 **Learning research corpus:** personalization, spaced repetition, active recall,
+> adaptive learning, feedback, cognitive load, motivation, social learning — analyzed
+> with the same pipeline as the other `*-research` corpus repos.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tobias-weiss-ai-xr/learning-research/main/assets/visualizations/top_categories.png" alt="Teaser" width="600" />
+</p>
 
 ---
 
@@ -157,119 +169,90 @@ python3 workshop_generator.py
 
 ---
 
-## 📚 Documentation
+## 📊 Corpus Statistics
 
-### Implementation Guides
+**29,592 papers** across **21 categories**.  
+Sources: **arXiv** 25,116 (84%) · **DOI** 4,082 (13%) · **Other** 394 (1%).  
+Full paper list: [GitHub Pages site](https://tobias-weiss-ai-xr.github.io/learning-research).
 
-| Document | Purpose | Size |
-|----------|---------|------|
-| `docs/implementation/IMPLEMENTATION_SUMMARY.md` | Quick reference | 7.8 KB |
-| `docs/implementation/platform_implementation_plan.md` | Step-by-step guide | 19 KB |
-| `docs/implementation/platform_insights.md` | Design principles | 22 KB |
-| `docs/implementation/PLATFORM_SUMMARY.md` | Checklist | 6.2 KB |
+### Top categories
 
-### Marketing Materials
+| Category | Papers | Recent | |
+|----------|--------|--------|-|
+|  | **5,573** | 0 | ████████████ |
+| machine-learning | **5,176** | 0 | ███████████░ |
+| cognitive-science | **2,442** | 0 | █████░░░░░░░ |
+| language | **1,529** | 0 | ███░░░░░░░░░ |
+| memory-science | **1,500** | 0 | ███░░░░░░░░░ |
+| education | **1,429** | 0 | ███░░░░░░░░░ |
+| neuroscience | **1,315** | 0 | ██░░░░░░░░░░ |
+| collective | **1,237** | 0 | ██░░░░░░░░░░ |
+| health | **1,107** | 0 | ██░░░░░░░░░░ |
+| behavioral | **951** | 0 | ██░░░░░░░░░░ |
+| *other* | **7,333** | | |
 
-| Document | Purpose | Size |
-|----------|---------|------|
-| `docs/marketing/landing_page.md` | Website content | 12 KB |
-| `docs/marketing/whitepaper_learning_platforms.md` | Sales whitepaper | 22 KB |
-| `docs/marketing/learn2learn_workshop_curriculum.md` | Workshop curriculum | 19 KB |
 
-### Research Documentation
+### By year
 
-| Document | Purpose | Size |
-|----------|---------|------|
-| `docs/research/literature_review.md` | Full research synthesis | 21 KB |
+| Year | Papers | |
+|------|--------|-|
+| 2025 | 8,773 | ████████████ |
+| 2026 | 7,382 | ██████████░░ |
+| None | 7 | ░░░░░░░░░░░░ |
 
----
 
-## 🚀 Quick Start
+### Momentum (hottest categories)
 
-### 1. Run Platform Audit
+| Category | Total | Rate | Recent | Score |
+|----------|-------|------|--------|-------|
+|  | 5,573 | 369.8/mo | 80% | 371 |
+| Memory Science | 1,500 | 47.9/mo | 38% | 91 |
+| Evolutionary | 688 | 18.1/mo | 32% | 72 |
+| Behavioral | 951 | 27.0/mo | 34% | 60 |
+| Motor | 778 | 22.0/mo | 34% | 57 |
 
-```bash
-cd tools
-python3 platform_audit.py
-```
 
-This will assess your current platform and generate recommendations.
+### Trending keywords
 
-### 2. Generate Workshop Materials
+| Keyword | Papers | Burst |
+|---------|--------|-------|
+| agentic | 424 | 2.25 |
+| world model | 527 | 1.69 |
+| scalable | 1,552 | 1.60 |
+| retrieval | 1,022 | 1.56 |
+| policy | 2,518 | 1.51 |
+| uncertainty | 952 | 1.50 |
+| benchmark | 4,544 | 1.48 |
+| hierarchical | 949 | 1.46 |
 
-```bash
-cd tools
-python3 workshop_generator.py
-```
 
-Materials will be generated in `workshop-repo/workshop_materials/`.
+### Top venues
 
-### 3. Test SRS Implementation
+| Venue | Papers |
+|-------|--------|
+| MED | 117 |
+| Scientific Reports | 76 |
+| Frontiers in Psychology | 73 |
+| Nature Communications | 39 |
+| bioRxiv (Cold Spring Harbor Laboratory) | 36 |
+| Education and Information Technologies | 35 |
+| PLoS ONE | 29 |
+| Frontiers in Education | 28 |
 
-```bash
-cd tools
-python3 spaced_repetition.py
-```
 
-This will demonstrate the SRS algorithm and save state to `srs_state.json`.
+### Research gaps (thinnest cells)
 
----
+| Cell | Papers |
+|------|--------|
+| `behavioral/individual-differences` | 1 |
+| `motor/individual-differences` | 1 |
+| `developmental/review` | 1 |
+| `developmental/individual-differences` | 2 |
+| `language/individual-differences` | 2 |
 
-## 📊 Expected Outcomes
 
-### 6 Months After Implementation
 
-| Metric | Target |
-|--------|--------|
-| 30-day retention | 60% |
-| Course completion | 35% |
-| Learner satisfaction | 4.0/5 |
-| Time to competency | -20% |
-
-### 12 Months After Implementation
-
-| Metric | Target |
-|--------|--------|
-| 30-day retention | 70%+ |
-| Course completion | 40%+ |
-| Learner satisfaction | 4.5/5 |
-| Time to competency | -35% |
-
-### ROI (Year 1)
-
-| Component | Value |
-|-----------|-------|
-| Investment | €15,000 - €50,000 |
-| Improved retention savings | €150,000+ |
-| Improved completion gains | €200,000+ |
-| Faster competency | €100,000+ |
-| **Total ROI** | **300-500%** |
-
----
-
-## 🎓 Workshop Offerings
-
-### Onsite Workshop (2 Days)
-
-**Price:** €6,500 (up to 20 participants)
-
-**Content:**
-- Day 1: Memory science, active learning, cognitive load
-- Day 2: SRS systems, adaptive strategies, motivation, implementation
-
-### Online Course (4 Weeks)
-
-**Price:** €897 per participant
-
-**Content:**
-- Weekly live sessions (2 hours)
-- Self-paced modules
-- Discussion forum
-- SRS account setup
-
----
-
-## 🔗 Related Repositories
+## Related Projects
 
 - **Platform Implementation:** [ki-kompetenz-training](https://github.com/tobias-weiss-ai-xr/ki-kompetenz-training) — Production platform with SRS integration
 
