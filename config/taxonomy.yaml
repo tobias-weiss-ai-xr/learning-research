@@ -1,0 +1,659 @@
+topic:
+  name: Learning
+  short: learning
+  description: '- GitHub: https://github.com/tobias-weiss-ai-xr/learning-research'
+  openalex_mailto: research@tobias-weiss-ai-xr.de
+taxonomy:
+  categories:
+  - id: memory-science
+    display: Memory Science
+  - id: language
+    display: Language
+  - id: cognitive-science
+    display: Cognitive Science
+  - id: education
+    display: Education
+  - id: neuroscience
+    display: Neuroscience
+  - id: social-learning
+    display: Social Learning
+  - id: educational-psychology
+    display: Educational Psychology
+  - id: behavioral
+    display: Behavioral
+  - id: animal-learning
+    display: Animal Learning
+  - id: motor
+    display: Motor
+  - id: evolutionary
+    display: Evolutionary
+  - id: neuromorphic
+    display: Neuromorphic
+  - id: philosophy-of-mind
+    display: Philosophy Of Mind
+  - id: collective
+    display: Collective
+  - id: perceptual
+    display: Perceptual
+  - id: creative
+    display: Creative
+  - id: emotion
+    display: Emotion
+  - id: machine-learning
+    display: Machine Learning
+  - id: survey
+    display: Survey
+  - id: method
+    display: Method
+  subcategories:
+  - id: method
+    display: Method
+  - id: theory
+    display: Theory
+  - id: application
+    display: Application
+  - id: survey
+    display: Survey
+  - id: experiment
+    display: Experiment
+  - id: systems
+    display: Systems
+  - id: development
+    display: Development
+arxiv_queries:
+- query: abs:"working memory cognitive survey"
+  category: memory-science
+  subcategory_hint: review
+- query: abs:"episodic memory neuroscience"
+  category: memory-science
+  subcategory_hint: theory
+- query: abs:"long-term memory consolidation"
+  category: memory-science
+  subcategory_hint: theory
+- query: abs:"memory model cognitive architecture"
+  category: memory-science
+  subcategory_hint: method
+- query: abs:"language acquisition survey"
+  category: language
+  subcategory_hint: review
+- query: abs:"bilingual language learning"
+  category: language
+  subcategory_hint: application
+- query: abs:"second language acquisition neural"
+  category: language
+  subcategory_hint: mechanism
+- query: abs:"cognitive science survey"
+  category: cognitive-science
+  subcategory_hint: review
+- query: abs:"decision making cognitive"
+  category: cognitive-science
+  subcategory_hint: theory
+- query: abs:"cognitive architecture survey"
+  category: cognitive-science
+  subcategory_hint: review
+- query: abs:"educational technology AI survey"
+  category: education
+  subcategory_hint: review
+- query: abs:"adaptive learning system"
+  category: education
+  subcategory_hint: development
+- query: abs:"intelligent tutoring system survey"
+  category: education
+  subcategory_hint: review
+- query: abs:"neuroscience learning plasticity"
+  category: neuroscience
+  subcategory_hint: theory
+- query: abs:"computational neuroscience survey"
+  category: neuroscience
+  subcategory_hint: review
+- query: abs:"synaptic plasticity review"
+  category: neuroscience
+  subcategory_hint: theory
+- query: abs:"social learning theory survey"
+  category: social-learning
+  subcategory_hint: review
+- query: abs:"observational learning social"
+  category: social-learning
+  subcategory_hint: theory
+- query: abs:"educational psychology learning"
+  category: educational-psychology
+  subcategory_hint: review
+- query: abs:"motivation learning achievement"
+  category: educational-psychology
+  subcategory_hint: theory
+- query: abs:"behavioral learning theory survey"
+  category: behavioral
+  subcategory_hint: review
+- query: abs:"operant conditioning reinforcement"
+  category: behavioral
+  subcategory_hint: theory
+- query: abs:"animal learning cognition"
+  category: animal-learning
+  subcategory_hint: theory
+- query: abs:"comparative cognition animal"
+  category: animal-learning
+  subcategory_hint: review
+- query: abs:"motor learning neuroplasticity"
+  category: motor
+  subcategory_hint: mechanism
+- query: abs:"motor skill acquisition"
+  category: motor
+  subcategory_hint: theory
+- query: abs:"evolutionary learning algorithm"
+  category: evolutionary
+  subcategory_hint: method
+- query: abs:"genetic algorithm optimization"
+  category: evolutionary
+  subcategory_hint: method
+- query: abs:"neuromorphic computing survey"
+  category: neuromorphic
+  subcategory_hint: review
+- query: abs:"spiking neural network survey"
+  category: neuromorphic
+  subcategory_hint: review
+- query: abs:"consciousness learning cognition"
+  category: philosophy-of-mind
+  subcategory_hint: theory
+- query: abs:"collective intelligence swarm"
+  category: collective
+  subcategory_hint: theory
+- query: abs:"swarm intelligence optimization"
+  category: collective
+  subcategory_hint: method
+- query: abs:"perceptual learning visual"
+  category: perceptual
+  subcategory_hint: theory
+- query: abs:"perceptual expertise"
+  category: perceptual
+  subcategory_hint: application
+- query: abs:"creative thinking cognition"
+  category: creative
+  subcategory_hint: theory
+- query: abs:"creativity neural mechanism"
+  category: creative
+  subcategory_hint: mechanism
+- query: abs:"emotional learning amygdala"
+  category: emotion
+  subcategory_hint: mechanism
+- query: abs:"affective learning survey"
+  category: emotion
+  subcategory_hint: review
+- query: abs:"machine learning survey comprehensive"
+  category: machine-learning
+  subcategory_hint: review
+- query: abs:"deep learning review"
+  category: machine-learning
+  subcategory_hint: review
+other_sources_queries:
+- source: crossref
+  query: working memory cognitive survey
+  category: memory-science
+  subcategory_hint: review
+- source: europepmc
+  query: episodic memory neuroscience
+  category: memory-science
+  subcategory_hint: theory
+- source: crossref
+  query: long-term memory consolidation
+  category: memory-science
+  subcategory_hint: theory
+- source: dblp
+  query: memory model cognitive architecture
+  category: memory-science
+  subcategory_hint: method
+- source: europepmc
+  query: language acquisition survey
+  category: language
+  subcategory_hint: review
+- source: crossref
+  query: bilingual language learning
+  category: language
+  subcategory_hint: application
+- source: europepmc
+  query: second language acquisition neural
+  category: language
+  subcategory_hint: mechanism
+- source: crossref
+  query: cognitive science survey
+  category: cognitive-science
+  subcategory_hint: review
+- source: europepmc
+  query: decision making cognitive
+  category: cognitive-science
+  subcategory_hint: theory
+- source: dblp
+  query: cognitive architecture survey
+  category: cognitive-science
+  subcategory_hint: review
+- source: crossref
+  query: educational technology AI survey
+  category: education
+  subcategory_hint: review
+- source: europepmc
+  query: adaptive learning system
+  category: education
+  subcategory_hint: development
+- source: crossref
+  query: intelligent tutoring system survey
+  category: education
+  subcategory_hint: review
+- source: europepmc
+  query: neuroscience learning plasticity
+  category: neuroscience
+  subcategory_hint: theory
+- source: crossref
+  query: computational neuroscience survey
+  category: neuroscience
+  subcategory_hint: review
+- source: europepmc
+  query: synaptic plasticity review
+  category: neuroscience
+  subcategory_hint: theory
+- source: crossref
+  query: social learning theory survey
+  category: social-learning
+  subcategory_hint: review
+- source: europepmc
+  query: observational learning social
+  category: social-learning
+  subcategory_hint: theory
+- source: crossref
+  query: educational psychology learning
+  category: educational-psychology
+  subcategory_hint: review
+- source: europepmc
+  query: motivation learning achievement
+  category: educational-psychology
+  subcategory_hint: theory
+- source: crossref
+  query: behavioral learning theory survey
+  category: behavioral
+  subcategory_hint: review
+- source: europepmc
+  query: operant conditioning reinforcement
+  category: behavioral
+  subcategory_hint: theory
+- source: europepmc
+  query: animal learning cognition
+  category: animal-learning
+  subcategory_hint: theory
+- source: crossref
+  query: comparative cognition animal
+  category: animal-learning
+  subcategory_hint: review
+- source: europepmc
+  query: motor learning neuroplasticity
+  category: motor
+  subcategory_hint: mechanism
+- source: crossref
+  query: motor skill acquisition
+  category: motor
+  subcategory_hint: theory
+- source: crossref
+  query: evolutionary learning algorithm
+  category: evolutionary
+  subcategory_hint: method
+- source: dblp
+  query: genetic algorithm optimization
+  category: evolutionary
+  subcategory_hint: method
+- source: crossref
+  query: neuromorphic computing survey
+  category: neuromorphic
+  subcategory_hint: review
+- source: dblp
+  query: spiking neural network survey
+  category: neuromorphic
+  subcategory_hint: review
+- source: crossref
+  query: consciousness learning cognition
+  category: philosophy-of-mind
+  subcategory_hint: theory
+- source: crossref
+  query: collective intelligence swarm
+  category: collective
+  subcategory_hint: theory
+- source: dblp
+  query: swarm intelligence optimization
+  category: collective
+  subcategory_hint: method
+- source: europepmc
+  query: perceptual learning visual
+  category: perceptual
+  subcategory_hint: theory
+- source: crossref
+  query: perceptual expertise
+  category: perceptual
+  subcategory_hint: application
+- source: crossref
+  query: creative thinking cognition
+  category: creative
+  subcategory_hint: theory
+- source: europepmc
+  query: creativity neural mechanism
+  category: creative
+  subcategory_hint: mechanism
+- source: europepmc
+  query: emotional learning amygdala
+  category: emotion
+  subcategory_hint: mechanism
+- source: crossref
+  query: affective learning survey
+  category: emotion
+  subcategory_hint: review
+- source: crossref
+  query: machine learning survey comprehensive
+  category: machine-learning
+  subcategory_hint: review
+- source: dblp
+  query: deep learning review
+  category: machine-learning
+  subcategory_hint: review
+openalex_queries:
+- category: memory-science
+  query: working memory cognitive survey
+- category: memory-science
+  query: episodic memory neuroscience
+- category: memory-science
+  query: long-term memory consolidation
+- category: memory-science
+  query: memory model cognitive architecture
+- category: language
+  query: language acquisition survey
+- category: language
+  query: bilingual language learning
+- category: language
+  query: second language acquisition neural
+- category: cognitive-science
+  query: cognitive science survey
+- category: cognitive-science
+  query: decision making cognitive
+- category: cognitive-science
+  query: cognitive architecture survey
+- category: education
+  query: educational technology AI survey
+- category: education
+  query: adaptive learning system
+- category: education
+  query: intelligent tutoring system survey
+- category: neuroscience
+  query: neuroscience learning plasticity
+- category: neuroscience
+  query: computational neuroscience survey
+- category: neuroscience
+  query: synaptic plasticity review
+- category: social-learning
+  query: social learning theory survey
+- category: social-learning
+  query: observational learning social
+- category: educational-psychology
+  query: educational psychology learning
+- category: educational-psychology
+  query: motivation learning achievement
+- category: behavioral
+  query: behavioral learning theory survey
+- category: behavioral
+  query: operant conditioning reinforcement
+- category: animal-learning
+  query: animal learning cognition
+- category: animal-learning
+  query: comparative cognition animal
+- category: motor
+  query: motor learning neuroplasticity
+- category: motor
+  query: motor skill acquisition
+- category: evolutionary
+  query: evolutionary learning algorithm
+- category: evolutionary
+  query: genetic algorithm optimization
+- category: neuromorphic
+  query: neuromorphic computing survey
+- category: neuromorphic
+  query: spiking neural network survey
+- category: philosophy-of-mind
+  query: consciousness learning cognition
+- category: collective
+  query: collective intelligence swarm
+- category: collective
+  query: swarm intelligence optimization
+- category: perceptual
+  query: perceptual learning visual
+- category: perceptual
+  query: perceptual expertise
+- category: creative
+  query: creative thinking cognition
+- category: creative
+  query: creativity neural mechanism
+- category: emotion
+  query: emotional learning amygdala
+- category: emotion
+  query: affective learning survey
+- category: machine-learning
+  query: machine learning survey comprehensive
+- category: machine-learning
+  query: deep learning review
+subcategory_keywords:
+- id: theory
+  keywords:
+  - theory
+  - theoretical
+  - proof
+  - convergence
+  - bound
+  - consistency
+  - asymptotic
+- id: method
+  keywords:
+  - method
+  - algorithm
+  - approach
+  - technique
+  - framework
+  - novel
+  - scheme
+- id: application
+  keywords:
+  - application
+  - applied
+  - real-world
+  - case study
+  - empirical
+- id: evaluation
+  keywords:
+  - benchmark
+  - evaluation
+  - comparison
+  - baseline
+  - empirical study
+- id: development
+  keywords:
+  - implementation
+  - software
+  - package
+  - library
+  - toolkit
+  - open-source
+- id: systems
+  keywords:
+  - system
+  - framework
+  - platform
+  - scalable
+  - distributed
+  - GPU
+  - parallel
+- id: survey
+  keywords:
+  - survey
+  - review
+  - literature
+  - tutorial
+  - overview
+  - taxonomy
+- id: experiment
+  keywords:
+  - experiment
+  - experimental
+  - simulation study
+  - numerical study
+  - synthetic
+relevance_keywords:
+- achievement
+- acquisition
+- adaptive
+- affective
+- algorithm
+- amygdala
+- animal
+- animal learning
+- architecture
+- behavioral
+- bilingual
+- cognition
+- cognitive
+- cognitive science
+- collective
+- comparative
+- comprehensive
+- computational
+- computing
+- conditioning
+- consciousness
+- consolidation
+- creative
+- creativity
+- decision
+- deep
+- education
+- educational
+- educational psychology
+- emotion
+- emotional
+- episodic
+- evolutionary
+- expertise
+- genetic
+- intelligence
+- intelligent
+- language
+- learning
+- long-term
+- machine
+- machine learning
+- making
+- mechanism
+- memory
+- memory science
+- model
+- motivation
+- motor
+- network
+- neural
+- neuromorphic
+- neuroplasticity
+- neuroscience
+- observational
+- operant
+- optimization
+- perceptual
+- philosophy of mind
+- plasticity
+- psychology
+- reinforcement
+- review
+- science
+- second
+- skill
+- social
+- social learning
+- spiking
+- survey
+- swarm
+- synaptic
+- system
+- technology
+- theory
+- thinking
+- tutoring
+- visual
+- working
+trend_keywords:
+- achievement
+- acquisition
+- adaptive
+- affective
+- algorithm
+- amygdala
+- animal
+- animal learning
+- architecture
+- behavioral
+- bilingual
+- cognition
+- cognitive
+- cognitive science
+- collective
+- comparative
+- comprehensive
+- computational
+- computing
+- conditioning
+- consciousness
+- consolidation
+- creative
+- creativity
+- decision
+- deep
+- education
+- educational
+- educational psychology
+- emotion
+- emotional
+- episodic
+- evolutionary
+- expertise
+- genetic
+- intelligence
+- intelligent
+- language
+- learning
+- long-term
+- machine
+- machine learning
+- making
+- mechanism
+- memory
+- memory science
+- model
+- motivation
+- motor
+- network
+- neural
+- neuromorphic
+- neuroplasticity
+- neuroscience
+- observational
+- operant
+- optimization
+- perceptual
+- philosophy of mind
+- plasticity
+- psychology
+- reinforcement
+- review
+- science
+- second
+- skill
+- social
+- social learning
+- spiking
+- survey
+- swarm
+- synaptic
+- system
+- technology
+- theory
+- thinking
+- tutoring
+- visual
+- working
