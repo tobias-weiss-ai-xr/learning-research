@@ -1,20 +1,21 @@
 {
   "metadata": {
-    "total_papers": 29592,
+    "total_papers": 29625,
     "generated_date": "None",
     "taxonomy": {
-      "categories": 20,
-      "subcategories": 8,
-      "total_cells": 160,
-      "filled_cells": 160,
-      "saturation": 100.0,
-      "empty_cells": 0
+      "categories": 21,
+      "subcategories": 9,
+      "total_cells": 189,
+      "filled_cells": 161,
+      "saturation": 85.2,
+      "empty_cells": 28
     },
     "analysis_window": {
       "last_12m_start": "2025-08"
     }
   },
   "by_category": {
+    "": 33,
     "animal-learning": 573,
     "behavioral": 1135,
     "cognitive-science": 2839,
@@ -37,6 +38,7 @@
     "social-learning": 1582
   },
   "by_subcategory": {
+    "": 33,
     "application": 997,
     "development": 792,
     "individual-differences": 388,
@@ -91,7 +93,7 @@
     "2023": 4537,
     "2024": 6466,
     "2025": 8773,
-    "2026": 7382,
+    "2026": 7415,
     "None": 7
   },
   "by_cell": {
@@ -193,6 +195,7 @@
     "neuromorphic/review": 34,
     "emotion/mechanism": 33,
     "health/application": 33,
+    "/": 33,
     "philosophy-of-mind/development": 32,
     "cognitive-science/review": 31,
     "behavioral/technology": 31,
@@ -263,27 +266,27 @@
     },
     {
       "keyword": "world model",
-      "papers": 343
+      "papers": 347
     },
     {
       "keyword": "scalable",
-      "papers": 958
+      "papers": 962
     },
     {
       "keyword": "retrieval",
-      "papers": 614
+      "papers": 618
     },
     {
       "keyword": "policy",
-      "papers": 1465
+      "papers": 1467
     },
     {
       "keyword": "uncertainty",
-      "papers": 553
+      "papers": 554
     },
     {
       "keyword": "benchmark",
-      "papers": 2598
+      "papers": 2604
     },
     {
       "keyword": "hierarchical",
@@ -291,11 +294,11 @@
     },
     {
       "keyword": "multimodal",
-      "papers": 811
+      "papers": 815
     },
     {
       "keyword": "reward",
-      "papers": 990
+      "papers": 992
     }
   ],
   "momentum": [
@@ -364,6 +367,17 @@
       "recent_share": 0.407,
       "papers_per_month": 59.2,
       "score": 102.3
+    },
+    {
+      "id": "",
+      "name": "",
+      "total": 33,
+      "recent": 33,
+      "prior": 0,
+      "growth_pct": null,
+      "recent_share": 1.0,
+      "papers_per_month": 2.8,
+      "score": 100.0
     },
     {
       "id": "memory-science",
@@ -521,6 +535,9 @@
     }
   ],
   "category_trajectory": {
+    "": {
+      "2026": 33
+    },
     "animal-learning": {
       "1897": 1,
       "1964": 1,
@@ -830,70 +847,70 @@
       "recent": 369,
       "total": 424,
       "burst_score": 2.25,
-      "recent_share": 0.0323
+      "recent_share": 0.0322
     },
     {
       "keyword": "world model",
-      "recent": 343,
-      "total": 527,
+      "recent": 347,
+      "total": 531,
       "burst_score": 1.69,
-      "recent_share": 0.03
+      "recent_share": 0.0303
     },
     {
       "keyword": "scalable",
-      "recent": 958,
-      "total": 1552,
+      "recent": 962,
+      "total": 1556,
       "burst_score": 1.6,
-      "recent_share": 0.0838
+      "recent_share": 0.0839
     },
     {
       "keyword": "retrieval",
-      "recent": 614,
-      "total": 1022,
+      "recent": 618,
+      "total": 1026,
       "burst_score": 1.56,
-      "recent_share": 0.0537
+      "recent_share": 0.0539
     },
     {
       "keyword": "policy",
-      "recent": 1465,
-      "total": 2518,
-      "burst_score": 1.51,
-      "recent_share": 0.1282
+      "recent": 1467,
+      "total": 2520,
+      "burst_score": 1.5,
+      "recent_share": 0.128
     },
     {
       "keyword": "uncertainty",
-      "recent": 553,
-      "total": 952,
+      "recent": 554,
+      "total": 953,
       "burst_score": 1.5,
-      "recent_share": 0.0484
+      "recent_share": 0.0483
     },
     {
       "keyword": "benchmark",
-      "recent": 2598,
-      "total": 4544,
+      "recent": 2604,
+      "total": 4550,
       "burst_score": 1.48,
-      "recent_share": 0.2273
+      "recent_share": 0.2272
     },
     {
       "keyword": "hierarchical",
       "recent": 535,
       "total": 949,
       "burst_score": 1.46,
-      "recent_share": 0.0468
+      "recent_share": 0.0467
     },
     {
       "keyword": "multimodal",
-      "recent": 811,
-      "total": 1446,
+      "recent": 815,
+      "total": 1450,
       "burst_score": 1.45,
-      "recent_share": 0.071
+      "recent_share": 0.0711
     },
     {
       "keyword": "reward",
-      "recent": 990,
-      "total": 1783,
+      "recent": 992,
+      "total": 1785,
       "burst_score": 1.44,
-      "recent_share": 0.0866
+      "recent_share": 0.0865
     },
     {
       "keyword": "opponent",
@@ -903,13 +920,6 @@
       "recent_share": 0.0026
     },
     {
-      "keyword": "multi-agent",
-      "recent": 709,
-      "total": 1306,
-      "burst_score": 1.41,
-      "recent_share": 0.062
-    },
-    {
       "keyword": "teaming",
       "recent": 18,
       "total": 33,
@@ -917,22 +927,29 @@
       "recent_share": 0.0016
     },
     {
-      "keyword": "embodied",
-      "recent": 282,
-      "total": 523,
+      "keyword": "multi-agent",
+      "recent": 709,
+      "total": 1306,
       "burst_score": 1.4,
-      "recent_share": 0.0247
+      "recent_share": 0.0619
     },
     {
       "keyword": "optimization",
-      "recent": 1573,
-      "total": 2934,
+      "recent": 1576,
+      "total": 2937,
       "burst_score": 1.39,
-      "recent_share": 0.1376
+      "recent_share": 0.1375
+    },
+    {
+      "keyword": "embodied",
+      "recent": 282,
+      "total": 523,
+      "burst_score": 1.39,
+      "recent_share": 0.0246
     }
   ],
   "source_breakdown": {
-    "arxiv": 25116,
+    "arxiv": 25149,
     "doi": 4082,
     "other": 394
   },
