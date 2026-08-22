@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
-"""Discover new learning research papers from arXiv API across all 20 categories.
-
-Runs 100+ queries spanning cognitive science, neuroscience, education, ML,
-and all other disciplines in the taxonomy.
-"""
-
+"""Discover new papers from arXiv API (topic configurable via config/taxonomy.yaml)."""
 import argparse
 import re
 import subprocess
@@ -13,126 +8,75 @@ import time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 import requests
 import yaml
 
+import research_config
+
 ARXIV_ID_PATTERN = re.compile(r"(\d{4}\.\d{4,5})")
 ARXIV_SEARCH_API = (
-    "http://export.arxiv.org/api/query?search_query={}&start={}&max_results={}"
+    "https://export.arxiv.org/api/query?search_query={}&start={}&max_results={}"
 )
 
-QUERIES = [
-    'cat:cs.AI AND abs:"learning" AND abs:"agent"',
-    'cat:cs.LG AND abs:"learning" AND abs:"neural"',
-    'cat:cs.CL AND abs:"language learning" AND abs:"model"',
-    'cat:cs.AI AND abs:"meta-learning"',
-    'cat:cs.LG AND abs:"meta-learning"',
-    'cat:cs.AI AND abs:"reinforcement learning" AND abs:"agent"',
-    'cat:cs.LG AND abs:"reinforcement learning"',
-    'cat:cs.AI AND abs:"self-supervised learning"',
-    'cat:cs.LG AND abs:"self-supervised learning"',
-    'cat:cs.AI AND abs:"continual learning"',
-    'cat:cs.LG AND abs:"continual learning"',
-    'cat:cs.AI AND abs:"curriculum learning"',
-    'cat:cs.LG AND abs:"curriculum learning"',
-    'cat:cs.AI AND abs:"few-shot learning"',
-    'cat:cs.LG AND abs:"few-shot learning"',
-    'cat:cs.AI AND abs:"transfer learning"',
-    'cat:cs.LG AND abs:"transfer learning"',
-    'cat:cs.AI AND abs:"active learning"',
-    'cat:cs.LG AND abs:"active learning"',
-    'cat:cs.AI AND abs:"deep learning" AND abs:"survey"',
-    'cat:cs.LG AND abs:"deep learning" AND abs:"survey"',
-    'cat:cs.AI AND abs:"spiking neural" AND abs:"learning"',
-    'cat:cs.AI AND abs:"neuromorphic" AND abs:"learning"',
-    'cat:cs.LG AND abs:"neuromorphic" AND abs:"learning"',
-    'cat:cs.AI AND abs:"federated learning" AND abs:"survey"',
-    'cat:cs.LG AND abs:"federated learning" AND abs:"survey"',
-    'cat:cs.AI AND abs:"imitation learning" AND abs:"robot"',
-    'cat:cs.RO AND abs:"imitation learning"',
-    'cat:cs.RO AND abs:"robot learning"',
-    'cat:cs.AI AND abs:"skill acquisition" AND abs:"agent"',
-    'cat:cs.AI AND abs:"in-context learning"',
-    'cat:cs.CL AND abs:"in-context learning"',
-    'cat:cs.AI AND abs:"instruction learning" AND abs:"LLM"',
-    'cat:cs.CL AND abs:"instruction learning" AND abs:"LLM"',
-    'cat:cs.AI AND abs:"learning theory" AND abs:"generalization"',
-    'cat:cs.LG AND abs:"learning theory" AND abs:"generalization"',
-    'cat:cs.AI AND abs:"swarm" AND abs:"learning"',
-    'cat:cs.MA AND abs:"swarm" AND abs:"learning"',
-    'cat:cs.AI AND abs:"collective" AND abs:"learning"',
-    'cat:cs.MA AND abs:"collective" AND abs:"learning"',
-    'cat:cs.AI AND abs:"multi-agent" AND abs:"learning"',
-    'cat:cs.MA AND abs:"multi-agent" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"learning" AND abs:"neural plasticity"',
-    'cat:q-bio.NC AND abs:"synaptic" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"memory" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"cognitive" AND abs:"learning"',
-    'cat:cs.AI AND abs:"cognitive" AND abs:"model" AND abs:"learning"',
-    'cat:cs.AI AND abs:"memory" AND abs:"learning" AND abs:"model"',
-    'cat:cs.AI AND abs:"decision" AND abs:"learning"',
-    'cat:cs.CY AND abs:"machine learning" AND abs:"education"',
-    'cat:cs.HC AND abs:"learning" AND abs:"technology"',
-    'cat:cs.CY AND abs:"intelligent tutoring"',
-    'cat:cs.AI AND abs:"educational" AND abs:"data mining"',
-    'cat:cs.CY AND abs:"gamification" AND abs:"learning"',
-    'cat:cs.CL AND abs:"language acquisition" AND abs:"model"',
-    'cat:cs.CL AND abs:"bilingual" AND abs:"learning"',
-    'cat:cs.CL AND abs:"speech" AND abs:"learning"',
-    'cat:cs.SD AND abs:"motor learning"',
-    'cat:cs.RO AND abs:"motor learning" AND abs:"robot"',
-    'cat:cs.AI AND abs:"creative" AND abs:"learning"',
-    'cat:cs.AI AND abs:"creative" AND abs:"cognition"',
-    'cat:q-bio.NC AND abs:"emotion" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"affective" AND abs:"learning"',
-    'cat:cs.AI AND abs:"animal" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"comparative" AND abs:"cognition"',
-    'cat:q-bio.PE AND abs:"animal" AND abs:"learning"',
-    'cat:cs.AI AND abs:"evolutionary" AND abs:"learning"',
-    'cat:cs.NE AND abs:"evolutionary" AND abs:"learning"',
-    'cat:cs.AI AND abs:"perceptual" AND abs:"learning"',
-    'cat:cs.CV AND abs:"perceptual" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"perceptual" AND abs:"learning"',
-    'cat:cs.AI AND abs:"habit" AND abs:"formation" AND abs:"learning"',
-    'cat:cs.AI AND abs:"behavioral" AND abs:"learning"',
-    'cat:cs.SI AND abs:"social" AND abs:"learning"',
-    'cat:cs.MA AND abs:"social" AND abs:"learning"',
-    'cat:cs.CY AND abs:"health" AND abs:"learning"',
-    'cat:cs.AI AND abs:"medical" AND abs:"training"',
-    'cat:cs.HC AND abs:"patient education"',
-    'cat:q-bio.NC AND abs:"infant" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"child" AND abs:"development" AND abs:"learning"',
-    'cat:cs.AI AND abs:"epistemology" AND abs:"learning"',
-    'cat:cs.AI AND abs:"consciousness" AND abs:"learning"',
-    'cat:cs.AI AND abs:"growth mindset" AND abs:"learning"',
-    'cat:cs.CY AND abs:"motivation" AND abs:"learning"',
-    'cat:cs.AI AND abs:"zone of proximal" AND abs:"learning"',
-    'cat:cs.AI AND abs:"self-regulation" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"forgetting" AND abs:"memory"',
-    'cat:q-bio.NC AND abs:"working memory" AND abs:"learning"',
-    'cat:cs.AI AND abs:"working memory" AND abs:"model"',
-    'cat:q-bio.NC AND abs:"episodic memory" AND abs:"learning"',
-    'cat:q-bio.NC AND abs:"semantic memory" AND abs:"learning"',
-    'cat:cs.AI AND abs:"forgetting" AND abs:"machine learning"',
-    'cat:cs.LG AND abs:"catastrophic forgetting"',
-    'cat:cs.CV AND abs:"continual learning" AND abs:"class"',
-    'cat:cs.NE AND abs:"spiking" AND abs:"network" AND abs:"learning"',
-    'cat:cs.ET AND abs:"brain-computer interface" AND abs:"learning"',
-    'cat:cs.HC AND abs:"VR" AND abs:"learning"',
-    'cat:cs.HC AND abs:"augmented reality" AND abs:"learning"',
-    'cat:cs.AI AND abs:"organizational" AND abs:"learning"',
-    'cat:cs.CY AND abs:"online learning" AND abs:"platform"',
-    'cat:cs.CL AND abs:"literacy" AND abs:"learning"',
-    'cat:cs.AI AND abs:"skill" AND abs:"learning" AND abs:"survey"',
-    'cat:cs.AI AND abs:"learning" AND abs:"representation"',
-    'cat:cs.LG AND abs:"representation learning"',
-    'cat:cs.AI AND abs:"contrastive learning"',
-    'cat:cs.LG AND abs:"contrastive learning"',
-    'cat:cs.AI AND abs:"graph learning"',
-    'cat:cs.LG AND abs:"graph learning"',
-    'cat:cs.AI AND abs:"world model" AND abs:"learning"',
-    'cat:cs.LG AND abs:"world model" AND abs:"learning"',
-]
+
+def get_queries(cfg):
+    """Return arXiv queries, supporting both string and dict formats.
+
+    Each entry can be:
+      - a plain string (legacy): 'cat:cs.RO AND abs:"manipulation"'
+      - a dict with query + optional category/subcategory_hint:
+        query: 'cat:cs.RO AND abs:"manipulation"'
+        category: manipulation        # optional
+        subcategory_hint: method      # optional
+    """
+    out = []
+    for q in cfg.get("arxiv_queries", []):
+        if isinstance(q, dict):
+            out.append({
+                "query": q.get("query", ""),
+                "category": q.get("category", ""),
+                "subcategory_hint": q.get("subcategory_hint", ""),
+            })
+        else:
+            out.append({"query": q, "category": "", "subcategory_hint": ""})
+    return out
+
+
+def classify_subcategory(title, abstract="", cfg=None):
+    """Assign a subcategory using config keyword rules, then heuristics.
+
+    Reads ``subcategory_keywords`` from taxonomy.yaml (via research_config).
+    Falls back to a generic heuristic ordering when no config rules match.
+    """
+    if cfg is None:
+        cfg = research_config.load_config()
+    text = f"{title} {abstract}".lower()
+    title_lower = title.lower()
+    # 1. Config-driven rules (first match wins)
+    for sid, keywords in research_config.get_subcategory_keywords(cfg):
+        for kw in keywords:
+            if kw.lower() in text:
+                return sid
+    # 2. Generic heuristic fallback (same ordering as fetch_other_sources)
+    heuristic = [
+        ("theory", ["theory", "theoretical", "formal", "proof", "convergence", "bound"]),
+        ("mechanism", ["mechanism", "explainab", "interpretab", "attention", "saliency"]),
+        ("method", ["method", "algorithm", "approach", "technique", "framework", "novel method"]),
+        ("application", ["application", "applied", "deploy", "real-world", "case study"]),
+        ("development", ["implementation", "system", "platform", "toolkit", "library", "open-source"]),
+        ("systems", ["simulator", "simulation", "engine", "benchmark", "testbed", "environment"]),
+        ("evaluation", ["benchmark", "evaluation", "comparison", "baseline", "leaderboard"]),
+        ("review", ["survey", "review", "literature", "meta-analysis", "overview", "taxonomy"]),
+    ]
+    for sid, keywords in heuristic:
+        for kw in keywords:
+            if kw in text:
+                return sid
+    # 3. First configured subcategory as last resort
+    subs = research_config.get_subcategories(cfg)
+    return subs[0]["id"] if subs else ""
 
 
 def load_existing_papers(yaml_path):
@@ -184,6 +128,45 @@ def search_arxiv(query, months, start=0, max_results=100):
             summary_m = re.search(r"<summary>(.*?)</summary>", entry_xml, re.DOTALL)
             if summary_m:
                 entry["abstract"] = re.sub(r"\s+", " ", summary_m.group(1).strip())
+            # Extract authors from <author><name>...</name></author> tags
+            authors = []
+            for auth_m in re.finditer(r"<author>\s*<name>(.*?)</name>\s*</author>", entry_xml, re.DOTALL):
+                name = auth_m.group(1).strip()
+                if name:
+                    authors.append(name)
+            entry["authors"] = authors[:5]  # cap at 5 for readability
+            # Extract venue hint from <arxiv:comment> if present
+            venue = ""
+            comment_m = re.search(r"<arxiv:comment[^>]*>(.*?)</arxiv:comment>", entry_xml, re.DOTALL)
+            if comment_m:
+                comment = re.sub(r"\s+", " ", comment_m.group(1).strip())
+                venue_match = re.search(
+                    r"(?:Accepted|Published|Appears in|in proceedings of|in|at)\s+"
+                    r"((?:ACL|EMNLP|NAACL|NeurIPS|ICML|ICLR|CVPR|ICCV|ECCV|AAAI|"
+                    r"IJCAI|COLM|COLING|KDD|WWW|SIGIR|WSDM|CIKM|TMLR|JMLR|ICRA|IROS|RA-L|"
+                    r"CoRL|RSS|Humanoids|CASE|RAL)[\w\s\.\-]*"
+                    r"(?:\d{4})?)",
+                    comment, re.IGNORECASE
+                )
+                if venue_match:
+                    venue = venue_match.group(1).strip()
+            entry["venue"] = venue
+            # Extract code/project URLs from abstract
+            abstract_text = entry.get("abstract", "")
+            code_url = ""
+            project_url = ""
+            github_match = re.search(r"https?://github\.com/[\w\-.]+/[\w\-.]+", abstract_text)
+            if github_match:
+                code_url = github_match.group(0).rstrip(".")
+            proj_match = re.search(r"https?://(?:[\w\-.]+\.)?(?:github\.io|sites\.google\.com|huggingface\.co|zenodo\.org|projectpage\.[\w\-.]+)/[^\s\)]+", abstract_text)
+            if proj_match:
+                project_url = proj_match.group(0).rstrip(".")
+            if not code_url and not project_url:
+                gh_io_match = re.search(r"https?://[\w\-.]+\.github\.io/[^\s\)]+", abstract_text)
+                if gh_io_match:
+                    project_url = gh_io_match.group(0).rstrip(".")
+            entry["code_url"] = code_url
+            entry["project_url"] = project_url
             if entry.get("title") and entry.get("url"):
                 entries.append(entry)
         return entries
@@ -192,49 +175,42 @@ def search_arxiv(query, months, start=0, max_results=100):
         return []
 
 
-def format_yaml_entry(entry):
+def format_yaml_entry(entry, cfg):
     title = entry["title"].replace('"', '\\"')
+    cats = " | ".join(c["id"] for c in research_config.get_categories(cfg)) or "?"
+    subs = " | ".join(s["id"] for s in research_config.get_subcategories(cfg)) or "?"
+    cat = entry.get("category", "")
+    sub = entry.get("subcategory", "")
+    cat_line = f'    category: "{cat}"' if cat else f'    category: ""  # TODO: {cats}'
+    sub_line = f'    subcategory: "{sub}"' if sub else f'    subcategory: ""  # TODO: {subs}'
     lines = [
         f'  - title: "{title}"',
         f'    date: "{entry.get("date", "")}"',
         f'    url: "{entry.get("url", "")}"',
-        f'    category: ""  # TODO: see CONTRIBUTING.md for valid categories',
-        f'    subcategory: ""  # TODO: see CONTRIBUTING.md for valid subcategories',
+        cat_line,
+        sub_line,
     ]
+    authors = entry.get("authors", [])
+    if authors:
+        lines.append(f'    authors:')
+        for a in authors:
+            lines.append(f'      - "{a}"')
+    if entry.get("venue"):
+        venue = entry["venue"].replace('"', '\\"')
+        lines.append(f'    venue: "{venue}"')
+    if entry.get("code_url"):
+        lines.append(f'    code_url: "{entry["code_url"]}"')
+    if entry.get("project_url"):
+        lines.append(f'    project_url: "{entry["project_url"]}"')
     if entry.get("abstract"):
         abstract = entry["abstract"][:200].replace('"', '\\"')
         lines.append(f'    abstract: "{abstract}..."')
     return "\n".join(lines)
 
 
-def _append_local(yaml_path, all_new):
-    """Append discovered papers directly to papers.yaml (no GitHub)."""
-    with open(yaml_path, "r") as f:
-        data = yaml.safe_load(f) or {}
-    papers = data.get("papers", [])
-    before = len(papers)
-    for entry in all_new:
-        papers.append(
-            {
-                "title": entry.get("title", ""),
-                "date": entry.get("date", ""),
-                "url": entry.get("url", ""),
-                "category": "",
-                "subcategory": "",
-                "abstract": entry.get("abstract", ""),
-            }
-        )
-    data["papers"] = papers
-    with open(yaml_path, "w") as f:
-        yaml.dump(
-            data, f, default_flow_style=False, allow_unicode=True, sort_keys=False
-        )
-    print(f"Saved {len(papers) - before} new papers to papers.yaml", flush=True)
-
-
 def main():
     parser = argparse.ArgumentParser(
-        description="Discover new learning research papers from arXiv"
+        description="Discover new papers from arXiv (topic from config/taxonomy.yaml)"
     )
     parser.add_argument(
         "--months",
@@ -253,18 +229,29 @@ def main():
     )
     args = parser.parse_args()
 
+    cfg = research_config.load_config()
+    queries = get_queries(cfg)
+
     yaml_path = Path(__file__).resolve().parent.parent.parent / "papers.yaml"
     by_id, titles_lower = load_existing_papers(yaml_path)
 
     print(f"Loaded {len(by_id)} existing papers from papers.yaml", flush=True)
+    print(f"Using {len(queries)} arXiv query(ies) from config/taxonomy.yaml", flush=True)
     print(
         f"Searching arXiv for papers from the last {args.months} month(s)...",
         flush=True,
     )
 
+    if not queries:
+        print("No arxiv_queries configured in config/taxonomy.yaml — nothing to do.", flush=True)
+        return
+
     all_new = []
-    for qi, query in enumerate(QUERIES):
-        print(f"\nQuery {qi + 1}/{len(QUERIES)}...", flush=True)
+    for qi, qinfo in enumerate(queries):
+        query = qinfo["query"]
+        q_category = qinfo.get("category", "")
+        q_hint = qinfo.get("subcategory_hint", "")
+        print(f"\nQuery {qi + 1}/{len(queries)}...", flush=True)
         entries = search_arxiv(query, args.months)
         for entry in entries:
             arxiv_id_match = ARXIV_ID_PATTERN.search(entry.get("url", ""))
@@ -280,6 +267,11 @@ def main():
             if arxiv_id and any(e.get("url", "") == entry["url"] for e in all_new):
                 continue
 
+            # Auto-classify subcategory if no hint; always classify subcategory
+            sub = q_hint or classify_subcategory(
+                entry.get("title", ""), entry.get("abstract", ""), cfg)
+            entry["category"] = q_category
+            entry["subcategory"] = sub
             all_new.append(entry)
 
         time.sleep(3)
@@ -294,7 +286,7 @@ def main():
 
     print("\n--- New Papers ---", flush=True)
     for entry in all_new:
-        print(format_yaml_entry(entry), flush=True)
+        print(format_yaml_entry(entry, cfg), flush=True)
         print(flush=True)
 
     if args.dry_run:
@@ -302,12 +294,45 @@ def main():
         return
 
     if args.local:
-        print(f"\nAppending {len(all_new)} new papers locally...", flush=True)
-        _append_local(yaml_path, all_new)
+        print(f"\nAppending {len(all_new)} new papers to papers.yaml locally...", flush=True)
+        try:
+            with open(yaml_path, "r") as f:
+                data = yaml.safe_load(f) or {}
+            papers = data.get("papers", [])
+            before = len(papers)
+            for entry in all_new:
+                papers.append(
+                    {
+                        "title": entry.get("title", ""),
+                        "date": entry.get("date", ""),
+                        "url": entry.get("url", ""),
+                        "category": entry.get("category", ""),
+                        "subcategory": entry.get("subcategory", ""),
+                        "authors": entry.get("authors", []),
+                        "venue": entry.get("venue", ""),
+                        "code_url": entry.get("code_url", ""),
+                        "project_url": entry.get("project_url", ""),
+                        "abstract": entry.get("abstract", ""),
+                    }
+                )
+            data["papers"] = papers
+            with open(yaml_path, "w") as f:
+                yaml.dump(
+                    data,
+                    f,
+                    default_flow_style=False,
+                    allow_unicode=True,
+                    sort_keys=False,
+                )
+            print(f"Saved {len(papers) - before} new papers to papers.yaml", flush=True)
+        except Exception as e:
+            print(f"ERROR: local write failed: {e}", flush=True)
+            sys.exit(1)
         return
 
     if args.create_pr:
         branch_name = f"add-new-papers-{datetime.now().strftime('%Y%m%d')}"
+        yaml_entries = "\n".join(format_yaml_entry(e, cfg) for e in all_new)
 
         print(f"\nCreating branch '{branch_name}' and PR...", flush=True)
 
@@ -324,8 +349,12 @@ def main():
                         "title": entry.get("title", ""),
                         "date": entry.get("date", ""),
                         "url": entry.get("url", ""),
-                        "category": "",
-                        "subcategory": "",
+                        "category": entry.get("category", ""),
+                        "subcategory": entry.get("subcategory", ""),
+                        "authors": entry.get("authors", []),
+                        "venue": entry.get("venue", ""),
+                        "code_url": entry.get("code_url", ""),
+                        "project_url": entry.get("project_url", ""),
                         "abstract": entry.get("abstract", ""),
                     }
                 )
