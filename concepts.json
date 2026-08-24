@@ -5,7 +5,7 @@
       "term": "Machine Learning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 5671,
+      "df": 6021,
       "match": {
         "type": "field",
         "field": "category",
@@ -17,13 +17,13 @@
         "machine-learning/mechanism",
         "machine-learning/application"
       ],
-      "papers": 5671
+      "papers": 6021
     },
     {
       "term": "Cognitive Science",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2839,
+      "df": 2840,
       "match": {
         "type": "field",
         "field": "category",
@@ -35,7 +35,7 @@
         "cognitive-science/mechanism",
         "cognitive-science/application"
       ],
-      "papers": 2839
+      "papers": 2840
     },
     {
       "term": "Language",
@@ -113,7 +113,7 @@
       "term": "Education",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1571,
+      "df": 1575,
       "match": {
         "type": "field",
         "field": "category",
@@ -125,7 +125,7 @@
         "education/technology",
         "education/application"
       ],
-      "papers": 1571
+      "papers": 1575
     },
     {
       "term": "Memory Science",
@@ -185,7 +185,7 @@
       "term": "Evolutionary",
       "kind": "taxonomy",
       "seed": true,
-      "df": 927,
+      "df": 930,
       "match": {
         "type": "field",
         "field": "category",
@@ -197,7 +197,7 @@
         "evolutionary/individual-differences",
         "evolutionary/mechanism"
       ],
-      "papers": 927
+      "papers": 930
     },
     {
       "term": "Motor",
@@ -272,6 +272,24 @@
       "papers": 659
     },
     {
+      "term": "Emotion",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 634,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "emotion"
+      },
+      "top_cells": [
+        "emotion/theory",
+        "emotion/method",
+        "emotion/mechanism",
+        "emotion/application"
+      ],
+      "papers": 634
+    },
+    {
       "term": "Creative",
       "kind": "taxonomy",
       "seed": true,
@@ -306,24 +324,6 @@
         "animal-learning/application"
       ],
       "papers": 573
-    },
-    {
-      "term": "Emotion",
-      "kind": "taxonomy",
-      "seed": true,
-      "df": 448,
-      "match": {
-        "type": "field",
-        "field": "category",
-        "value": "emotion"
-      },
-      "top_cells": [
-        "emotion/theory",
-        "emotion/method",
-        "emotion/mechanism",
-        "emotion/review"
-      ],
-      "papers": 448
     },
     {
       "term": "Survey",

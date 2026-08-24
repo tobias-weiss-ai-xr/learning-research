@@ -4,13 +4,13 @@
       "id": 0,
       "term": "Machine Learning",
       "kind": "taxonomy",
-      "df": 5671
+      "df": 6021
     },
     {
       "id": 1,
       "term": "Cognitive Science",
       "kind": "taxonomy",
-      "df": 2839
+      "df": 2840
     },
     {
       "id": 2,
@@ -40,7 +40,7 @@
       "id": 6,
       "term": "Education",
       "kind": "taxonomy",
-      "df": 1571
+      "df": 1575
     },
     {
       "id": 7,
@@ -64,7 +64,7 @@
       "id": 10,
       "term": "Evolutionary",
       "kind": "taxonomy",
-      "df": 927
+      "df": 930
     },
     {
       "id": 11,
@@ -92,21 +92,21 @@
     },
     {
       "id": 15,
+      "term": "Emotion",
+      "kind": "taxonomy",
+      "df": 634
+    },
+    {
+      "id": 16,
       "term": "Creative",
       "kind": "taxonomy",
       "df": 621
     },
     {
-      "id": 16,
+      "id": 17,
       "term": "Animal Learning",
       "kind": "taxonomy",
       "df": 573
-    },
-    {
-      "id": 17,
-      "term": "Emotion",
-      "kind": "taxonomy",
-      "df": 448
     },
     {
       "id": 18,
@@ -125,6 +125,6 @@
   "stats": {
     "concepts": 20,
     "edges": 0,
-    "papers": 29625
+    "papers": 30169
   }
 }

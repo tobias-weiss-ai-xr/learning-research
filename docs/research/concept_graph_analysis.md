@@ -4,17 +4,17 @@
 
 ## Top hubs (by PageRank)
 
-- **Machine Learning** — PR 0.0000, degree 0, df 5671
-- **Cognitive Science** — PR 0.0000, degree 0, df 2839
+- **Machine Learning** — PR 0.0000, degree 0, df 6021
+- **Cognitive Science** — PR 0.0000, degree 0, df 2840
 - **Language** — PR 0.0000, degree 0, df 2579
 - **Philosophy Of Mind** — PR 0.0000, degree 0, df 2190
 - **Neuroscience** — PR 0.0000, degree 0, df 1749
 - **Social Learning** — PR 0.0000, degree 0, df 1582
-- **Education** — PR 0.0000, degree 0, df 1571
+- **Education** — PR 0.0000, degree 0, df 1575
 - **Memory Science** — PR 0.0000, degree 0, df 1513
 - **Collective** — PR 0.0000, degree 0, df 1248
 - **Behavioral** — PR 0.0000, degree 0, df 1135
-- **Evolutionary** — PR 0.0000, degree 0, df 927
+- **Evolutionary** — PR 0.0000, degree 0, df 930
 - **Motor** — PR 0.0000, degree 0, df 857
 
 ## Bridge nodes (high betweenness — connect clusters)

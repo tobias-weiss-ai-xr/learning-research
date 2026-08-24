@@ -1,29 +1,29 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 20 concepts, 0 relationships from 29625 papers. Edges = co-occurrence (shared papers).
+**Generated:** 20 concepts, 0 relationships from 30169 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
 | Concept | Kind | Papers |
 |----------|------|--------|
-| Machine Learning | taxonomy | 5671 |
-| Cognitive Science | taxonomy | 2839 |
+| Machine Learning | taxonomy | 6021 |
+| Cognitive Science | taxonomy | 2840 |
 | Language | taxonomy | 2579 |
 | Philosophy Of Mind | taxonomy | 2190 |
 | Neuroscience | taxonomy | 1749 |
 | Social Learning | taxonomy | 1582 |
-| Education | taxonomy | 1571 |
+| Education | taxonomy | 1575 |
 | Memory Science | taxonomy | 1513 |
 | Collective | taxonomy | 1248 |
 | Behavioral | taxonomy | 1135 |
-| Evolutionary | taxonomy | 927 |
+| Evolutionary | taxonomy | 930 |
 | Motor | taxonomy | 857 |
 | Neuromorphic | taxonomy | 833 |
 | Educational Psychology | taxonomy | 806 |
 | Perceptual | taxonomy | 659 |
+| Emotion | taxonomy | 634 |
 | Creative | taxonomy | 621 |
 | Animal Learning | taxonomy | 573 |
-| Emotion | taxonomy | 448 |
 | Survey | taxonomy | 0 |
 | Method | taxonomy | 0 |
 
