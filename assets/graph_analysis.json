@@ -104,7 +104,7 @@
   {
    "id": "cognitive-science",
    "name": "Cognitive Science",
-   "count": 2839,
+   "count": 2840,
    "trajectory": {
     "2007": 1,
     "2009": 1,
@@ -120,18 +120,18 @@
     "2023": 433,
     "2024": 572,
     "2025": 944,
-    "2026": 712
+    "2026": 713
    },
    "momentum": {
     "id": "cognitive-science",
     "name": "Cognitive Science",
-    "total": 2839,
-    "recent": 1134,
+    "total": 2840,
+    "recent": 1135,
     "prior": 786,
-    "growth_pct": 44.3,
-    "recent_share": 0.399,
-    "papers_per_month": 94.5,
-    "score": 84.2
+    "growth_pct": 44.4,
+    "recent_share": 0.4,
+    "papers_per_month": 94.6,
+    "score": 84.4
    }
   },
   {
@@ -191,7 +191,7 @@
   },
   {
    "id": "developmental",
-   "name": "Developmental",
+   "name": "developmental",
    "count": 648,
    "trajectory": {
     "2021": 12,
@@ -216,7 +216,7 @@
   {
    "id": "education",
    "name": "Education",
-   "count": 1571,
+   "count": 1575,
    "trajectory": {
     "1988": 1,
     "1990": 1,
@@ -232,18 +232,18 @@
     "2023": 236,
     "2024": 386,
     "2025": 519,
-    "2026": 328
+    "2026": 332
    },
    "momentum": {
     "id": "education",
     "name": "Education",
-    "total": 1571,
-    "recent": 565,
+    "total": 1575,
+    "recent": 569,
     "prior": 465,
-    "growth_pct": 21.5,
-    "recent_share": 0.36,
-    "papers_per_month": 47.1,
-    "score": 57.5
+    "growth_pct": 22.4,
+    "recent_share": 0.361,
+    "papers_per_month": 47.4,
+    "score": 58.5
    }
   },
   {
@@ -281,7 +281,7 @@
   {
    "id": "emotion",
    "name": "Emotion",
-   "count": 448,
+   "count": 634,
    "trajectory": {
     "2013": 1,
     "2017": 1,
@@ -290,24 +290,24 @@
     "2023": 66,
     "2024": 108,
     "2025": 138,
-    "2026": 78
+    "2026": 264
    },
    "momentum": {
     "id": "emotion",
     "name": "Emotion",
-    "total": 448,
-    "recent": 137,
+    "total": 634,
+    "recent": 323,
     "prior": 137,
-    "growth_pct": 0.0,
-    "recent_share": 0.306,
-    "papers_per_month": 11.4,
-    "score": 30.6
+    "growth_pct": 135.8,
+    "recent_share": 0.509,
+    "papers_per_month": 26.9,
+    "score": 186.7
    }
   },
   {
    "id": "evolutionary",
    "name": "Evolutionary",
-   "count": 927,
+   "count": 930,
    "trajectory": {
     "1981": 1,
     "1990": 1,
@@ -336,24 +336,24 @@
     "2023": 86,
     "2024": 142,
     "2025": 259,
-    "2026": 284,
+    "2026": 287,
     "None": 1
    },
    "momentum": {
     "id": "evolutionary",
     "name": "Evolutionary",
-    "total": 927,
-    "recent": 414,
+    "total": 930,
+    "recent": 417,
     "prior": 197,
-    "growth_pct": 110.2,
-    "recent_share": 0.447,
-    "papers_per_month": 34.5,
-    "score": 154.9
+    "growth_pct": 111.7,
+    "recent_share": 0.448,
+    "papers_per_month": 34.8,
+    "score": 156.5
    }
   },
   {
    "id": "health",
-   "name": "Health",
+   "name": "health",
    "count": 1143,
    "trajectory": {
     "2021": 9,
@@ -403,25 +403,25 @@
   {
    "id": "machine-learning",
    "name": "Machine Learning",
-   "count": 5671,
+   "count": 6021,
    "trajectory": {
     "2021": 22,
     "2022": 438,
     "2023": 1220,
     "2024": 1464,
     "2025": 1535,
-    "2026": 987
+    "2026": 1337
    },
    "momentum": {
     "id": "machine-learning",
     "name": "Machine Learning",
-    "total": 5671,
-    "recent": 1661,
+    "total": 6021,
+    "recent": 2011,
     "prior": 1503,
-    "growth_pct": 10.5,
-    "recent_share": 0.293,
-    "papers_per_month": 138.4,
-    "score": 39.8
+    "growth_pct": 33.8,
+    "recent_share": 0.334,
+    "papers_per_month": 167.6,
+    "score": 67.2
    }
   },
   {
@@ -651,42 +651,57 @@
   {
    "id": "application",
    "name": "Application",
-   "count": 997
+   "count": 1007
   },
   {
    "id": "development",
    "name": "Development",
-   "count": 792
+   "count": 800
+  },
+  {
+   "id": "evaluation",
+   "name": "evaluation",
+   "count": 6
   },
   {
    "id": "individual-differences",
-   "name": "Individual Differences",
+   "name": "individual-differences",
    "count": 388
   },
   {
    "id": "mechanism",
-   "name": "Mechanism",
+   "name": "mechanism",
    "count": 2215
   },
   {
    "id": "method",
    "name": "Method",
-   "count": 8159
+   "count": 8505
   },
   {
    "id": "review",
-   "name": "Review",
-   "count": 441
+   "name": "review",
+   "count": 442
+  },
+  {
+   "id": "survey",
+   "name": "Survey",
+   "count": 43
+  },
+  {
+   "id": "systems",
+   "name": "Systems",
+   "count": 23
   },
   {
    "id": "technology",
-   "name": "Technology",
+   "name": "technology",
    "count": 1241
   },
   {
    "id": "theory",
    "name": "Theory",
-   "count": 15359
+   "count": 15466
   }
  ],
  "timeline": [
@@ -117418,7 +117433,57 @@
   [
    "2026-02",
    "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-02",
+   "emotion",
    "review"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "emotion",
+   "theory"
   ],
   [
    "2026-02",
@@ -118358,17 +118423,122 @@
   [
    "2026-02",
    "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
    "review"
   ],
   [
    "2026-02",
    "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
    "technology"
   ],
   [
    "2026-02",
    "machine-learning",
    "technology"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-02",
+   "machine-learning",
+   "theory"
   ],
   [
    "2026-02",
@@ -121193,6 +121363,11 @@
   [
    "2026-03",
    "cognitive-science",
+   "review"
+  ],
+  [
+   "2026-03",
+   "cognitive-science",
    "technology"
   ],
   [
@@ -121853,6 +122028,11 @@
   [
    "2026-03",
    "education",
+   "development"
+  ],
+  [
+   "2026-03",
+   "education",
    "mechanism"
   ],
   [
@@ -122238,12 +122418,292 @@
   [
    "2026-03",
    "emotion",
+   "application"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "application"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "development"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "development"
+  ],
+  [
+   "2026-03",
+   "emotion",
    "method"
   ],
   [
    "2026-03",
    "emotion",
    "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "emotion",
+   "theory"
   ],
   [
    "2026-03",
@@ -122299,6 +122759,11 @@
    "2026-03",
    "evolutionary",
    "mechanism"
+  ],
+  [
+   "2026-03",
+   "evolutionary",
+   "method"
   ],
   [
    "2026-03",
@@ -123433,12 +123898,17 @@
   [
    "2026-03",
    "machine-learning",
+   "application"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
    "development"
   ],
   [
    "2026-03",
    "machine-learning",
-   "mechanism"
+   "evaluation"
   ],
   [
    "2026-03",
@@ -123468,6 +123938,221 @@
   [
    "2026-03",
    "machine-learning",
+   "mechanism"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
    "method"
   ],
   [
@@ -123684,6 +124369,336 @@
    "2026-03",
    "machine-learning",
    "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "systems"
   ],
   [
    "2026-03",
@@ -123694,6 +124709,66 @@
    "2026-03",
    "machine-learning",
    "technology"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-03",
+   "machine-learning",
+   "theory"
   ],
   [
    "2026-03",
@@ -127968,6 +129043,16 @@
   [
    "2026-04",
    "emotion",
+   "development"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
    "method"
   ],
   [
@@ -127979,6 +129064,171 @@
    "2026-04",
    "emotion",
    "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "emotion",
+   "theory"
   ],
   [
    "2026-04",
@@ -128993,12 +130243,32 @@
   [
    "2026-04",
    "machine-learning",
+   "application"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "application"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "application"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "application"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
    "development"
   ],
   [
    "2026-04",
    "machine-learning",
-   "mechanism"
+   "evaluation"
   ],
   [
    "2026-04",
@@ -129009,6 +130279,336 @@
    "2026-04",
    "machine-learning",
    "mechanism"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "mechanism"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "method"
   ],
   [
    "2026-04",
@@ -129133,7 +130733,77 @@
   [
    "2026-04",
    "machine-learning",
-   "technology"
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "systems"
   ],
   [
    "2026-04",
@@ -129144,6 +130814,46 @@
    "2026-04",
    "machine-learning",
    "technology"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "technology"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-04",
+   "machine-learning",
+   "theory"
   ],
   [
    "2026-04",
@@ -132838,6 +134548,21 @@
   [
    "2026-05",
    "education",
+   "development"
+  ],
+  [
+   "2026-05",
+   "education",
+   "development"
+  ],
+  [
+   "2026-05",
+   "education",
+   "development"
+  ],
+  [
+   "2026-05",
+   "education",
    "mechanism"
   ],
   [
@@ -133214,6 +134939,71 @@
    "2026-05",
    "emotion",
    "application"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "evaluation"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "method"
   ],
   [
    "2026-05",
@@ -133253,6 +135043,86 @@
   [
    "2026-05",
    "emotion",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "emotion",
    "theory"
   ],
   [
@@ -133324,6 +135194,11 @@
    "2026-05",
    "evolutionary",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "evolutionary",
+   "method"
   ],
   [
    "2026-05",
@@ -134578,7 +136453,12 @@
   [
    "2026-05",
    "machine-learning",
-   "mechanism"
+   "application"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "evaluation"
   ],
   [
    "2026-05",
@@ -134614,6 +136494,201 @@
    "2026-05",
    "machine-learning",
    "mechanism"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "mechanism"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "method"
   ],
   [
    "2026-05",
@@ -134873,7 +136948,32 @@
   [
    "2026-05",
    "machine-learning",
-   "technology"
+   "survey"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "survey"
   ],
   [
    "2026-05",
@@ -134884,6 +136984,61 @@
    "2026-05",
    "machine-learning",
    "technology"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "technology"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-05",
+   "machine-learning",
+   "theory"
   ],
   [
    "2026-05",
@@ -139638,6 +141793,26 @@
   [
    "2026-06",
    "emotion",
+   "application"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "evaluation"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
    "method"
   ],
   [
@@ -139654,6 +141829,116 @@
    "2026-06",
    "emotion",
    "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "emotion",
+   "theory"
   ],
   [
    "2026-06",
@@ -140643,6 +142928,16 @@
   [
    "2026-06",
    "machine-learning",
+   "application"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "development"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
    "development"
   ],
   [
@@ -140848,12 +143143,177 @@
   [
    "2026-06",
    "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
    "review"
   ],
   [
    "2026-06",
    "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "survey"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "systems"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
    "technology"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-06",
+   "machine-learning",
+   "theory"
   ],
   [
    "2026-06",
@@ -144393,6 +146853,11 @@
   [
    "2026-07",
    "emotion",
+   "evaluation"
+  ],
+  [
+   "2026-07",
+   "emotion",
    "individual-differences"
   ],
   [
@@ -144413,6 +146878,131 @@
   [
    "2026-07",
    "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "systems"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "emotion",
    "theory"
   ],
   [
@@ -145129,6 +147719,71 @@
    "2026-07",
    "machine-learning",
    "mechanism"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "method"
   ],
   [
    "2026-07",
@@ -145284,6 +147939,21 @@
    "2026-07",
    "machine-learning",
    "technology"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "theory"
+  ],
+  [
+   "2026-07",
+   "machine-learning",
+   "theory"
   ],
   [
    "2026-07",
@@ -147798,12 +150468,37 @@
   [
    "2026-08",
    "emotion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "emotion",
+   "method"
+  ],
+  [
+   "2026-08",
+   "emotion",
+   "survey"
+  ],
+  [
+   "2026-08",
+   "emotion",
+   "theory"
+  ],
+  [
+   "2026-08",
+   "emotion",
    "theory"
   ],
   [
    "2026-08",
    "evolutionary",
    "application"
+  ],
+  [
+   "2026-08",
+   "evolutionary",
+   "method"
   ],
   [
    "2026-08",
@@ -148054,6 +150749,46 @@
    "2026-08",
    "machine-learning",
    "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "method"
+  ],
+  [
+   "2026-08",
+   "machine-learning",
+   "theory"
   ],
   [
    "2026-08",
@@ -148642,31 +151377,39 @@
    "papers": 117
   },
   {
-   "name": "Scientific Reports",
-   "papers": 76
+   "name": "Frontiers in Psychology",
+   "papers": 81
   },
   {
-   "name": "Frontiers in Psychology",
-   "papers": 73
+   "name": "Scientific Reports",
+   "papers": 79
   },
   {
    "name": "Nature Communications",
-   "papers": 39
-  },
-  {
-   "name": "bioRxiv (Cold Spring Harbor Laboratory)",
-   "papers": 36
+   "papers": 40
   },
   {
    "name": "Education and Information Technologies",
-   "papers": 35
+   "papers": 38
   },
   {
-   "name": "PLoS ONE",
-   "papers": 29
+   "name": "bioRxiv (Cold Spring Harbor Laboratory)",
+   "papers": 37
   },
   {
    "name": "Frontiers in Education",
+   "papers": 35
+  },
+  {
+   "name": "Zenodo (CERN European Organization for Nuclear Research)",
+   "papers": 34
+  },
+  {
+   "name": "PLoS ONE",
+   "papers": 30
+  },
+  {
+   "name": "Sustainability",
    "papers": 28
   },
   {
@@ -148674,135 +151417,127 @@
    "papers": 27
   },
   {
-   "name": "Sustainability",
-   "papers": 27
+   "name": "Education Sciences",
+   "papers": 26
+  },
+  {
+   "name": "Applied Sciences",
+   "papers": 24
   },
   {
    "name": "IEEE Access",
    "papers": 23
   },
   {
-   "name": "Education Sciences",
-   "papers": 22
-  },
-  {
    "name": "Educational Psychology Review",
    "papers": 22
-  },
-  {
-   "name": "Journal of Neuroscience",
-   "papers": 21
-  },
-  {
-   "name": "Advanced Functional Materials",
-   "papers": 21
   }
  ],
  "keyword_bursts": [
   {
-   "keyword": "agentic",
-   "recent": 369,
-   "total": 424,
-   "burst_score": 2.25,
-   "recent_share": 0.0322
+   "keyword": "affective",
+   "recent": 195,
+   "total": 320,
+   "burst_score": 1.53,
+   "recent_share": 0.0162
   },
   {
-   "keyword": "world model",
-   "recent": 347,
-   "total": 531,
-   "burst_score": 1.69,
-   "recent_share": 0.0303
-  },
-  {
-   "keyword": "scalable",
-   "recent": 962,
-   "total": 1556,
-   "burst_score": 1.6,
-   "recent_share": 0.0839
-  },
-  {
-   "keyword": "retrieval",
-   "recent": 618,
-   "total": 1026,
-   "burst_score": 1.56,
-   "recent_share": 0.0539
-  },
-  {
-   "keyword": "policy",
-   "recent": 1467,
-   "total": 2520,
-   "burst_score": 1.5,
-   "recent_share": 0.128
-  },
-  {
-   "keyword": "uncertainty",
-   "recent": 554,
-   "total": 953,
-   "burst_score": 1.5,
-   "recent_share": 0.0483
-  },
-  {
-   "keyword": "benchmark",
-   "recent": 2604,
-   "total": 4550,
-   "burst_score": 1.48,
-   "recent_share": 0.2272
-  },
-  {
-   "keyword": "hierarchical",
-   "recent": 535,
-   "total": 949,
+   "keyword": "conditioning",
+   "recent": 187,
+   "total": 321,
    "burst_score": 1.46,
-   "recent_share": 0.0467
+   "recent_share": 0.0156
   },
   {
-   "keyword": "multimodal",
-   "recent": 815,
-   "total": 1450,
-   "burst_score": 1.45,
-   "recent_share": 0.0711
-  },
-  {
-   "keyword": "reward",
-   "recent": 992,
-   "total": 1785,
-   "burst_score": 1.44,
-   "recent_share": 0.0865
-  },
-  {
-   "keyword": "opponent",
-   "recent": 30,
-   "total": 54,
-   "burst_score": 1.44,
-   "recent_share": 0.0026
-  },
-  {
-   "keyword": "teaming",
-   "recent": 18,
-   "total": 33,
-   "burst_score": 1.41,
-   "recent_share": 0.0016
-  },
-  {
-   "keyword": "multi-agent",
-   "recent": 709,
-   "total": 1306,
+   "keyword": "adaptive",
+   "recent": 1474,
+   "total": 2653,
    "burst_score": 1.4,
-   "recent_share": 0.0619
+   "recent_share": 0.1228
   },
   {
    "keyword": "optimization",
-   "recent": 1576,
-   "total": 2937,
-   "burst_score": 1.39,
-   "recent_share": 0.1375
+   "recent": 1615,
+   "total": 2976,
+   "burst_score": 1.36,
+   "recent_share": 0.1345
   },
   {
-   "keyword": "embodied",
-   "recent": 282,
-   "total": 523,
-   "burst_score": 1.39,
-   "recent_share": 0.0246
+   "keyword": "architecture",
+   "recent": 2003,
+   "total": 3824,
+   "burst_score": 1.32,
+   "recent_share": 0.1668
+  },
+  {
+   "keyword": "mechanism",
+   "recent": 1942,
+   "total": 3801,
+   "burst_score": 1.28,
+   "recent_share": 0.1617
+  },
+  {
+   "keyword": "memory science",
+   "recent": 1,
+   "total": 2,
+   "burst_score": 1.26,
+   "recent_share": 0.0001
+  },
+  {
+   "keyword": "behavioral",
+   "recent": 575,
+   "total": 1158,
+   "burst_score": 1.25,
+   "recent_share": 0.0479
+  },
+  {
+   "keyword": "reinforcement",
+   "recent": 1996,
+   "total": 4055,
+   "burst_score": 1.24,
+   "recent_share": 0.1662
+  },
+  {
+   "keyword": "decision",
+   "recent": 1416,
+   "total": 2934,
+   "burst_score": 1.21,
+   "recent_share": 0.1179
+  },
+  {
+   "keyword": "thinking",
+   "recent": 309,
+   "total": 646,
+   "burst_score": 1.2,
+   "recent_share": 0.0257
+  },
+  {
+   "keyword": "episodic",
+   "recent": 124,
+   "total": 260,
+   "burst_score": 1.2,
+   "recent_share": 0.0103
+  },
+  {
+   "keyword": "language",
+   "recent": 3234,
+   "total": 6837,
+   "burst_score": 1.19,
+   "recent_share": 0.2693
+  },
+  {
+   "keyword": "philosophy of mind",
+   "recent": 9,
+   "total": 19,
+   "burst_score": 1.19,
+   "recent_share": 0.0007
+  },
+  {
+   "keyword": "system",
+   "recent": 4467,
+   "total": 9520,
+   "burst_score": 1.18,
+   "recent_share": 0.372
   }
  ]
 }
