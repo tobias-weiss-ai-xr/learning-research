@@ -1,6 +1,25 @@
 {
-  "count": 20,
+  "count": 40,
   "concepts": [
+    {
+      "term": "framework",
+      "kind": "curated",
+      "seed": true,
+      "df": 9077,
+      "match": {
+        "type": "text",
+        "forms": [
+          "framework"
+        ]
+      },
+      "papers": 9077,
+      "top_cells": [
+        "machine-learning/theory",
+        "philosophy-of-mind/theory",
+        "cognitive-science/theory",
+        "language/theory"
+      ]
+    },
     {
       "term": "Machine Learning",
       "kind": "taxonomy",
@@ -18,6 +37,25 @@
         "machine-learning/application"
       ],
       "papers": 6021
+    },
+    {
+      "term": "dataset",
+      "kind": "curated",
+      "seed": true,
+      "df": 3397,
+      "match": {
+        "type": "text",
+        "forms": [
+          "dataset"
+        ]
+      },
+      "papers": 3397,
+      "top_cells": [
+        "machine-learning/theory",
+        "machine-learning/method",
+        "language/theory",
+        "cognitive-science/theory"
+      ]
     },
     {
       "term": "Cognitive Science",
@@ -56,6 +94,25 @@
       "papers": 2579
     },
     {
+      "term": "benchmark",
+      "kind": "curated",
+      "seed": true,
+      "df": 2294,
+      "match": {
+        "type": "text",
+        "forms": [
+          "benchmark"
+        ]
+      },
+      "papers": 2294,
+      "top_cells": [
+        "machine-learning/theory",
+        "machine-learning/method",
+        "cognitive-science/theory",
+        "language/theory"
+      ]
+    },
+    {
       "term": "Philosophy Of Mind",
       "kind": "taxonomy",
       "seed": true,
@@ -72,6 +129,25 @@
         "philosophy-of-mind/technology"
       ],
       "papers": 2190
+    },
+    {
+      "term": "survey",
+      "kind": "curated",
+      "seed": true,
+      "df": 1756,
+      "match": {
+        "type": "text",
+        "forms": [
+          "survey"
+        ]
+      },
+      "papers": 1756,
+      "top_cells": [
+        "machine-learning/theory",
+        "machine-learning/method",
+        "cognitive-science/theory",
+        "emotion/method"
+      ]
     },
     {
       "term": "Neuroscience",
@@ -308,6 +384,25 @@
       "papers": 621
     },
     {
+      "term": "quantitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 613,
+      "match": {
+        "type": "text",
+        "forms": [
+          "quantitative"
+        ]
+      },
+      "papers": 613,
+      "top_cells": [
+        "machine-learning/theory",
+        "machine-learning/method",
+        "education/theory",
+        "cognitive-science/theory"
+      ]
+    },
+    {
       "term": "Animal Learning",
       "kind": "taxonomy",
       "seed": true,
@@ -324,6 +419,288 @@
         "animal-learning/application"
       ],
       "papers": 573
+    },
+    {
+      "term": "qualitative",
+      "kind": "curated",
+      "seed": true,
+      "df": 549,
+      "match": {
+        "type": "text",
+        "forms": [
+          "qualitative"
+        ]
+      },
+      "papers": 549,
+      "top_cells": [
+        "machine-learning/theory",
+        "cognitive-science/theory",
+        "education/theory",
+        "education/method"
+      ]
+    },
+    {
+      "term": "experiment",
+      "kind": "curated",
+      "seed": true,
+      "df": 515,
+      "match": {
+        "type": "text",
+        "forms": [
+          "experiment"
+        ]
+      },
+      "papers": 515,
+      "top_cells": [
+        "machine-learning/theory",
+        "machine-learning/method",
+        "cognitive-science/theory",
+        "cognitive-science/method"
+      ]
+    },
+    {
+      "term": "taxonomy",
+      "kind": "curated",
+      "seed": true,
+      "df": 438,
+      "match": {
+        "type": "text",
+        "forms": [
+          "taxonomy"
+        ]
+      },
+      "papers": 438,
+      "top_cells": [
+        "machine-learning/theory",
+        "machine-learning/method",
+        "cognitive-science/theory",
+        "language/theory"
+      ]
+    },
+    {
+      "term": "case study",
+      "kind": "curated",
+      "seed": true,
+      "df": 407,
+      "match": {
+        "type": "text",
+        "forms": [
+          "case study"
+        ]
+      },
+      "papers": 407,
+      "top_cells": [
+        "machine-learning/theory",
+        "cognitive-science/theory",
+        "language/theory",
+        "education/theory"
+      ]
+    },
+    {
+      "term": "systematic review",
+      "kind": "curated",
+      "seed": true,
+      "df": 371,
+      "match": {
+        "type": "text",
+        "forms": [
+          "systematic review"
+        ]
+      },
+      "papers": 371,
+      "top_cells": [
+        "machine-learning/method",
+        "machine-learning/theory",
+        "machine-learning/review",
+        "cognitive-science/method"
+      ]
+    },
+    {
+      "term": "literature review",
+      "kind": "curated",
+      "seed": true,
+      "df": 173,
+      "match": {
+        "type": "text",
+        "forms": [
+          "literature review"
+        ]
+      },
+      "papers": 173,
+      "top_cells": [
+        "machine-learning/method",
+        "machine-learning/theory",
+        "education/theory",
+        "education/method"
+      ]
+    },
+    {
+      "term": "reproducibility",
+      "kind": "curated",
+      "seed": true,
+      "df": 172,
+      "match": {
+        "type": "text",
+        "forms": [
+          "reproducibility"
+        ]
+      },
+      "papers": 172,
+      "top_cells": [
+        "machine-learning/method",
+        "machine-learning/theory",
+        "language/theory",
+        "philosophy-of-mind/theory"
+      ]
+    },
+    {
+      "term": "interview",
+      "kind": "curated",
+      "seed": true,
+      "df": 59,
+      "match": {
+        "type": "text",
+        "forms": [
+          "interview"
+        ]
+      },
+      "papers": 59,
+      "top_cells": [
+        "health/theory",
+        "cognitive-science/theory",
+        "education/theory",
+        "emotion/theory"
+      ]
+    },
+    {
+      "term": "research gap",
+      "kind": "curated",
+      "seed": true,
+      "df": 33,
+      "match": {
+        "type": "text",
+        "forms": [
+          "research gap"
+        ]
+      },
+      "papers": 33,
+      "top_cells": [
+        "machine-learning/theory",
+        "machine-learning/method",
+        "language/method",
+        "collective/theory"
+      ]
+    },
+    {
+      "term": "peer review",
+      "kind": "curated",
+      "seed": true,
+      "df": 32,
+      "match": {
+        "type": "text",
+        "forms": [
+          "peer review"
+        ]
+      },
+      "papers": 32,
+      "top_cells": [
+        "machine-learning/theory",
+        "neuroscience/review",
+        "education/review",
+        "education/theory"
+      ]
+    },
+    {
+      "term": "mixed methods",
+      "kind": "curated",
+      "seed": true,
+      "df": 19,
+      "match": {
+        "type": "text",
+        "forms": [
+          "mixed methods"
+        ]
+      },
+      "papers": 19,
+      "top_cells": [
+        "education/method",
+        "educational-psychology/theory",
+        "education/theory",
+        "language/method"
+      ]
+    },
+    {
+      "term": "triangulation",
+      "kind": "curated",
+      "seed": true,
+      "df": 13,
+      "match": {
+        "type": "text",
+        "forms": [
+          "triangulation"
+        ]
+      },
+      "papers": 13,
+      "top_cells": [
+        "animal-learning/technology",
+        "cognitive-science/method",
+        "education/theory",
+        "education/method"
+      ]
+    },
+    {
+      "term": "open access",
+      "kind": "curated",
+      "seed": true,
+      "df": 13,
+      "match": {
+        "type": "text",
+        "forms": [
+          "open access"
+        ]
+      },
+      "papers": 13,
+      "top_cells": [
+        "education/technology",
+        "health/theory",
+        "neuroscience/mechanism",
+        "education/method"
+      ]
+    },
+    {
+      "term": "grounded theory",
+      "kind": "curated",
+      "seed": true,
+      "df": 9,
+      "match": {
+        "type": "text",
+        "forms": [
+          "grounded theory"
+        ]
+      },
+      "papers": 9,
+      "top_cells": [
+        "education/theory",
+        "philosophy-of-mind/theory",
+        "social-learning/theory",
+        "health/theory"
+      ]
+    },
+    {
+      "term": "meta analysis",
+      "kind": "curated",
+      "seed": true,
+      "df": 1,
+      "match": {
+        "type": "text",
+        "forms": [
+          "meta analysis"
+        ]
+      },
+      "papers": 1,
+      "top_cells": [
+        "social-learning/method"
+      ]
     },
     {
       "term": "Survey",
