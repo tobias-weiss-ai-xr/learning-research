@@ -45,6 +45,12 @@ taxonomy:
     display: Survey
   - id: method
     display: Method
+  - id: health
+    display: Health
+    description: Auto-added category 'health' from ingested papers
+  - id: developmental
+    display: Developmental
+    description: Auto-added category 'developmental' from ingested papers
   subcategories:
   - id: method
     display: Method
@@ -60,6 +66,26 @@ taxonomy:
     display: Systems
   - id: development
     display: Development
+  - id: technology
+    display: Technology
+    description: Auto-added subcategory 'technology' from ingested papers
+    category: health
+  - id: evaluation
+    display: Evaluation
+    description: Auto-added subcategory 'evaluation' from ingested papers
+    category: health
+  - id: review
+    display: Review
+    description: Auto-added subcategory 'review' from ingested papers
+    category: health
+  - id: mechanism
+    display: Mechanism
+    description: Auto-added subcategory 'mechanism' from ingested papers
+    category: health
+  - id: individual-differences
+    display: Individual Differences
+    description: Auto-added subcategory 'individual-differences' from ingested papers
+    category: health
 arxiv_queries:
 - query: abs:"working memory cognitive survey"
   category: memory-science
