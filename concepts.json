@@ -1,5 +1,5 @@
 {
-  "count": 40,
+  "count": 42,
   "concepts": [
     {
       "term": "framework",
@@ -240,6 +240,24 @@
       "papers": 1248
     },
     {
+      "term": "Health",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 1176,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "health"
+      },
+      "top_cells": [
+        "health/theory",
+        "health/method",
+        "health/technology",
+        "health/application"
+      ],
+      "papers": 1176
+    },
+    {
       "term": "Behavioral",
       "kind": "taxonomy",
       "seed": true,
@@ -346,6 +364,24 @@
         "perceptual/development"
       ],
       "papers": 659
+    },
+    {
+      "term": "Developmental",
+      "kind": "taxonomy",
+      "seed": true,
+      "df": 648,
+      "match": {
+        "type": "field",
+        "field": "category",
+        "value": "developmental"
+      },
+      "top_cells": [
+        "developmental/theory",
+        "developmental/method",
+        "developmental/development",
+        "developmental/mechanism"
+      ],
+      "papers": 648
     },
     {
       "term": "Emotion",
