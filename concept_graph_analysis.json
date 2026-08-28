@@ -1,35 +1,47 @@
 {
   "stats": {
     "nodes": 42,
-    "edges": 368,
+    "edges": 440,
     "components": 1,
     "communities": 1,
-    "modularity": -3596.2771
+    "modularity": -6306.4893
   },
   "nodes": [
     {
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 9077,
-      "degree": 37,
-      "weighted_degree": 12284,
-      "degree_centrality": 0.9024,
-      "pagerank": 0.212635,
-      "betweenness": 50.2753,
-      "clustering": 0.4895
+      "df": 11423,
+      "degree": 38,
+      "weighted_degree": 16183,
+      "degree_centrality": 0.9268,
+      "pagerank": 0.18111,
+      "betweenness": 25.1141,
+      "clustering": 0.5718
     },
     {
       "id": 2,
+      "term": "survey",
+      "kind": "curated",
+      "df": 4583,
+      "degree": 38,
+      "weighted_degree": 7531,
+      "degree_centrality": 0.9268,
+      "pagerank": 0.086414,
+      "betweenness": 25.1141,
+      "clustering": 0.5718
+    },
+    {
+      "id": 5,
       "term": "dataset",
       "kind": "curated",
-      "df": 3397,
+      "df": 3836,
       "degree": 37,
-      "weighted_degree": 5501,
+      "weighted_degree": 6212,
       "degree_centrality": 0.9024,
-      "pagerank": 0.096969,
-      "betweenness": 49.6253,
-      "clustering": 0.4895
+      "pagerank": 0.07124,
+      "betweenness": 23.0412,
+      "clustering": 0.5781
     },
     {
       "id": 1,
@@ -39,441 +51,429 @@
       "degree": 16,
       "weighted_degree": 4720,
       "degree_centrality": 0.3902,
-      "pagerank": 0.079123,
-      "betweenness": 2.7507,
-      "clustering": 0.7333
+      "pagerank": 0.051515,
+      "betweenness": 0.6945,
+      "clustering": 0.8917
     },
     {
-      "id": 5,
+      "id": 11,
       "term": "benchmark",
       "kind": "curated",
-      "df": 2294,
+      "df": 2536,
       "degree": 35,
-      "weighted_degree": 3993,
+      "weighted_degree": 4409,
       "degree_centrality": 0.8537,
-      "pagerank": 0.069322,
-      "betweenness": 36.3709,
-      "clustering": 0.521
+      "pagerank": 0.050565,
+      "betweenness": 18.677,
+      "clustering": 0.5966
     },
     {
-      "id": 7,
-      "term": "survey",
+      "id": 17,
+      "term": "quantitative",
       "kind": "curated",
-      "df": 1756,
-      "degree": 34,
-      "weighted_degree": 2849,
-      "degree_centrality": 0.8293,
-      "pagerank": 0.051853,
-      "betweenness": 24.2342,
-      "clustering": 0.549
+      "df": 1689,
+      "degree": 38,
+      "weighted_degree": 3787,
+      "degree_centrality": 0.9268,
+      "pagerank": 0.045705,
+      "betweenness": 25.1141,
+      "clustering": 0.5718
+    },
+    {
+      "id": 18,
+      "term": "qualitative",
+      "kind": "curated",
+      "df": 1513,
+      "degree": 37,
+      "weighted_degree": 3402,
+      "degree_centrality": 0.9024,
+      "pagerank": 0.042765,
+      "betweenness": 22.5968,
+      "clustering": 0.5871
     },
     {
       "id": 3,
       "term": "Cognitive Science",
       "kind": "taxonomy",
-      "df": 2840,
-      "degree": 17,
-      "weighted_degree": 1998,
-      "degree_centrality": 0.4146,
-      "pagerank": 0.036181,
-      "betweenness": 6.184,
-      "clustering": 0.6618
+      "df": 4333,
+      "degree": 19,
+      "weighted_degree": 3548,
+      "degree_centrality": 0.4634,
+      "pagerank": 0.040815,
+      "betweenness": 2.6123,
+      "clustering": 0.7836
     },
     {
       "id": 4,
       "term": "Language",
       "kind": "taxonomy",
-      "df": 2579,
-      "degree": 17,
-      "weighted_degree": 1834,
-      "degree_centrality": 0.4146,
-      "pagerank": 0.033344,
-      "betweenness": 5.8673,
-      "clustering": 0.6618
+      "df": 3871,
+      "degree": 18,
+      "weighted_degree": 3011,
+      "degree_centrality": 0.439,
+      "pagerank": 0.035156,
+      "betweenness": 1.6507,
+      "clustering": 0.8235
     },
     {
-      "id": 6,
-      "term": "Philosophy Of Mind",
-      "kind": "taxonomy",
-      "df": 2190,
-      "degree": 13,
-      "weighted_degree": 1506,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.027369,
-      "betweenness": 2.0259,
-      "clustering": 0.8333
-    },
-    {
-      "id": 23,
-      "term": "quantitative",
-      "kind": "curated",
-      "df": 613,
-      "degree": 34,
-      "weighted_degree": 1319,
-      "degree_centrality": 0.8293,
-      "pagerank": 0.027214,
-      "betweenness": 24.4832,
-      "clustering": 0.5472
-    },
-    {
-      "id": 25,
-      "term": "qualitative",
-      "kind": "curated",
-      "df": 549,
-      "degree": 33,
-      "weighted_degree": 1172,
-      "degree_centrality": 0.8049,
-      "pagerank": 0.026426,
-      "betweenness": 36.2317,
-      "clustering": 0.5114
-    },
-    {
-      "id": 10,
+      "id": 7,
       "term": "Education",
       "kind": "taxonomy",
-      "df": 1575,
-      "degree": 18,
-      "weighted_degree": 1026,
-      "degree_centrality": 0.439,
-      "pagerank": 0.023564,
-      "betweenness": 11.9586,
-      "clustering": 0.5882
+      "df": 2910,
+      "degree": 19,
+      "weighted_degree": 2405,
+      "degree_centrality": 0.4634,
+      "pagerank": 0.029568,
+      "betweenness": 2.6123,
+      "clustering": 0.7836
     },
     {
       "id": 9,
       "term": "Social Learning",
       "kind": "taxonomy",
-      "df": 1582,
-      "degree": 13,
-      "weighted_degree": 1187,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.022158,
-      "betweenness": 0.2643,
-      "clustering": 0.9231
+      "df": 2609,
+      "degree": 18,
+      "weighted_degree": 2322,
+      "degree_centrality": 0.439,
+      "pagerank": 0.02874,
+      "betweenness": 1.9603,
+      "clustering": 0.8105
     },
     {
-      "id": 27,
-      "term": "taxonomy",
+      "id": 6,
+      "term": "Memory Science",
+      "kind": "taxonomy",
+      "df": 3050,
+      "degree": 17,
+      "weighted_degree": 1819,
+      "degree_centrality": 0.4146,
+      "pagerank": 0.022587,
+      "betweenness": 1.1037,
+      "clustering": 0.8603
+    },
+    {
+      "id": 10,
+      "term": "Philosophy Of Mind",
+      "kind": "taxonomy",
+      "df": 2560,
+      "degree": 15,
+      "weighted_degree": 1767,
+      "degree_centrality": 0.3659,
+      "pagerank": 0.021387,
+      "betweenness": 0.6437,
+      "clustering": 0.9143
+    },
+    {
+      "id": 24,
+      "term": "case study",
       "kind": "curated",
-      "df": 438,
-      "degree": 30,
-      "weighted_degree": 955,
-      "degree_centrality": 0.7317,
-      "pagerank": 0.019124,
-      "betweenness": 14.9862,
-      "clustering": 0.5862
+      "df": 757,
+      "degree": 37,
+      "weighted_degree": 1424,
+      "degree_centrality": 0.9024,
+      "pagerank": 0.019595,
+      "betweenness": 23.0454,
+      "clustering": 0.5796
+    },
+    {
+      "id": 23,
+      "term": "experiment",
+      "kind": "curated",
+      "df": 861,
+      "degree": 35,
+      "weighted_degree": 1386,
+      "degree_centrality": 0.8537,
+      "pagerank": 0.019132,
+      "betweenness": 18.677,
+      "clustering": 0.5966
     },
     {
       "id": 8,
       "term": "Neuroscience",
       "kind": "taxonomy",
-      "df": 1749,
-      "degree": 14,
-      "weighted_degree": 976,
-      "degree_centrality": 0.3415,
-      "pagerank": 0.019063,
-      "betweenness": 1.4698,
-      "clustering": 0.8022
+      "df": 2786,
+      "degree": 16,
+      "weighted_degree": 1406,
+      "degree_centrality": 0.3902,
+      "pagerank": 0.018442,
+      "betweenness": 0.987,
+      "clustering": 0.8667
     },
     {
-      "id": 26,
-      "term": "experiment",
+      "id": 25,
+      "term": "systematic review",
       "kind": "curated",
-      "df": 515,
-      "degree": 30,
-      "weighted_degree": 811,
-      "degree_centrality": 0.7317,
-      "pagerank": 0.017563,
-      "betweenness": 17.4962,
-      "clustering": 0.5287
+      "df": 714,
+      "degree": 36,
+      "weighted_degree": 1281,
+      "degree_centrality": 0.878,
+      "pagerank": 0.018171,
+      "betweenness": 20.7575,
+      "clustering": 0.5889
+    },
+    {
+      "id": 15,
+      "term": "Behavioral",
+      "kind": "taxonomy",
+      "df": 1756,
+      "degree": 16,
+      "weighted_degree": 1301,
+      "degree_centrality": 0.3902,
+      "pagerank": 0.017167,
+      "betweenness": 0.7776,
+      "clustering": 0.8833
+    },
+    {
+      "id": 29,
+      "term": "taxonomy",
+      "kind": "curated",
+      "df": 555,
+      "degree": 33,
+      "weighted_degree": 1239,
+      "degree_centrality": 0.8049,
+      "pagerank": 0.016664,
+      "betweenness": 17.5006,
+      "clustering": 0.5814
+    },
+    {
+      "id": 14,
+      "term": "Educational Psychology",
+      "kind": "taxonomy",
+      "df": 1782,
+      "degree": 16,
+      "weighted_degree": 1026,
+      "degree_centrality": 0.3902,
+      "pagerank": 0.015118,
+      "betweenness": 1.1177,
+      "clustering": 0.85
+    },
+    {
+      "id": 12,
+      "term": "Collective",
+      "kind": "taxonomy",
+      "df": 2198,
+      "degree": 13,
+      "weighted_degree": 1065,
+      "degree_centrality": 0.3171,
+      "pagerank": 0.014515,
+      "betweenness": 0.04,
+      "clustering": 0.9872
+    },
+    {
+      "id": 30,
+      "term": "literature review",
+      "kind": "curated",
+      "df": 465,
+      "degree": 37,
+      "weighted_degree": 884,
+      "degree_centrality": 0.9024,
+      "pagerank": 0.013703,
+      "betweenness": 23.0454,
+      "clustering": 0.5796
     },
     {
       "id": 13,
+      "term": "Evolutionary",
+      "kind": "taxonomy",
+      "df": 1954,
+      "degree": 13,
+      "weighted_degree": 904,
+      "degree_centrality": 0.3171,
+      "pagerank": 0.012882,
+      "betweenness": 0.04,
+      "clustering": 0.9872
+    },
+    {
+      "id": 20,
       "term": "Health",
       "kind": "taxonomy",
       "df": 1176,
       "degree": 14,
       "weighted_degree": 803,
       "degree_centrality": 0.3415,
-      "pagerank": 0.017317,
-      "betweenness": 2.4643,
-      "clustering": 0.8132
+      "pagerank": 0.01204,
+      "betweenness": 0.2951,
+      "clustering": 0.9451
     },
     {
-      "id": 11,
-      "term": "Memory Science",
+      "id": 16,
+      "term": "Motor",
       "kind": "taxonomy",
-      "df": 1513,
-      "degree": 13,
-      "weighted_degree": 861,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.017183,
-      "betweenness": 0.6994,
-      "clustering": 0.8718
+      "df": 1731,
+      "degree": 15,
+      "weighted_degree": 767,
+      "degree_centrality": 0.3659,
+      "pagerank": 0.011861,
+      "betweenness": 0.7535,
+      "clustering": 0.8762
     },
     {
-      "id": 28,
-      "term": "case study",
+      "id": 19,
+      "term": "Animal Learning",
+      "kind": "taxonomy",
+      "df": 1314,
+      "degree": 15,
+      "weighted_degree": 568,
+      "degree_centrality": 0.3659,
+      "pagerank": 0.009839,
+      "betweenness": 0.5792,
+      "clustering": 0.9048
+    },
+    {
+      "id": 31,
+      "term": "reproducibility",
       "kind": "curated",
-      "df": 407,
-      "degree": 33,
-      "weighted_degree": 701,
-      "degree_centrality": 0.8049,
-      "pagerank": 0.015892,
-      "betweenness": 20.6838,
-      "clustering": 0.5625
-    },
-    {
-      "id": 29,
-      "term": "systematic review",
-      "kind": "curated",
-      "df": 371,
-      "degree": 30,
-      "weighted_degree": 636,
-      "degree_centrality": 0.7317,
-      "pagerank": 0.014772,
-      "betweenness": 17.8848,
-      "clustering": 0.5494
-    },
-    {
-      "id": 12,
-      "term": "Collective",
-      "kind": "taxonomy",
-      "df": 1248,
-      "degree": 13,
-      "weighted_degree": 662,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.014269,
-      "betweenness": 0.6994,
-      "clustering": 0.8718
-    },
-    {
-      "id": 14,
-      "term": "Behavioral",
-      "kind": "taxonomy",
-      "df": 1135,
-      "degree": 12,
-      "weighted_degree": 674,
-      "degree_centrality": 0.2927,
-      "pagerank": 0.014231,
-      "betweenness": 0.2286,
-      "clustering": 0.9242
+      "df": 233,
+      "degree": 32,
+      "weighted_degree": 506,
+      "degree_centrality": 0.7805,
+      "pagerank": 0.009501,
+      "betweenness": 14.3982,
+      "clustering": 0.623
     },
     {
       "id": 21,
+      "term": "Perceptual",
+      "kind": "taxonomy",
+      "df": 1079,
+      "degree": 14,
+      "weighted_degree": 546,
+      "degree_centrality": 0.3415,
+      "pagerank": 0.00942,
+      "betweenness": 0.1932,
+      "clustering": 0.956
+    },
+    {
+      "id": 27,
       "term": "Emotion",
       "kind": "taxonomy",
       "df": 634,
       "degree": 14,
       "weighted_degree": 545,
       "degree_centrality": 0.3415,
-      "pagerank": 0.012873,
-      "betweenness": 0.8258,
-      "clustering": 0.8571
-    },
-    {
-      "id": 15,
-      "term": "Evolutionary",
-      "kind": "taxonomy",
-      "df": 930,
-      "degree": 12,
-      "weighted_degree": 564,
-      "degree_centrality": 0.2927,
-      "pagerank": 0.012531,
-      "betweenness": 0.1085,
-      "clustering": 0.9545
-    },
-    {
-      "id": 16,
-      "term": "Motor",
-      "kind": "taxonomy",
-      "df": 857,
-      "degree": 12,
-      "weighted_degree": 478,
-      "degree_centrality": 0.2927,
-      "pagerank": 0.011193,
-      "betweenness": 0.1085,
-      "clustering": 0.9545
-    },
-    {
-      "id": 18,
-      "term": "Educational Psychology",
-      "kind": "taxonomy",
-      "df": 806,
-      "degree": 13,
-      "weighted_degree": 412,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.010786,
-      "betweenness": 0.6332,
-      "clustering": 0.8718
-    },
-    {
-      "id": 24,
-      "term": "Animal Learning",
-      "kind": "taxonomy",
-      "df": 573,
-      "degree": 12,
-      "weighted_degree": 326,
-      "degree_centrality": 0.2927,
-      "pagerank": 0.009646,
-      "betweenness": 1.9585,
-      "clustering": 0.8182
-    },
-    {
-      "id": 19,
-      "term": "Perceptual",
-      "kind": "taxonomy",
-      "df": 659,
-      "degree": 14,
-      "weighted_degree": 355,
-      "degree_centrality": 0.3415,
-      "pagerank": 0.009643,
-      "betweenness": 1.4698,
-      "clustering": 0.8022
-    },
-    {
-      "id": 31,
-      "term": "reproducibility",
-      "kind": "curated",
-      "df": 172,
-      "degree": 28,
-      "weighted_degree": 349,
-      "degree_centrality": 0.6829,
-      "pagerank": 0.009503,
-      "betweenness": 13.2747,
-      "clustering": 0.5794
+      "pagerank": 0.009357,
+      "betweenness": 0.2523,
+      "clustering": 0.9451
     },
     {
       "id": 22,
+      "term": "Neuromorphic",
+      "kind": "taxonomy",
+      "df": 1031,
+      "degree": 12,
+      "weighted_degree": 534,
+      "degree_centrality": 0.2927,
+      "pagerank": 0.009173,
+      "betweenness": 0.04,
+      "clustering": 0.9848
+    },
+    {
+      "id": 32,
+      "term": "interview",
+      "kind": "curated",
+      "df": 199,
+      "degree": 27,
+      "weighted_degree": 459,
+      "degree_centrality": 0.6585,
+      "pagerank": 0.00892,
+      "betweenness": 8.0697,
+      "clustering": 0.6895
+    },
+    {
+      "id": 28,
       "term": "Creative",
       "kind": "taxonomy",
       "df": 621,
       "degree": 13,
       "weighted_degree": 329,
       "degree_centrality": 0.3171,
-      "pagerank": 0.009302,
-      "betweenness": 0.6332,
-      "clustering": 0.8718
+      "pagerank": 0.007174,
+      "betweenness": 0.15,
+      "clustering": 0.9615
     },
     {
-      "id": 30,
-      "term": "literature review",
-      "kind": "curated",
-      "df": 173,
-      "degree": 30,
-      "weighted_degree": 295,
-      "degree_centrality": 0.7317,
-      "pagerank": 0.009053,
-      "betweenness": 16.9221,
-      "clustering": 0.5701
-    },
-    {
-      "id": 17,
-      "term": "Neuromorphic",
-      "kind": "taxonomy",
-      "df": 833,
-      "degree": 10,
-      "weighted_degree": 331,
-      "degree_centrality": 0.2439,
-      "pagerank": 0.008902,
-      "betweenness": 0.0357,
-      "clustering": 0.9778
-    },
-    {
-      "id": 20,
+      "id": 26,
       "term": "Developmental",
       "kind": "taxonomy",
       "df": 648,
       "degree": 13,
       "weighted_degree": 317,
       "degree_centrality": 0.3171,
-      "pagerank": 0.008896,
-      "betweenness": 0.2643,
-      "clustering": 0.9231
-    },
-    {
-      "id": 32,
-      "term": "interview",
-      "kind": "curated",
-      "df": 59,
-      "degree": 21,
-      "weighted_degree": 120,
-      "degree_centrality": 0.5122,
-      "pagerank": 0.00597,
-      "betweenness": 5.2928,
-      "clustering": 0.6762
-    },
-    {
-      "id": 34,
-      "term": "peer review",
-      "kind": "curated",
-      "df": 32,
-      "degree": 11,
-      "weighted_degree": 54,
-      "degree_centrality": 0.2683,
-      "pagerank": 0.004708,
-      "betweenness": 1.033,
-      "clustering": 0.7273
+      "pagerank": 0.007043,
+      "betweenness": 0.0435,
+      "clustering": 0.9872
     },
     {
       "id": 33,
+      "term": "mixed methods",
+      "kind": "curated",
+      "df": 94,
+      "degree": 21,
+      "weighted_degree": 265,
+      "degree_centrality": 0.5122,
+      "pagerank": 0.006736,
+      "betweenness": 4.2917,
+      "clustering": 0.7095
+    },
+    {
+      "id": 34,
       "term": "research gap",
       "kind": "curated",
-      "df": 33,
-      "degree": 12,
-      "weighted_degree": 51,
-      "degree_centrality": 0.2927,
-      "pagerank": 0.004651,
-      "betweenness": 1.5337,
-      "clustering": 0.6818
+      "df": 81,
+      "degree": 25,
+      "weighted_degree": 177,
+      "degree_centrality": 0.6098,
+      "pagerank": 0.005721,
+      "betweenness": 6.6725,
+      "clustering": 0.69
     },
     {
       "id": 35,
-      "term": "mixed methods",
+      "term": "triangulation",
       "kind": "curated",
-      "df": 19,
-      "degree": 13,
-      "weighted_degree": 39,
-      "degree_centrality": 0.3171,
-      "pagerank": 0.004547,
-      "betweenness": 1.511,
-      "clustering": 0.7308
+      "df": 70,
+      "degree": 18,
+      "weighted_degree": 166,
+      "degree_centrality": 0.439,
+      "pagerank": 0.005683,
+      "betweenness": 2.7172,
+      "clustering": 0.7386
     },
     {
       "id": 36,
-      "term": "triangulation",
+      "term": "peer review",
       "kind": "curated",
-      "df": 13,
-      "degree": 5,
-      "weighted_degree": 13,
-      "degree_centrality": 0.122,
-      "pagerank": 0.004093,
-      "betweenness": 0.2292,
-      "clustering": 0.7
-    },
-    {
-      "id": 38,
-      "term": "grounded theory",
-      "kind": "curated",
-      "df": 9,
-      "degree": 5,
-      "weighted_degree": 13,
-      "degree_centrality": 0.122,
-      "pagerank": 0.004067,
-      "betweenness": 0.0769,
-      "clustering": 0.9
+      "df": 64,
+      "degree": 21,
+      "weighted_degree": 125,
+      "degree_centrality": 0.5122,
+      "pagerank": 0.005257,
+      "betweenness": 3.5822,
+      "clustering": 0.7524
     },
     {
       "id": 37,
       "term": "open access",
       "kind": "curated",
-      "df": 13,
-      "degree": 5,
-      "weighted_degree": 13,
-      "degree_centrality": 0.122,
-      "pagerank": 0.004065,
-      "betweenness": 0.2054,
-      "clustering": 0.7
+      "df": 36,
+      "degree": 17,
+      "weighted_degree": 73,
+      "degree_centrality": 0.4146,
+      "pagerank": 0.004687,
+      "betweenness": 1.675,
+      "clustering": 0.8162
+    },
+    {
+      "id": 38,
+      "term": "grounded theory",
+      "kind": "curated",
+      "df": 29,
+      "degree": 12,
+      "weighted_degree": 76,
+      "degree_centrality": 0.2927,
+      "pagerank": 0.004634,
+      "betweenness": 0.3637,
+      "clustering": 0.9091
     },
     {
       "id": 39,
@@ -560,118 +560,118 @@
   ],
   "top_hubs": [
     "framework",
+    "survey",
     "dataset",
     "Machine Learning",
     "benchmark",
-    "survey",
+    "quantitative",
+    "qualitative",
     "Cognitive Science",
     "Language",
-    "Philosophy Of Mind",
-    "quantitative",
-    "qualitative"
+    "Education"
   ],
   "bridge_nodes": [
     "framework",
-    "dataset",
-    "benchmark",
-    "qualitative",
-    "quantitative",
     "survey",
+    "quantitative",
     "case study",
+    "literature review",
+    "dataset",
+    "qualitative",
     "systematic review",
-    "experiment",
-    "literature review"
+    "benchmark",
+    "experiment"
   ],
   "bridge_edges": [
     {
       "source": "framework",
-      "target": "triangulation",
-      "weight": 3,
-      "edge_betweenness": 13.7667
+      "target": "grounded theory",
+      "weight": 8,
+      "edge_betweenness": 3.9794
     },
     {
-      "source": "dataset",
-      "target": "open access",
-      "weight": 3,
-      "edge_betweenness": 13.1167
+      "source": "quantitative",
+      "target": "grounded theory",
+      "weight": 6,
+      "edge_betweenness": 3.9794
     },
     {
-      "source": "benchmark",
-      "target": "open access",
-      "weight": 2,
-      "edge_betweenness": 12.2833
-    },
-    {
-      "source": "qualitative",
-      "target": "triangulation",
-      "weight": 3,
-      "edge_betweenness": 11.6833
+      "source": "survey",
+      "target": "grounded theory",
+      "weight": 13,
+      "edge_betweenness": 3.9794
     },
     {
       "source": "dataset",
       "target": "grounded theory",
       "weight": 2,
-      "edge_betweenness": 10.85
+      "edge_betweenness": 3.8683
     },
     {
-      "source": "framework",
+      "source": "literature review",
       "target": "grounded theory",
-      "weight": 3,
-      "edge_betweenness": 10.6833
+      "weight": 2,
+      "edge_betweenness": 3.8365
+    },
+    {
+      "source": "case study",
+      "target": "grounded theory",
+      "weight": 2,
+      "edge_betweenness": 3.8365
     },
     {
       "source": "qualitative",
       "target": "grounded theory",
-      "weight": 4,
-      "edge_betweenness": 9.1
-    },
-    {
-      "source": "framework",
-      "target": "research gap",
-      "weight": 9,
-      "edge_betweenness": 5.6754
-    },
-    {
-      "source": "framework",
-      "target": "peer review",
-      "weight": 11,
-      "edge_betweenness": 5.5911
-    },
-    {
-      "source": "dataset",
-      "target": "research gap",
-      "weight": 8,
-      "edge_betweenness": 5.5088
-    },
-    {
-      "source": "dataset",
-      "target": "peer review",
-      "weight": 8,
-      "edge_betweenness": 5.5078
+      "weight": 18,
+      "edge_betweenness": 3.8365
     },
     {
       "source": "framework",
       "target": "Neuromorphic",
-      "weight": 149,
-      "edge_betweenness": 5.4595
+      "weight": 175,
+      "edge_betweenness": 3.5173
     },
     {
-      "source": "Education",
-      "target": "open access",
-      "weight": 3,
-      "edge_betweenness": 5.4173
+      "source": "quantitative",
+      "target": "Neuromorphic",
+      "weight": 9,
+      "edge_betweenness": 3.5173
     },
     {
-      "source": "Education",
-      "target": "triangulation",
+      "source": "survey",
+      "target": "Neuromorphic",
+      "weight": 180,
+      "edge_betweenness": 3.5173
+    },
+    {
+      "source": "taxonomy",
+      "target": "grounded theory",
       "weight": 2,
-      "edge_betweenness": 5.4125
+      "edge_betweenness": 3.4345
     },
     {
-      "source": "benchmark",
-      "target": "peer review",
-      "weight": 3,
-      "edge_betweenness": 5.0316
+      "source": "Neuromorphic",
+      "target": "case study",
+      "weight": 8,
+      "edge_betweenness": 3.3923
+    },
+    {
+      "source": "Neuromorphic",
+      "target": "literature review",
+      "weight": 2,
+      "edge_betweenness": 3.3923
+    },
+    {
+      "source": "dataset",
+      "target": "Neuromorphic",
+      "weight": 68,
+      "edge_betweenness": 3.3506
+    },
+    {
+      "source": "Neuromorphic",
+      "target": "systematic review",
+      "weight": 9,
+      "edge_betweenness": 3.2633
     }
   ]
 }
