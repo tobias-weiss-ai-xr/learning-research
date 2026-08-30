@@ -196,7 +196,7 @@
   {
    "id": "education",
    "name": "Education",
-   "count": 2925,
+   "count": 2924,
    "trajectory": {
     "1988": 1,
     "1990": 1,
@@ -209,7 +209,7 @@
     "2018": 1,
     "2021": 6,
     "2022": 82,
-    "2023": 348,
+    "2023": 347,
     "2024": 934,
     "2025": 1051,
     "2026": 495
@@ -217,7 +217,7 @@
    "momentum": {
     "id": "education",
     "name": "Education",
-    "total": 2925,
+    "total": 2924,
     "recent": 916,
     "prior": 1052,
     "growth_pct": -12.9,
@@ -406,7 +406,7 @@
   {
    "id": "memory-science",
    "name": "Memory Science",
-   "count": 3056,
+   "count": 3055,
    "trajectory": {
     "1969": 1,
     "1984": 1,
@@ -434,18 +434,18 @@
     "2023": 356,
     "2024": 763,
     "2025": 1016,
-    "2026": 774
+    "2026": 773
    },
    "momentum": {
     "id": "memory-science",
     "name": "Memory Science",
-    "total": 3056,
-    "recent": 1230,
+    "total": 3055,
+    "recent": 1229,
     "prior": 876,
-    "growth_pct": 40.4,
+    "growth_pct": 40.3,
     "recent_share": 0.402,
-    "papers_per_month": 102.5,
-    "score": 80.6
+    "papers_per_month": 102.4,
+    "score": 80.5
    }
   },
   {
@@ -649,7 +649,7 @@
   {
    "id": "mechanism",
    "name": "Mechanism",
-   "count": 2215
+   "count": 2214
   },
   {
    "id": "method",
@@ -679,7 +679,7 @@
   {
    "id": "theory",
    "name": "Theory",
-   "count": 21332
+   "count": 21331
   }
  ],
  "timeline": [
@@ -40500,11 +40500,6 @@
   ],
   [
    "2023-12",
-   "education",
-   "theory"
-  ],
-  [
-   "2023-12",
    "educational-psychology",
    "application"
   ],
@@ -227492,11 +227487,6 @@
    "2026-08",
    "memory-science",
    "evaluation"
-  ],
-  [
-   "2026-08",
-   "memory-science",
-   "mechanism"
   ],
   [
    "2026-08",
@@ -228659,7 +228649,7 @@
   },
   {
    "name": "Open MIND",
-   "papers": 103
+   "papers": 102
   },
   {
    "name": "Education and Information Technologies",
@@ -228755,7 +228745,7 @@
    "recent": 2271,
    "total": 4593,
    "burst_score": 1.33,
-   "recent_share": 0.1336
+   "recent_share": 0.1337
   },
   {
    "keyword": "neuroplasticity",

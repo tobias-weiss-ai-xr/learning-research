@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "total_papers": 45588,
+    "total_papers": 45586,
     "generated_date": "2026-08",
     "taxonomy": {
       "categories": 20,
@@ -21,14 +21,14 @@
     "collective": 2212,
     "creative": 1406,
     "developmental": 648,
-    "education": 2925,
+    "education": 2924,
     "educational-psychology": 1785,
     "emotion": 789,
     "evolutionary": 1974,
     "health": 1176,
     "language": 3878,
     "machine-learning": 6021,
-    "memory-science": 3056,
+    "memory-science": 3055,
     "motor": 1737,
     "neuromorphic": 1031,
     "neuroscience": 2791,
@@ -42,13 +42,13 @@
     "evaluation": 224,
     "experiment": 135,
     "individual-differences": 388,
-    "mechanism": 2215,
+    "mechanism": 2214,
     "method": 15761,
     "review": 442,
     "survey": 623,
     "systems": 758,
     "technology": 1274,
-    "theory": 21332
+    "theory": 21331
   },
   "by_year": {
     "1897": 1,
@@ -92,10 +92,10 @@
     "2020": 37,
     "2021": 219,
     "2022": 1836,
-    "2023": 6157,
+    "2023": 6156,
     "2024": 11914,
     "2025": 14269,
-    "2026": 10857
+    "2026": 10856
   },
   "by_cell": {
     "machine-learning/theory": 3241,
@@ -111,7 +111,7 @@
     "evolutionary/method": 1128,
     "collective/theory": 1052,
     "neuroscience/theory": 1047,
-    "education/theory": 1043,
+    "education/theory": 1042,
     "behavioral/theory": 1007,
     "educational-psychology/theory": 912,
     "neuroscience/method": 832,
@@ -156,8 +156,8 @@
     "education/technology": 118,
     "collective/mechanism": 118,
     "perceptual/technology": 109,
-    "memory-science/mechanism": 108,
     "educational-psychology/development": 107,
+    "memory-science/mechanism": 107,
     "social-learning/mechanism": 106,
     "perceptual/development": 105,
     "animal-learning/individual-differences": 100,
@@ -416,13 +416,13 @@
     {
       "id": "memory-science",
       "name": "Memory Science",
-      "total": 3056,
-      "recent": 1230,
+      "total": 3055,
+      "recent": 1229,
       "prior": 876,
-      "growth_pct": 40.4,
+      "growth_pct": 40.3,
       "recent_share": 0.402,
-      "papers_per_month": 102.5,
-      "score": 80.6
+      "papers_per_month": 102.4,
+      "score": 80.5
     },
     {
       "id": "language",
@@ -548,7 +548,7 @@
     {
       "id": "education",
       "name": "Education",
-      "total": 2925,
+      "total": 2924,
       "recent": 916,
       "prior": 1052,
       "growth_pct": -12.9,
@@ -700,7 +700,7 @@
       "2018": 1,
       "2021": 6,
       "2022": 82,
-      "2023": 348,
+      "2023": 347,
       "2024": 934,
       "2025": 1051,
       "2026": 495
@@ -813,7 +813,7 @@
       "2023": 356,
       "2024": 763,
       "2025": 1016,
-      "2026": 774
+      "2026": 773
     },
     "motor": {
       "2004": 2,
@@ -960,7 +960,7 @@
       "recent": 2271,
       "total": 4593,
       "burst_score": 1.33,
-      "recent_share": 0.1336
+      "recent_share": 0.1337
     },
     {
       "keyword": "neuroplasticity",
@@ -1000,8 +1000,8 @@
   ],
   "source_breakdown": {
     "arxiv": 25394,
-    "doi": 19248,
-    "other": 946
+    "doi": 19247,
+    "other": 945
   },
   "venues": [
     {
@@ -1038,7 +1038,7 @@
     },
     {
       "name": "Open MIND",
-      "papers": 103
+      "papers": 102
     },
     {
       "name": "Education and Information Technologies",
@@ -1213,10 +1213,6 @@
       "papers": 9
     },
     {
-      "name": "Venkatesh Swaminathan",
-      "papers": 9
-    },
-    {
       "name": "Yifan Wang",
       "papers": 9
     },
@@ -1230,6 +1226,10 @@
     },
     {
       "name": "Guillermina Griffa",
+      "papers": 9
+    },
+    {
+      "name": "Xin Wang",
       "papers": 9
     }
   ]
