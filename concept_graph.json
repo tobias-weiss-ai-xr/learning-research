@@ -16,7 +16,7 @@
       "id": 2,
       "term": "survey",
       "kind": "curated",
-      "df": 4655
+      "df": 4654
     },
     {
       "id": 3,
@@ -40,13 +40,13 @@
       "id": 6,
       "term": "Memory Science",
       "kind": "taxonomy",
-      "df": 3056
+      "df": 3055
     },
     {
       "id": 7,
       "term": "Education",
       "kind": "taxonomy",
-      "df": 2925
+      "df": 2924
     },
     {
       "id": 8,
@@ -208,7 +208,7 @@
       "id": 34,
       "term": "research gap",
       "kind": "curated",
-      "df": 82
+      "df": 81
     },
     {
       "id": 35,
@@ -266,6 +266,16 @@
     },
     {
       "source": 0,
+      "target": 24,
+      "weight": 204
+    },
+    {
+      "source": 5,
+      "target": 24,
+      "weight": 84
+    },
+    {
+      "source": 0,
       "target": 11,
       "weight": 961
     },
@@ -288,16 +298,6 @@
       "source": 11,
       "target": 26,
       "weight": 22
-    },
-    {
-      "source": 0,
-      "target": 24,
-      "weight": 204
-    },
-    {
-      "source": 5,
-      "target": 24,
-      "weight": 84
     },
     {
       "source": 0,
@@ -740,6 +740,11 @@
       "weight": 48
     },
     {
+      "source": 27,
+      "target": 32,
+      "weight": 3
+    },
+    {
       "source": 0,
       "target": 9,
       "weight": 835
@@ -748,11 +753,6 @@
       "source": 9,
       "target": 18,
       "weight": 238
-    },
-    {
-      "source": 27,
-      "target": 32,
-      "weight": 3
     },
     {
       "source": 4,
@@ -857,7 +857,7 @@
     {
       "source": 2,
       "target": 7,
-      "weight": 621
+      "weight": 620
     },
     {
       "source": 7,
@@ -907,7 +907,7 @@
     {
       "source": 2,
       "target": 34,
-      "weight": 20
+      "weight": 19
     },
     {
       "source": 30,
@@ -952,7 +952,7 @@
     {
       "source": 7,
       "target": 34,
-      "weight": 11
+      "weight": 10
     },
     {
       "source": 7,
@@ -1705,14 +1705,14 @@
       "weight": 202
     },
     {
-      "source": 10,
-      "target": 24,
-      "weight": 44
-    },
-    {
       "source": 17,
       "target": 27,
       "weight": 68
+    },
+    {
+      "source": 10,
+      "target": 24,
+      "weight": 44
     },
     {
       "source": 10,
@@ -1965,11 +1965,6 @@
       "weight": 2
     },
     {
-      "source": 29,
-      "target": 31,
-      "weight": 10
-    },
-    {
       "source": 10,
       "target": 27,
       "weight": 4
@@ -2188,6 +2183,11 @@
       "source": 1,
       "target": 32,
       "weight": 5
+    },
+    {
+      "source": 29,
+      "target": 31,
+      "weight": 10
     },
     {
       "source": 11,
@@ -2478,6 +2478,6 @@
   "stats": {
     "concepts": 42,
     "edges": 444,
-    "papers": 45588
+    "papers": 45586
   }
 }

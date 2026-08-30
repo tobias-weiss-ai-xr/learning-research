@@ -42,14 +42,14 @@
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 4655,
+      "df": 4654,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 4655,
+      "papers": 4654,
       "top_cells": [
         "cognitive-science/method",
         "social-learning/theory",
@@ -116,7 +116,7 @@
       "term": "Memory Science",
       "kind": "taxonomy",
       "seed": true,
-      "df": 3056,
+      "df": 3055,
       "match": {
         "type": "field",
         "field": "category",
@@ -128,13 +128,13 @@
         "memory-science/application",
         "memory-science/mechanism"
       ],
-      "papers": 3056
+      "papers": 3055
     },
     {
       "term": "Education",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2925,
+      "df": 2924,
       "match": {
         "type": "field",
         "field": "category",
@@ -146,7 +146,7 @@
         "education/application",
         "education/systems"
       ],
-      "papers": 2925
+      "papers": 2924
     },
     {
       "term": "Neuroscience",
@@ -631,14 +631,14 @@
       "term": "research gap",
       "kind": "curated",
       "seed": true,
-      "df": 82,
+      "df": 81,
       "match": {
         "type": "text",
         "forms": [
           "research gap"
         ]
       },
-      "papers": 82,
+      "papers": 81,
       "top_cells": [
         "language/method",
         "cognitive-science/theory",

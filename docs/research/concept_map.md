@@ -1,6 +1,6 @@
 # Concept Map — Knowledge Graph of the Corpus
 
-**Generated:** 42 concepts, 444 relationships from 45588 papers. Edges = co-occurrence (shared papers).
+**Generated:** 42 concepts, 444 relationships from 45586 papers. Edges = co-occurrence (shared papers).
 
 ## Top concepts
 
@@ -8,12 +8,12 @@
 |----------|------|--------|
 | framework | curated | 11749 |
 | Machine Learning | taxonomy | 6021 |
-| survey | curated | 4655 |
+| survey | curated | 4654 |
 | Cognitive Science | taxonomy | 4345 |
 | dataset | curated | 3889 |
 | Language | taxonomy | 3878 |
-| Memory Science | taxonomy | 3056 |
-| Education | taxonomy | 2925 |
+| Memory Science | taxonomy | 3055 |
+| Education | taxonomy | 2924 |
 | Neuroscience | taxonomy | 2791 |
 | Social Learning | taxonomy | 2616 |
 | Philosophy Of Mind | taxonomy | 2562 |
@@ -40,7 +40,7 @@
 | reproducibility | curated | 245 |
 | interview | curated | 208 |
 | mixed methods | curated | 96 |
-| research gap | curated | 82 |
+| research gap | curated | 81 |
 | triangulation | curated | 71 |
 | peer review | curated | 68 |
 | open access | curated | 40 |
@@ -76,7 +76,7 @@
 - Cognitive Science — 830 shared paper(s)
 - framework — 824 shared paper(s)
 - Machine Learning — 793 shared paper(s)
-- Education — 621 shared paper(s)
+- Education — 620 shared paper(s)
 - quantitative — 577 shared paper(s)
 - Language — 468 shared paper(s)
 - Social Learning — 421 shared paper(s)
@@ -128,7 +128,7 @@
 
 ### Education
 
-- survey — 621 shared paper(s)
+- survey — 620 shared paper(s)
 - framework — 611 shared paper(s)
 - quantitative — 292 shared paper(s)
 - qualitative — 232 shared paper(s)
