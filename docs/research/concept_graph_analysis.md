@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 440 edges, 1 components, 1 communities (modularity -6306.489). Edges = co-occurrence.
+**Generated:** 42 nodes, 444 edges, 1 components, 1 communities (modularity -6540.127). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1811, degree 38, df 11423
-- **survey** — PR 0.0864, degree 38, df 4583
-- **dataset** — PR 0.0712, degree 37, df 3836
-- **Machine Learning** — PR 0.0515, degree 16, df 6021
-- **benchmark** — PR 0.0506, degree 35, df 2536
-- **quantitative** — PR 0.0457, degree 38, df 1689
-- **qualitative** — PR 0.0428, degree 37, df 1513
-- **Cognitive Science** — PR 0.0408, degree 19, df 4333
-- **Language** — PR 0.0352, degree 18, df 3871
-- **Education** — PR 0.0296, degree 19, df 2910
-- **Social Learning** — PR 0.0287, degree 18, df 2609
-- **Memory Science** — PR 0.0226, degree 17, df 3050
+- **framework** — PR 0.1815, degree 38, df 11749
+- **survey** — PR 0.0856, degree 38, df 4655
+- **dataset** — PR 0.0701, degree 37, df 3889
+- **Machine Learning** — PR 0.0502, degree 16, df 6021
+- **benchmark** — PR 0.0494, degree 35, df 2552
+- **quantitative** — PR 0.0464, degree 38, df 1767
+- **qualitative** — PR 0.0433, degree 37, df 1584
+- **Cognitive Science** — PR 0.0399, degree 19, df 4345
+- **Language** — PR 0.0344, degree 18, df 3878
+- **Education** — PR 0.0290, degree 19, df 2925
+- **Social Learning** — PR 0.0282, degree 18, df 2616
+- **Memory Science** — PR 0.0221, degree 17, df 3056
 
 ## Bridge nodes (high betweenness — connect clusters)
 
@@ -39,9 +39,9 @@
 - literature review ↔ grounded theory (weight 2, EB 3.8365)
 - case study ↔ grounded theory (weight 2, EB 3.8365)
 - qualitative ↔ grounded theory (weight 18, EB 3.8365)
-- framework ↔ Neuromorphic (weight 175, EB 3.5173)
-- quantitative ↔ Neuromorphic (weight 9, EB 3.5173)
-- survey ↔ Neuromorphic (weight 180, EB 3.5173)
+- framework ↔ Neuromorphic (weight 175, EB 3.5082)
+- quantitative ↔ Neuromorphic (weight 9, EB 3.5082)
+- survey ↔ Neuromorphic (weight 180, EB 3.5082)
 
 ## Communities (clusters of related concepts)
 
