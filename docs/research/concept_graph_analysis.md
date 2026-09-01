@@ -1,21 +1,21 @@
 # Concept Graph Analysis
 
-**Generated:** 42 nodes, 444 edges, 1 components, 1 communities (modularity -6546.0). Edges = co-occurrence.
+**Generated:** 42 nodes, 444 edges, 1 components, 1 communities (modularity -6548.881). Edges = co-occurrence.
 
 ## Top hubs (by PageRank)
 
-- **framework** — PR 0.1815, degree 38, df 11752
-- **survey** — PR 0.0857, degree 38, df 4660
+- **framework** — PR 0.1815, degree 38, df 11755
+- **survey** — PR 0.0857, degree 38, df 4662
 - **dataset** — PR 0.0701, degree 37, df 3891
 - **Machine Learning** — PR 0.0502, degree 16, df 6021
 - **benchmark** — PR 0.0494, degree 35, df 2552
 - **quantitative** — PR 0.0464, degree 38, df 1769
-- **qualitative** — PR 0.0433, degree 37, df 1584
-- **Cognitive Science** — PR 0.0399, degree 19, df 4345
+- **qualitative** — PR 0.0433, degree 37, df 1585
+- **Cognitive Science** — PR 0.0399, degree 19, df 4347
 - **Language** — PR 0.0343, degree 18, df 3878
-- **Education** — PR 0.0290, degree 19, df 2925
-- **Social Learning** — PR 0.0282, degree 18, df 2618
-- **Memory Science** — PR 0.0221, degree 17, df 3058
+- **Education** — PR 0.0290, degree 19, df 2926
+- **Social Learning** — PR 0.0282, degree 18, df 2619
+- **Memory Science** — PR 0.0221, degree 17, df 3061
 
 ## Bridge nodes (high betweenness — connect clusters)
 

@@ -5,14 +5,14 @@
       "term": "framework",
       "kind": "curated",
       "seed": true,
-      "df": 11752,
+      "df": 11755,
       "match": {
         "type": "text",
         "forms": [
           "framework"
         ]
       },
-      "papers": 11752,
+      "papers": 11755,
       "top_cells": [
         "machine-learning/theory",
         "philosophy-of-mind/theory",
@@ -42,14 +42,14 @@
       "term": "survey",
       "kind": "curated",
       "seed": true,
-      "df": 4660,
+      "df": 4662,
       "match": {
         "type": "text",
         "forms": [
           "survey"
         ]
       },
-      "papers": 4660,
+      "papers": 4662,
       "top_cells": [
         "cognitive-science/method",
         "social-learning/theory",
@@ -61,7 +61,7 @@
       "term": "Cognitive Science",
       "kind": "taxonomy",
       "seed": true,
-      "df": 4345,
+      "df": 4347,
       "match": {
         "type": "field",
         "field": "category",
@@ -73,7 +73,7 @@
         "cognitive-science/mechanism",
         "cognitive-science/application"
       ],
-      "papers": 4345
+      "papers": 4347
     },
     {
       "term": "dataset",
@@ -116,7 +116,7 @@
       "term": "Memory Science",
       "kind": "taxonomy",
       "seed": true,
-      "df": 3058,
+      "df": 3061,
       "match": {
         "type": "field",
         "field": "category",
@@ -128,13 +128,13 @@
         "memory-science/application",
         "memory-science/mechanism"
       ],
-      "papers": 3058
+      "papers": 3061
     },
     {
       "term": "Education",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2925,
+      "df": 2926,
       "match": {
         "type": "field",
         "field": "category",
@@ -146,13 +146,13 @@
         "education/application",
         "education/systems"
       ],
-      "papers": 2925
+      "papers": 2926
     },
     {
       "term": "Neuroscience",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2791,
+      "df": 2792,
       "match": {
         "type": "field",
         "field": "category",
@@ -164,13 +164,13 @@
         "neuroscience/mechanism",
         "neuroscience/systems"
       ],
-      "papers": 2791
+      "papers": 2792
     },
     {
       "term": "Social Learning",
       "kind": "taxonomy",
       "seed": true,
-      "df": 2618,
+      "df": 2619,
       "match": {
         "type": "field",
         "field": "category",
@@ -182,7 +182,7 @@
         "social-learning/mechanism",
         "social-learning/technology"
       ],
-      "papers": 2618
+      "papers": 2619
     },
     {
       "term": "Philosophy Of Mind",
@@ -261,7 +261,7 @@
       "term": "Educational Psychology",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1787,
+      "df": 1788,
       "match": {
         "type": "field",
         "field": "category",
@@ -273,7 +273,7 @@
         "educational-psychology/development",
         "educational-psychology/application"
       ],
-      "papers": 1787
+      "papers": 1788
     },
     {
       "term": "quantitative",
@@ -298,7 +298,7 @@
       "term": "Behavioral",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1759,
+      "df": 1761,
       "match": {
         "type": "field",
         "field": "category",
@@ -310,13 +310,13 @@
         "behavioral/mechanism",
         "behavioral/application"
       ],
-      "papers": 1759
+      "papers": 1761
     },
     {
       "term": "Motor",
       "kind": "taxonomy",
       "seed": true,
-      "df": 1737,
+      "df": 1738,
       "match": {
         "type": "field",
         "field": "category",
@@ -328,20 +328,20 @@
         "motor/mechanism",
         "motor/application"
       ],
-      "papers": 1737
+      "papers": 1738
     },
     {
       "term": "qualitative",
       "kind": "curated",
       "seed": true,
-      "df": 1584,
+      "df": 1585,
       "match": {
         "type": "text",
         "forms": [
           "qualitative"
         ]
       },
-      "papers": 1584,
+      "papers": 1585,
       "top_cells": [
         "language/method",
         "education/method",
@@ -499,14 +499,14 @@
       "term": "systematic review",
       "kind": "curated",
       "seed": true,
-      "df": 745,
+      "df": 746,
       "match": {
         "type": "text",
         "forms": [
           "systematic review"
         ]
       },
-      "papers": 745,
+      "papers": 746,
       "top_cells": [
         "machine-learning/method",
         "motor/method",
@@ -555,14 +555,14 @@
       "term": "literature review",
       "kind": "curated",
       "seed": true,
-      "df": 494,
+      "df": 495,
       "match": {
         "type": "text",
         "forms": [
           "literature review"
         ]
       },
-      "papers": 494,
+      "papers": 495,
       "top_cells": [
         "education/method",
         "cognitive-science/theory",

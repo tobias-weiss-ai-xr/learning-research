@@ -4,7 +4,7 @@
       "id": 0,
       "term": "framework",
       "kind": "curated",
-      "df": 11752
+      "df": 11755
     },
     {
       "id": 1,
@@ -16,13 +16,13 @@
       "id": 2,
       "term": "survey",
       "kind": "curated",
-      "df": 4660
+      "df": 4662
     },
     {
       "id": 3,
       "term": "Cognitive Science",
       "kind": "taxonomy",
-      "df": 4345
+      "df": 4347
     },
     {
       "id": 4,
@@ -40,25 +40,25 @@
       "id": 6,
       "term": "Memory Science",
       "kind": "taxonomy",
-      "df": 3058
+      "df": 3061
     },
     {
       "id": 7,
       "term": "Education",
       "kind": "taxonomy",
-      "df": 2925
+      "df": 2926
     },
     {
       "id": 8,
       "term": "Neuroscience",
       "kind": "taxonomy",
-      "df": 2791
+      "df": 2792
     },
     {
       "id": 9,
       "term": "Social Learning",
       "kind": "taxonomy",
-      "df": 2618
+      "df": 2619
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "id": 14,
       "term": "Educational Psychology",
       "kind": "taxonomy",
-      "df": 1787
+      "df": 1788
     },
     {
       "id": 15,
@@ -100,19 +100,19 @@
       "id": 16,
       "term": "Behavioral",
       "kind": "taxonomy",
-      "df": 1759
+      "df": 1761
     },
     {
       "id": 17,
       "term": "Motor",
       "kind": "taxonomy",
-      "df": 1737
+      "df": 1738
     },
     {
       "id": 18,
       "term": "qualitative",
       "kind": "curated",
-      "df": 1584
+      "df": 1585
     },
     {
       "id": 19,
@@ -166,7 +166,7 @@
       "id": 27,
       "term": "systematic review",
       "kind": "curated",
-      "df": 745
+      "df": 746
     },
     {
       "id": 28,
@@ -184,7 +184,7 @@
       "id": 30,
       "term": "literature review",
       "kind": "curated",
-      "df": 494
+      "df": 495
     },
     {
       "id": 31,
@@ -707,7 +707,7 @@
     {
       "source": 18,
       "target": 30,
-      "weight": 55
+      "weight": 56
     },
     {
       "source": 4,
@@ -837,7 +837,7 @@
     {
       "source": 0,
       "target": 7,
-      "weight": 611
+      "weight": 612
     },
     {
       "source": 7,
@@ -1122,7 +1122,7 @@
     {
       "source": 16,
       "target": 18,
-      "weight": 73
+      "weight": 74
     },
     {
       "source": 16,
@@ -1132,7 +1132,7 @@
     {
       "source": 2,
       "target": 16,
-      "weight": 282
+      "weight": 283
     },
     {
       "source": 24,
@@ -1157,7 +1157,7 @@
     {
       "source": 16,
       "target": 30,
-      "weight": 10
+      "weight": 11
     },
     {
       "source": 9,
@@ -1217,7 +1217,7 @@
     {
       "source": 2,
       "target": 9,
-      "weight": 423
+      "weight": 424
     },
     {
       "source": 9,
@@ -1997,7 +1997,7 @@
     {
       "source": 0,
       "target": 6,
-      "weight": 750
+      "weight": 752
     },
     {
       "source": 6,
@@ -2157,7 +2157,7 @@
     {
       "source": 6,
       "target": 27,
-      "weight": 46
+      "weight": 47
     },
     {
       "source": 1,
@@ -2478,6 +2478,6 @@
   "stats": {
     "concepts": 42,
     "edges": 444,
-    "papers": 45601
+    "papers": 45613
   }
 }
